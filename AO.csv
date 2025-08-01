@@ -1,0 +1,1153 @@
+Sentence,Trans,Form,W-ord,Ptcl,Tns,Mood,SenT,Pfv,A-anim,A-numb,A-rform,A-rstat,A-sp,A-uniq,A-fam,O-anim,O-numb,O-rform,O-rstat,O-sp,O-uniq,O-fam
+mχ urən pal sāw sɔ̇mjaχ taɣintapti ,1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,act,sp,uniq,strg,I,pl,barenp,ref,nonsp,nuniq,nfam
+wȯrəŋ pal sāw sɔ̇mjaχ taɣ͕əntapti,1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,ref,nonsp,nuniq,nfam
+ ūsm ɔ̄tər ɔ̄jka ɔńꞩi χūru̮m āɣi,1,A,AVP,NoPtcl,npst,ind,none,npfv,H,sg,barenp,act,sp,uniq,strg,H,pl,barenp,ref,sp,uniq,weak
+ χajtalaste mań āɣi: ,1,AP,VP,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,barenp,uniq,sp,uniq,weak
+"pȯ̭r tēɣt, ",1,A,PV,NoPtcl,npst,ind,none,npfv,H,pl,zero,top,sp,uniq,strg,I,mass,barenp,ref,sp,nuniq,nfam
+" - Am mȯlal l'ul' wārsum, ",1,A,APV,NoPtcl,pst,ind,none,pfv,1,sg,pron,top,sp,uniq,strg,U,abst,barenp,typid,nonsp,nuniq,nfam
+" Tau̯ juil taχu̮mtaste, ",1,AP,AV,NoPtcl,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+" tau̥ alaste, tuwl",1,AP,AV,NoPtcl,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+" Ań am manər wāreɣu̮m, ",1,A,APV,NoPtcl,npst,ind,quest,pfv,1,sg,pron,act,sp,uniq,strg,U,abst,npron,undef,nonsp,nuniq,nfam
+" Anꞩw salaste xɔt, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,weak
+tau̯ ȱ̭lamane χɔt - aŋχw ɔs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,ref,sp,uniq,strg
+" Mańe ȱ̭lamt nɔŋχ - wasane, ",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,act,sp,uniq,strg
+mańe wiste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,possnp,top,sp,uniq,strg
+" jān, jȯla tārataste",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ tuu̯ ō̭lumane pintsane tuw̯,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,top,sp,uniq,strg
+ Kēlpane ȱ̭lumanen tuu̯ mańiɣtasane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,top,sp,uniq,strg
+" Tɔ̄ru̮m āꞩ wɔ̄t wārs, ",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,uniq,sp,uniq,weak,I,abst,barenp,typid,nonsp,nuniq,nfam
+tujt pāttəste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,barenp,typid,nonsp,nuniq,nfam
+ Jau̯ wil'te tujtı̮ɣlite,1,AP,APV,NoPtcl,npst,ind,none,npfv,H,sg,pron,act,sp,uniq,strg,I,sg,possnp,uniq,sp,uniq,weak
+ ɔ̄limetēn  ńawram ɔꞩsı̮ɣ,1,A,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,H,sg,barenp,typid,nonsp,nuniq,weak
+" mȯꞩ, nī jeɣpı̮ɣēntəl ńawram ɔꞩsı̮ɣ",1,A,APV,NoPtcl,pst,ind,none,pfv,H,du,barenp,fam,sp,uniq,strg,H,sg,barenp,typid,nonsp,nuniq,weak
+"sāɣrap wis, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+"kāsaj wis, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+kiw talu̮p wis,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" mȯrtsı̮ɣ kiwtɒs, ",X,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,du,pron,act,sp,uniq,strg
+ jaɣāɣi=nete pȯ̭ŋk sɔ̄we puwəste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,possnp,ref,sp,uniq,weak
+ kȯna=kwaltəste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+" pāu̯l kan jola=pinɒste, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+"sāɣrape wis, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+kāsaje wis,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+jaktəste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+" piɣriꞩe puwəste, ",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,possnp,fam,sp,uniq,strg
+"kȯt tȯtaste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+" ɔs alaste, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+pɔ̭̇l'iɣ sāɣrəste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+" Ur pil kinsi, ",1,A,PV,NoPtcl,npst,ind,none,npfv,A,sg,zero,act,sp,uniq,strg,I,mass,barenp,typid,nonsp,nuniq,nfam
+wȯr pil kinsi,1,A,PV,NoPtcl,npst,ind,none,npfv,A,sg,zero,top,sp,uniq,strg,I,mass,barenp,typid,nonsp,nuniq,nfam
+" pȯrı̮ɣ kasalaste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,sg,barenp,fam,sp,uniq,strg
+ juu̯=wātəste,1,AP,V,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ ɔ̄limēte unttəs ńawram,1,A,VP,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,A,mass,barenp,typid,sp,nuniq,weak
+pil wāteɣt,1,A,PV,NoPtcl,npst,ind,none,npfv,H,pl,zero,top,sp,uniq,strg,I,mass,barenp,typid,nonsp,nuniq,nfam
+ēlmχȯlɒs jaɣāɣin ul ȯpētiten,1,A,PV,NoPtcl,npst,imp,neg,npfv,2,sg,zero,act,sp,uniq,strg,H,sg,possnp,uniq,sp,uniq,strg
+" kȯl wārne mā kinsɒs, ",1,A,PV,NoPtcl,pst,ind,none,npfv,A,sg,zero,act,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+ kȯl wāri,1,A,PV,NoPtcl,npst,ind,none,npfv,A,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,uniq,nfam
+" Wens tȯtəs, ",1,A,PV,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,mass,barenp,typid,nonsp,nuniq,nfam
+"χasli tȯtəs, ",1,A,PV,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,mass,barenp,typid,nonsp,nuniq,nfam
+pit'i wārs̥,1,A,PV,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,uniq,nfam
+ Tɔ̄rəm maltip χɔ̄tɒl wārs,1,A,APV,NoPtcl,pst,ind,none,pfv,A,sg,barenp,top,sp,uniq,strg,I,sg,barenp,typid,sp,uniq,nfam
+"χal' kȯnsəl ꞩurtəste, ",1,AP,PV,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+sās nujiste,1,AP,PV,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,weak
+ juw=tȯtaste,1,AP,V,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ elmχolas āɣitēn taktəste,1,AP,V,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+"ti sās pȯlχəl sarteln, ",1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,strg,I,sg,demnp,act,sp,uniq,strg
+"χanseln, ",1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+matər χansa χanseln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+NƆ̄Ɔ̄ χūru̮m pı̮ɣ ɔńꞩi,1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,uniq,sp,uniq,nfam,H,pl,barenp,ref,sp,uniq,nfam
+ Man taχ NƆ̄Ɔ̄ āmpēn wɔ̄ŋχa āwi χȯrmtawe,1,P,APV,NoPtcl,npst,ind,none,npfv,A,sg,possnp,act,sp,uniq,strg,I,sg,barenp,uniq,sp,uniq,weak
+ Naŋ tuw puweln,1,AP,AV,NoPtcl,npst,imp,none,pfv,2,sg,pron,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ Ti sās ta pɔrat sājt ɔwəln tuu̯=puu̯tawēln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,strg,I,sg,demnp,top,sp,uniq,strg
+ tau̯ sājte kȯna=χārtite,1,AP,APV,NoPtcl,npst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,I,sg,dpossnp,top,sp,uniq,strg
+"aɣikwe, am manər lāweɣu̮m, ",1,A,APV,NoPtcl,npst,ind,none,pfv,1,sg,pron,act,sp,uniq,strg,I,abst,npron,undef,nonsp,nuniq,nfam
+"manər χuńꞩtasu̮m, ",1,A,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,strg,I,abst,npron,undef,nonsp,nuniq,nfam
+nɔmēln,1,AP,V,NoPtcl,npst,imp,none,npfv,2,sg,zero,top,sp,uniq,strg,I,abst,zero,undef,nonsp,nuniq,nfam
+naŋ mȯlal elmχȯlas jaɣaɣin manarı̮ɣ sawatilən,1,AP,APV,NoPtcl,npst,ind,quest,npfv,2,sg,pron,act,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+ tɔ̄rum āꞩēnn men ārı̮taptawesmēn,1,P,APV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,fam,sp,uniq,strg,1,du,pron,act,sp,uniq,strg
+ matarən ul piꞩtawen,1,P,AV,NoPtcl,npst,imp,neg,pfv,2,sg,zero,top,sp,uniq,strg,U,abst,npron,undef,nonsp,nuniq,nfam
+ tau̯ puwəste ,1,AP,AV,NoPtcl,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+tuw χansaŋ sās tuu̯ māɣəste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+χansaŋ sās kāsalasət,1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ Naŋ pı̮ɣkwe sipln tɔ̄rən χɔt-pēstēln,1,AP,APV,NoPtcl,npst,imp,none,pfv,2,sg,pron,act,sp,uniq,strg,I,sg,possnp,ref,sp,nuniq,weak
+ tɔ̄re pēstɒste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ sājte kiwərn māɣəste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+    matər ꞩaŋkwən piꞩtuwes ke,1,P,AV,NoPtcl,pst,irr,none,pfv,I,sg,barenp,typid,sp,nuniq,nfam,H,sg,zero,top,sp,uniq,strg
+"arı̮ɣ wāja ārı̮ɣ ȯ̭lan χɔt aŋχwen, ",1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,strg,I,mass,barenp,ref,sp,nuniq,nfam
+ nēte mastəste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+naŋ nēn nɔŋχ ālmeln,1,AP,APV,NoPtcl,npst,imp,none,pfv,2,sg,pron,top,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+" talkwa ȱsma pineɣən, ",1,A,PV,NoPtcl,npst,ind,none,pfv,2,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+"kars ȯsma pineɣən,",1,A,PV,NoPtcl,npst,ind,none,pfv,2,sg,zero,act,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+"mēn mēn ul nȯu̯χaten,",1,A,PV,NoPtcl,npst,imp,neg,pfv,2,sg,zero,act,sp,uniq,strg,1,du,pron,act,sp,uniq,strg
+ pinsane,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,zero,ref,sp,uniq,nfam
+ tuu ɔs akw mān pinijane,1,AP,AV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,ref,sp,nuniq,weak
+ pinijane,1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,ref,sp,nuniq,weak
+ ńilit et … pinijane,1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,ref,sp,nuniq,weak
+ pinijane,1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,I,pl,zero,ref,sp,nuniq,weak
+wası̮ɣ am ꞩańum χɔt wāɣlum,1,AP,AV,NoPtcl,npst,ind,none,npfv,1,sg,zero,top,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ Mȯl χɔ̄təl ɔ̄ul ēt majim utane pȱtin wisane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,fam,sp,uniq,strg
+kȯl alan ꞩēltumtasane,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ Kars ȱsma pini,1,A,PV,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,strg
+ takwa ȱsma ꞩɔ̄piti,1,A,PV,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,strg
+ kitit ēt majlı̆mutane wisane ,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,fam,sp,uniq,strg
+" man āmpən tēwet, ",1,P,AV,NoPtcl,npst,ind,none,pfv,A,sg,barenp,typid,nonsp,nuniq,nfam,I,pl,zero,act,sp,uniq,strg
+man matarən tēwet,1,P,AV,NoPtcl,npst,ind,none,pfv,A,sg,barenp,typid,nonsp,nuniq,nfam,I,pl,zero,act,sp,uniq,strg
+  lisane,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ɔnipən jȯt wowen,1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,strg,H,sg,possnp,fam,sp,uniq,strg
+" karꞩ ȱsma pini, ",1,A,PV,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,uniq,strg
+ talkwa ȯsma ꞩɔ̄piti ,1,A,PV,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,uniq,strg
+ χūru̮m pēramań majimutane wisane ,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,possnp,fam,sp,uniq,strg
+ ńawramamēn mēn pȯrmasanɒmēn ul nȯw̯χàtas,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,I,pl,possnp,ref,sp,uniq,weak
+" - Ja ta, āɣikwe, matər tȯtsən, ",1,A,PV,NoPtcl,pst,ind,none,pfv,2,sg,zero,act,sp,uniq,strg,U,abst,npron,undef,sp,uniq,strg
+" kos āmpən tēwet, ",1,P,AV,NoPtcl,npst,ind,none,pfv,A,sg,barenp,typid,nonsp,nuniq,nfam,I,pl,zero,act,sp,uniq,strg
+"kos matarən tēwet, ",1,P,AV,NoPtcl,npst,ind,none,pfv,A,sg,barenp,typid,nonsp,nuniq,nfam,I,pl,zero,act,sp,uniq,strg
+ lisane,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+" naŋ ērəŋ nȯmt ɔńꞩeɣən, ",1,A,APV,NoPtcl,npst,ind,none,npfv,2,sg,pron,act,sp,uniq,strg,I,abst,barenp,ref,sp,uniq,weak
+" Tɔ̄ru̮m ti ēt, jɔmas ēt, sistam ēt wāri",1,A,APV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,fam,sp,uniq,strg,I,sg,demnp,ref,sp,uniq,nfam
+" karꞩ ɔsma pini, ",1,A,PV,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,typid,sp,uniq,strg
+"jɔmas tɔr, jɔmas sāɣı̮ warsı̮ɣ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ Tɔ̄rum jɔmas ēt wārum,1,A,APV,NoPtcl,pst,evid,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ numən pɔsəŋ sɔ̄wət lȯwinten,1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+" mataχ mat sāt sɔ̄w lȯwintas,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+ sāŋkwəl tapən nɔŋχ=wȯjeln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+" jɔmɒs tɔr, jɔmas ȱ̭lam masas",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,weak
+" am ꞩańum χumus jikwilum, ",1,AP,APV,NoPtcl,npst,ind,quest,pfv,1,sg,pron,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+"ꞩāńum nan akw ti alaslən, ",1,AP,PAV,ti,pst,ind,none,pfv,2,pl,pron,act,sp,uniq,strg,A,sg,possnp,top,sp,uniq,strg
+" χɔsa tɔ̄rmēn χɔsaı̮ɣ ɔ̄lītēn, wat'ijiɣ wat'jiɣ tēn",1,AP,PV,NoPtcl,npst,ind,none,npfv,H,du,zero,act,sp,uniq,strg,I,abst,dpossnp,ref,sp,uniq,nfam
+ jaɣpı̮ɣe ur miš nē ēka ȯńꞩi,1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,possnp,act,sp,uniq,strg,H,sg,barenp,uniq,sp,uniq,nfam
+" mań mȯꞩ χum wȯrəŋ pal sāw sȯmjaχ tāɣ͕intapti, u͕rəŋ pti",1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,top,sp,uniq,strg,I,pl,barenp,ref,nonsp,nuniq,nfam
+ mań mȯꞩ χum ak lu͕wnəl jānı̮ɣ sāt lu͕w janmaltɒs,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,top,sp,uniq,strg,A,pl,barenp,ref,nonsp,nuniq,nfam
+ tuwl ɔ̄ꞩ kȯni paln pāχtsane,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,zero,ref,nonsp,nuniq,strg
+" tau āwite punsiɣtaste,",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,I,sg,possnp,uniq,sp,uniq,weak
+" tau ēkate tɔ̄re ēla niru̯mtaste, kastəŋke",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,fam,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+" χɔtal jalum wajane, ńarane χɔt āŋχsane,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,possnp,ref,sp,uniq,weak
+" kȯl kȯlkann paχtsane,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ ekatēn nɔχ at nu̇wet,1,P,AV,NoPtcl,npst,ind,neg,pfv,H,sg,possnp,act,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+" ńarane, wajane almajasane,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+" χɔtal alam ńɔχse-uje ālmaɣasane,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,ref,sp,uniq,nfam
+" (ńarane, wajane), χɔuje mań jaɣaɣite kȯln ta ꞩēltum tasane",1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+ ńɔχs pit'i uj pit'i ꞩɔpitime ēkatēn,1,P,PVA,NoPtcl,pst,evid,none,pfv,H,sg,possnp,act,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,nfam
+" kiwtalu̮p wȧs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,nfam
+ saɣ kasajaɣe ta mȯrtı̮əɣ ta kı̮wtsaɣe,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,du,possnp,act,sp,uniq,strg
+" ɔꞩ kȯni paln rɔssane,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,zero,ref,sp,uniq,strg
+" - janı̮ɣ sāt luw ak luwnəl janmal talsum,",1,A,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,A,pl,barenp,ref,sp,uniq,strg
+ ēkate kitapaste:,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,possnp,fam,sp,uniq,strg
+" - ak luwnəl jānı̮ɣ sat luw janmal talsum,",1,A,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,A,pl,barenp,ref,sp,uniq,strg
+ tuw χɔŋχan sȯrumpattuwest,1,P,AV,NoPtcl,pst,ind,quest,pfv,U,sg,npron,undef,nonsp,nuniq,nfam,A,pl,zero,act,sp,uniq,strg
+" am luwanən am χun puwtsanum,",1,AP,PAV,NoPtcl,pst,ind,quest,pfv,1,sg,pron,act,sp,uniq,sap,A,pl,possnp,act,sp,uniq,strg
+" jaɣaɣin puwtwēst̥,",1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,fam,sp,uniq,strg,A,pl,zero,top,sp,uniq,strg
+" luw lakane wı̮s,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,ref,sp,nuniq,strg
+" sune unttaste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ nȯmte patum luwe pu͕wste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,possnp,ref,sp,uniq,weak
+ ta kɛ̄rste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,zero,act,sp,uniq,strg
+ ȯs jiw ɔu̯əln pērmtaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,zero,act,sp,uniq,strg
+" awi punsı̮ɣtaste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,weak
+ tan luwe tārataste,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ tuw jaɣtı̮ɣe luwe tuwl ta pȯjłtaste,1,AP,AVP,ta,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ sunnəl sāɣrape wı̮s,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+" ań nāŋke ɔse χɔt nuiste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,possnp,ref,sp,uniq,strg
+ mań mȯꞩ χum kit nāŋk sȯl' ta jȯrɣəs,1,A,APV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,du,barenp,act,sp,uniq,strg
+ mań mȯꞩ nēn sunsawe,1,P,AV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ - kataɣən punejn nāŋk tarməl,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,du,possnp,uniq,sp,uniq,weak
+ an mań mȯꞩ nē kataɣe nāŋk tarməl ta pun saɣe,1,AP,APV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,du,possnp,act,sp,uniq,strg
+ tuwl mań mȯꞩ χumn mań mȯꞩ nē jaɣāɣite kātaɣe sas sāɣrapawesı̮ɣ,1,P,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,du,possnp,act,sp,uniq,strg
+" mań mȯꞩ χum tuwl jaɣāɣite χɔt ɔssı̮ɣ͕laste,",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,top,sp,uniq,strg,H,sg,possnp,top,sp,uniq,strg
+" χȯsa tɔ̄ru̮m χȯsaı̮ɣ ūnlite,",1,AP,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,I,abst,barenp,ref,sp,uniq,nfam
+ wāt'i tɔru̮m wat'ijiɣ ūnlite,1,AP,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,I,abst,barenp,ref,sp,uniq,nfam
+ kātlampe mań mȯꞩ nē sȱpen tȯtəste,1,AP,PV,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+" man mȯꞩ nē kāt lampe ńȯlantite,",1,AP,APV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,act,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ an nētḗn tȯtawe,1,P,AV,NoPtcl,npst,ind,none,npfv,H,sg,dpossnp,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+" ań miš nēte pı̮ɣ ɔńsi,",1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,dpossnp,fam,sp,uniq,strg,H,sg,barenp,ref,sp,uniq,weak
+ tuw mań moꞩ nē miš χumn wȯjwes,1,P,PAV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,barenp,uniq,sp,uniq,nfam
+ mań mȯꞩ nē pı̮ɣ ȯńꞩəs,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,barenp,ref,sp,uniq,weak
+ ɔ̄nipēn χara kann tȯtwes,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,fam,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ tuwl ɔ̄nipēn χaństawes:,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ mań mȯꞩ nē pı̮ɣe ńarm χaln nɔχ ālməste,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,possnp,fam,sp,uniq,strg
+" tarəŋ ke χɔ̄nti,",1,A,PV,NoPtcl,npst,irr,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,nonsp,nuniq,nfam
+" tarəŋ jiwe kȯji,",1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,typid,nonsp,nuniq,nfam
+" tȯwəŋ jiw ke χɔ̄nti,",1,A,PV,NoPtcl,npst,irr,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,nonsp,nuniq,nfam
+ tȯwəŋ jiwe kȯji,1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,typid,nonsp,nuniq,nfam
+ χȯsa tɔ̄rm ꞩȯsaı̮ɣ jȯmı̮ɣti,1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,ref,sp,nuniq,nfam
+ mat'i jȯmı̮ɣti,1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,ref,sp,nuniq,nfam
+" ań tūre minas pɔl,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+ luwe ajti,1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,A,sg,possnp,ref,sp,uniq,weak
+" luwe aitas,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+" - jāɣən tēm aŋkən tēm pı̮͕ɣ ti jānit jɔ̄r ti ɔńꞩeɣən,",1,A,PV,ti,npst,ind,none,npfv,2,sg,zero,act,sp,uniq,sap,I,abst,demnp,ref,sp,uniq,nfam
+" ti jānit pɔχur ti ɔńꞩeɣən,",1,A,PV,ti,npst,ind,none,npfv,2,sg,zero,top,sp,uniq,sap,I,abst,demnp,ref,sp,uniq,nfam
+ tuul aŋke kita paste;,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+ ānke juwl'e nēm χɔu̮m at laws,0,A,APV,NoPtcl,pst,ind,neg,pfv,H,sg,possnp,act,sp,uniq,strg,U,abst,npron,undef,nonsp,nuniq,nfam
+" χumite ńale=jɔwle āmajɒste,",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+" mań mȯꞩ χum ńale ta taktite, mań pirwa nupəl",1,AP,APV,ta,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+" - mań mȯꞩ χum, ꞩalı̮ɣke, am naŋk ńɔwəł'nəł'əχ ńɔ̄wəł’nəl tēnut ajnut ānu̮nəl χɔt kinseɣən?",1,A,PV,NoPtcl,npst,ind,quest,npfv,2,sg,zero,act,sp,uniq,sap,I,mass,barenp,typid,nonsp,nuniq,nfam
+" MMχ ēkate χar nɔ̄wəl', uj ńɔwəl pȱt paj ti",1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,possnp,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,weak
+ mana sutɒl sutitilmēn,1,AP,PV,NoPtcl,npst,ind,quest,pfv,1,du,zero,act,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+" - naŋ mana sutəl pəl miɣlən,",1,AP,AV,NoPtcl,npst,ind,none,pfv,2,sg,pron,act,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+ am ta sutəl sutitilum,1,AP,AV,NoPtcl,npst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+ wattal ku͕r jiw ūnttəs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" ań ur miš nē, wȯr miš nē kit χumil kȯn ti kāltəstēn",1,AP,PAV,ti,pst,ind,none,pfv,H,du,barenp,act,sp,uniq,strg,H,sg,barenp,act,sp,uniq,strg
+ ań wattal ku͕r jiwəl lap = ūnttɔstēn,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+" tuwl uł'al pēlamtusten,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ āŋke tȯu̯ləŋ uj χuril putjip tal'aχn ta tȯtəste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+ Luv kers,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,barenp,ref,sp,uniq,nfam
+ - am jaɧpьɧaɧum kinꞩijaɧum,1,AP,APV,NoPtcl,npst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,H,du,possnp,act,sp,uniq,strg
+" - kinsken, hotьl vьɧaɧьn",1,AP,V,NoPtcl,npst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,H,du,zero,act,sp,uniq,strg
+ - am hot kinsijaɧum,1,AP,AV,NoPtcl,npst,ind,quest,pfv,1,sg,pron,act,sp,uniq,sap,H,du,zero,act,sp,uniq,strg
+" - aman̩ pes sat mis kol, sat luv kol pattat sat toulup luv onꞩsum",1,A,APV,NoPtcl,pst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,A,sg,barenp,ref,sp,uniq,nfam
+" an̩ naŋ sat toulup luv puvuŋkve ke vermilьn,",1,AP,APV,NoPtcl,npst,irr,none,pfv,2,sg,zero,act,sp,uniq,sap,A,sg,barenp,act,sp,uniq,strg
+ ta puvilьn,1,AP,V,ta,npst,ind,none,pfv,2,sg,zero,top,sp,uniq,sap,A,sg,zero,top,sp,uniq,strg
+ Tan kermant vis,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+ ta ꞩermat kvalьɧ ta konsьɧtahtas,1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,uniq,sp,uniq,nfam
+ anum puvuŋkve ta vermьslьn,1,AP,PV,ta,pst,ind,none,pfv,2,sg,zero,act,sp,uniq,sap,1,sg,pron,act,sp,uniq,sap
+ - pьɧkēt luvьn puvuŋkve vermьslьn?,1,AP,PV,NoPtcl,pst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,A,sg,possnp,act,sp,uniq,strg
+ - Manrьɧ at vermulum,1,AP,V,NoPtcl,npst,ind,neg,pfv,1,sg,zero,act,sp,uniq,sap,A,sg,zero,act,sp,uniq,strg
+ Hosa mā hosaьɧ ta minite!,1,AP,PV,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,ref,sp,nuniq,nfam
+ Luve tuv neɧuŋkve pataste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ Satit nakьn luve tuv noŋh hasumtaste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ ekvaьɧ ojkaьɧ man pьɧriꞩ ꞩeraŋka sartmьtas,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+ Pelamtaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ akv ani viste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ akv sulja vina vis,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" akv tarelka ani sorniŋ tep maɧьŋ tep visane,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+" koni kol pakna totsane,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ kona kvaltaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,zero,act,sp,nuniq,nfam
+ luven tittaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,zero,top,sp,nuniq,nfam
+ ajtaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,zero,top,sp,nuniq,nfam
+" Hosa ma hosaьɧ ta minite,",1,AP,PV,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,ref,sp,nuniq,nfam
+ vati ma vatiɧ ta minite,1,AP,PV,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,ref,sp,nuniq,nfam
+ Luve tuv ta neьɧuŋkve pateste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ Satit nakna luve tuv noŋh ta neьɧьste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,possnp,top,sp,uniq,strg
+ - Jorit totne mā kinseɧum,1,A,PV,NoPtcl,npst,ind,none,npfv,1,sg,zero,act,sp,uniq,sap,I,sg,barenp,ref,sp,uniq,nfam
+ nete pattita lui hum pьɧna alves,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+" Hotal̩ olne sorniŋ tepьl akven tittave,",1,P,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ akven hurmintьɧ san̩ka palьl majves,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+" akvumna majvesum,",1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,1,sg,zero,act,sp,uniq,sap
+ ti hurmintьɧ san̩ka pālum akv jot ti tenuvanmen,1,AP,PV,ti,npst,irr,none,pfv,1,du,zero,act,sp,uniq,sap,I,pl,possnp,act,sp,uniq,strg
+" akvumna majvesum,",1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,1,sg,zero,act,sp,uniq,sap
+ ti hurmintьɧ san̩ka palum akv jot ti tenuvanmen,1,AP,PV,ti,npst,irr,none,pfv,1,du,zero,act,sp,uniq,sap,I,pl,possnp,act,sp,uniq,strg
+" - am ti tene ꞩol at on̩ꞩeɧum,",1,A,APV,NoPtcl,npst,ind,neg,npfv,1,sg,pron,act,sp,uniq,sap,I,abst,barenp,ref,nonsp,nuniq,nfam
+ lui hum pьɧna álvēsum,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,fam,sp,uniq,strg,1,sg,zero,top,sp,uniq,sap
+ tan naŋьn kasalite,1,AP,APV,NoPtcl,npst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,2,sg,pron,top,sp,uniq,sap
+ naŋ toh ātimtal ꞩolentьl luvьn junьɧteln,1,AP,APV,NoPtcl,npst,imp,none,pfv,2,sg,pron,act,sp,uniq,sap,A,sg,possnp,top,sp,uniq,strg
+" Tuvьl naŋ os kotьrteln, (junьɧteln)",1,AP,AV,NoPtcl,npst,imp,none,pfv,2,sg,pron,act,sp,uniq,sap,A,sg,zero,top,sp,uniq,strg
+ naŋ luvьn poher tan luve urite,1,AP,APV,NoPtcl,npst,ind,none,npfv,H,sg,pron,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+" naŋ luvьŋ ureln,",1,AP,APV,NoPtcl,npst,imp,none,npfv,2,sg,pron,act,sp,uniq,sap,A,sg,possnp,top,sp,uniq,strg
+ ꞩar tan luve maɧьlna ureln,1,AP,V,NoPtcl,npst,imp,none,npfv,2,sg,zero,top,sp,uniq,strg,A,sg,zero,act,sp,uniq,strg
+" Tan luve ta junьɧtaste,",1,AP,APV,ta,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+" Homꞩil junьɧtaste kis lakv joŋham lakvьŋ torum janitьl,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,zero,act,sp,uniq,sap
+" Lui hum pьɧ luve neɧьste, hotit nakna",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ ekvaьɧ ojkaьɧ man̩ pьɧriꞩ luve neɧьste satit nakna,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ - Mol hotal jimant matьr ul vasьn?,1,A,PV,NoPtcl,pst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,U,abst,npron,undef,nonsp,nuniq,nfam
+ sopluve kos saɧrapasum,1,A,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,possnp,uniq,sp,uniq,weak
+" sirajum hot ojtaslum,",1,AP,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,possnp,ref,sp,uniq,weak
+ Vi̊ŋkve at vermilum,1,AP,PV,NoPtcl,npst,ind,neg,npfv,1,sg,zero,act,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+" ti olmajilum,",1,AP,V,ti,npst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+ silajin ti vьɧlum,1,AP,PV,ti,npst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,possnp,act,sp,uniq,strg
+ - vi̊ŋkve at vermilьn,1,AP,PV,NoPtcl,npst,ind,neg,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+" naŋ ta apsijiɧ patum humin, am lilim ke nelteɧьn,",1,A,PV,NoPtcl,npst,irr,none,pfv,2,sg,zero,act,sp,uniq,sap,I,abst,possnp,uniq,sp,uniq,weak
+ siraje mьɧlum,1,AP,PV,NoPtcl,npst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,dpossnp,fam,sp,uniq,strg
+ Am lilim ke nelteɧьn,1,A,PV,NoPtcl,npst,irr,none,pfv,2,sg,zero,act,sp,uniq,sap,I,abst,possnp,act,sp,uniq,strg
+ - Am naŋ lilin manurьl jaltaptilum,1,AP,APV,NoPtcl,npst,ind,quest,pfv,1,sg,pron,act,sp,uniq,sap,I,abst,possnp,act,sp,uniq,strg
+ Am lilim neltanut amki on̩ꞩeɧum,1,A,APV,NoPtcl,npst,ind,none,npfv,1,sg,pron,act,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+" Am lilim ke nelteɧьn,",1,A,PV,NoPtcl,npst,irr,none,pfv,2,sg,zero,act,sp,uniq,sap,I,abst,possnp,top,sp,uniq,strg
+ Lavi - Neltilum,1,AP,V,NoPtcl,npst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,abst,zero,act,sp,uniq,strg
+ Ekva Pьɧriꞩ lilite neltite,1,AP,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,I,abst,possnp,act,sp,uniq,strg
+" - Am puŋkum pineln, ꞩar sohtьl",1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,possnp,uniq,sp,uniq,weak
+" Ekvaьɧ-ojkaьɧ pьɧriꞩna sunsave,",1,P,AV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" Vujeln,",1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+" am ti sipluvum saɧrapim mate sarteln,",1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,possnp,fam,sp,uniq,strg
+ am Sōpum liliŋ vitьl ajteln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,possnp,uniq,sp,uniq,weak
+ - Aman jorum totaslьn?,1,AP,PV,NoPtcl,pst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,I,abst,possnp,fam,sp,uniq,strg
+ - Totaslum,1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,abst,zero,act,sp,uniq,strg
+ Molal Mutraŋ ekva aɧin hajtalaslum,1,AP,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,H,sg,barenp,fam,sp,uniq,strg
+ Mutraŋ ekva mir ta kem sav on̩ꞩi,1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,act,sp,uniq,strg,H,pl,barenp,ref,nonsp,nuniq,strg
+" Osьŋ l̩om uj, osьŋ palum kem mir on̩ꞩi",1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,H,pl,barenp,ref,nonsp,nuniq,strg
+" mana kem ali,",1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,undef,nonsp,nuniq,nfam
+" mana kem ali,",1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,undef,nonsp,nuniq,nfam
+ pusьn aluŋkve at ta vermesanum,1,AP,PV,ta,pst,ind,neg,pfv,1,sg,zero,top,sp,uniq,sap,H,pl,npron,ref,sp,nuniq,strg
+ Luv posne homsite viste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,ref,sp,uniq,weak
+" Jujil kos n̩aunlitaste,",1,AP,V,NoPtcl,pst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+" Jujil kos n̩aulьɧtaste,",1,AP,V,NoPtcl,pst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ hot ustьpaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ Akv ekva setap vari,1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,ref,sp,uniq,nfam,I,mass,barenp,typid,nonsp,nuniq,nfam
+ Nal larmapti,1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,I,mass,barenp,typid,nonsp,nuniq,nfam
+ Mutraŋ ekva koꞩaj nev ti johtavev,X,P,AV,ti,npst,ind,none,pfv,H,sg,possnp,fam,sp,uniq,strg,1,pl,zero,act,sp,uniq,sap
+ - Nalьn tьɧ maj- leln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,possnp,act,sp,nuniq,strg
+" - Nalьn hata, tьɧ majeln",1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,possnp,act,sp,uniq,strg
+" Nale almajaste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,top,sp,uniq,strg
+ akve vil̩t jatet apɧen ta puvtmaves,1,P,PAV,ta,pst,ind,none,pfv,H,sg,dpossnp,top,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+" akv ojkariꞩ ker jūnьɧti,",1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,ref,sp,uniq,nfam,I,mass,barenp,typid,nonsp,nuniq,nfam
+" - Voŋhpan tьɧ majleln,",1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,possnp,ref,sp,nuniq,weak
+" - Hota, lavi, akim ojka, tьɧ majleln",1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+ Aphen voŋhpe miste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,top,sp,uniq,strg
+" Aphen almajaves,",1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,dpossnp,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" - Ekvaьɧ ojkaьɧ man̩ pьɧriꞩ, man totne ujn totvesьn?",1,P,AV,NoPtcl,pst,ind,quest,pfv,A,sg,barenp,typid,nonsp,nuniq,nfam,2,sg,zero,act,sp,uniq,sap
+ Poꞩkьn penteɧьn,1,A,PV,NoPtcl,npst,ind,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,dpossnp,act,sp,uniq,strg
+ Liliŋ vit poꞩka unlum mān usam vit poꞩka untten,1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+ Usum vit poꞩka unlum mān liliŋ vit poꞩka untteln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+ Ta pentsaɧe,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,du,zero,act,sp,uniq,strg
+ - Saim ekva ti alilьn,1,AP,PV,ti,npst,ind,none,pfv,2,sg,zero,act,sp,uniq,sap,H,sg,barenp,act,sp,uniq,strg
+ Moꞩan tarmatьɧleln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,H,sg,zero,top,sp,uniq,strg
+ Ta tarmataste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ - Amki on̩sam aɧimna ti alvesum,1,P,AV,ti,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,1,sg,zero,act,sp,uniq,sap
+ hoŋhsa hurɧe lévātas,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ i maɧьste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" Ꞩamralaste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ man̩salaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ pal̩tan ꞩepen maɧьste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" luven jol parmaptave,",1,P,AV,NoPtcl,npst,ind,none,npfv,A,sg,possnp,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ Maɧьste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" Ꞩamralaste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ man̩salaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ Sepen maɧьste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ Am molal ēt kotil jisaŋ naj ꞩan̩umna jor humьɧ lavvesum,1,P,APV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,uniq,sp,uniq,nfam,1,sg,pron,top,sp,uniq,sap
+ Ti ma tarmьl olne n̩an̩ pukitna am humle varavum,1,P,APV,NoPtcl,npst,ind,quest,pfv,I,pl,barenp,typid,nonsp,nuniq,nfam,1,sg,pron,top,sp,uniq,sap
+" Ꞩepnьl kon levataste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" kol maɧьste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+" Ꞩamralaste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ man̩salaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ Ꞩeppa maɧьste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" Kon levataste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" maɧьste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" Ꞩamralaste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" man̩salaste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ ꞩepna maɧьste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" Liliŋ vitьl ajtsaɧe,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,du,zero,top,sp,uniq,strg
+" Man̩ıŋ jemtsaɧe,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,du,zero,top,sp,uniq,strg
+ Artalas nila kol lapne janit mā,1,A,VP,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ Hoŋhsa hurьɧ ꞩepnьl lévātas,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+" Kon almajaste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ Os mot hoŋhsa hurьɧ kivьrnьl kon levataste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+ Os motan levatas,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,npron,top,sp,uniq,strg
+" Os hoŋhsa hurьɧ kivьrnьl kol kon viste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+" Os motan levatas,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,npron,top,sp,uniq,strg
+ sat nak l̩ulit kumьska kole kon levatas,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,top,sp,uniq,strg
+ Ekvaьɧ ojkaьɧ man̩ pьɧriꞩ paul tene janьɧ pūri ta vars,1,A,APV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ Sat nak l̩ulıt kumьska kolen us taɧьl mire tusьn tuv taltsane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,pl,dpossnp,act,sp,uniq,strg
+ Ekvaьɧ ojkaьɧ man̩ pьɧriꞩ Mutraŋ ekva aɧi Lui hum pьɧna miste,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,barenp,fam,sp,uniq,strg
+ Lui hum janьɧ aɧi (LHP eꞩe) Ekva Pьɧriꞩna miste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,barenp,uniq,sp,uniq,nfam
+ Lui hum pьɧ man̩ eꞩe Ekvaьɧ ojkaьɧ man̩ pьɧriꞩna neьɧ vajves,1,P,PAV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,top,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+"nehotpa tav kinsi hum,",1,A,AVP,NoPtcl,npst,ind,none,npfv,H,sg,barenp,typid,nonsp,nuniq,nfam,H,sg,barenp,typid,nonsp,nuniq,nfam
+a humhotpa kinsi ne.,1,A,AVP,NoPtcl,npst,ind,none,npfv,H,sg,barenp,typid,nonsp,nuniq,nfam,H,sg,barenp,typid,nonsp,nuniq,nfam
+"ser vor vur vor s<ā>mt, ta h<ū>ripa jɔmas kan ho<ɔ̄>nt<s̥>.",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,nonsp,nuniq,nfam
+"To<ɔ̄>ro<u>mn t<ē>lo<u>m, m<ā>n t<ē>lo<u>m janьɧ jiva<æ>tnьl kol <ū>nt<t>ь<ə>s.",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,nonsp,nuniq,nfam
+"olne ju<>>rt mestaɧ jivnьl ne vareɧom."" {wārèɣu̮m}",1,A,PV,NoPtcl,npst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,H,sg,barenp,typid,nonsp,nuniq,nfam
+"Jivńьl ne v<ā>rs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,barenp,ref,sp,uniq,strg
+"jo<ɔ>mas ūlam<l̥> masta<ɒ>ste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+"to<ɔ̄>r<l̥> pi<u>n<ł>taste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+paln <ū>n<t>ta<ɒ>ste.,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+su<>>nsite,1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+"""am jaɧpiŋ<ɣ>um kinsaŋke jaleɧum.",0,A,APV,NoPtcl,npst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,H,sg,possnp,fam,sp,uniq,strg
+"Hosa torme, hosaɧ j<ō>mite,",1,AP,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,possnp,ref,sp,uniq,nfam
+vat<'>i torme vat<'>iɧ j<ō>mite {wat't'iɣ},1,AP,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,possnp,ref,sp,uniq,nfam
+"su<>>nsiɣlite,",1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+kos kitьɧl̩ite,1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+"su<>>ns<ı̮>ɧlaŋke pat{<ə>}ste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+jaɧpiɧe jivne varo{u̮}m.,1,A,APV,NoPtcl,pst,evid,none,pfv,H,sg,possnp,fam,sp,uniq,strg,H,sg,barenp,typid,sp,uniq,strg
+Man̩ moꞩn<ē>n jiv n<ē> <ā>lmajaves,1,P,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,barenp,top,sp,uniq,strg
+Man̩ moꞩn<ē> jiv n<ē> <ū>lam[i]t hot ahsane,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,top,sp,uniq,strg,I,pl,barenp,act,sp,uniq,strg
+tav no[ɔ̄]h massane.,1,AP,AV,NoPtcl,pst,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+"Man̩ moꞩn<ē> s<ā>ɧrap vis,",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,weak
+"jiv n<ē> s<ē>j sam, pors-sam janittьɧ rāv s<ā>ɣr<a>ɒste.",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,barenp,act,sp,uniq,strg
+Jiv n<ē> jiv sakane Man̩ moꞩn<ē>n kon pors <ā>n̩a jo<ɔ̄>lь<i> pal<n̥> punvest.,1,P,PAV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,top,sp,uniq,strg,I,pl,possnp,ref,sp,uniq,weak
+Hosa olmen vati olmen jujipalt piɧ oʂseɧa.,1,A,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,H,sg,barenp,typid,sp,uniq,nfam
+<ā>ꞩen n̩<ā>ll j<ɔ̄>vtьl v<ār>ves.,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+n̩<ā>l pahtaŋke pats:,0,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,nuniq,strg
+"Man̩ moꞩhum piɧ ti l<ā>tь<ə>ŋ h<ȯ>ls,",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,demnp,ref,sp,uniq,weak
+naŋ p<ē>t ul v<ā>ren,1,A,APV,NoPtcl,npst,imp,neg,pfv,2,sg,pron,act,sp,uniq,sap,I,abst,barenp,typid,nonsp,nuniq,nfam
+(l'ul' ul wāren),1,A,PV,NoPtcl,npst,imp,neg,pfv,2,sg,zero,top,sp,uniq,sap,I,abst,barenp,typid,nonsp,nuniq,nfam
+"n̩<ā>lane, jovte <jɔ̄wtane> vi<u>s",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,fam,sp,uniq,strg
+n̩<ā>l pahtaŋkv pats.,0,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ak n̩<ā>le pat<a>mtaste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+nemat hotpan at kinsave.,1,P,AV,NoPtcl,npst,ind,neg,npfv,H,sg,npron,typid,nonsp,nuniq,nfam,H,sg,zero,top,sp,uniq,strg
+"nemat hotpan at kinsave,",1,P,AV,NoPtcl,npst,ind,neg,npfv,H,sg,npron,typid,nonsp,nuniq,nfam,H,sg,zero,top,sp,uniq,strg
+"am jiv ne v<ā>r<ı̮>ɧlas<o>m,",1,A,APV,NoPtcl,pst,ind,none,pfv,1,sg,pron,top,sp,uniq,sap,H,sg,barenp,fam,sp,uniq,strg
+"n<ē>te to<ɔ̄>r hot <ń>iro<u̮>taste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,uniq,sp,uniq,weak
+Man̩ moꞩhum sāɧra<u>p almajs.,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,weak
+Jaɧ<ā>ɧь<i>te (nete) poŋknьl s<ā>ɧrapaste.,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+"s<ē>j sam, pors sam janьt<t>e̮ɧ rav s<ā>ɧraste.",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+n̩ɔ̄vl̩ sakane <luw sakane> kona totsane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,ref,sp,uniq,weak
+uł̩al p<ē>lamtasane.,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+Piɧe os jot vi<u>ste.,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,possnp,fam,sp,uniq,strg
+Mot s<ē>r vo<ɔ̄>r vu<>>r v<ō>r s<ā>mt kol (v<ā>rseɧa) {ūttəseɣa},1,A,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+"Man̩ moꞩne jaɧpiɧen rav kos s<ā>ɧraves,",1,P,PAV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,fam,sp,uniq,strg,H,sg,barenp,fam,sp,uniq,strg
+"Man̩ moꞩne jaɧpiɧen rav kos s<ā>ɧraves,",1,P,PAV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,fam,sp,uniq,strg,H,sg,barenp,fam,sp,uniq,strg
+p<ā>ɧьl jort pum tajjimate poriɧ juv t<ē>ste.,1,AP,PV,NoPtcl,pst,ind,none,pfv,A,sg,zero,act,sp,uniq,strg,I,sg,barenp,fam,sp,uniq,strg
+v<ō>rt kol v<ā>rne kan h<o>ɔ̄nt<s̥>,1,A,PV,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+i kol v<ā>rs.,1,A,PV,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+v<ō>rt<ā>lnut <ē>ka h<ū>r<ŏ̯>m n̩avram on̩ꞩь<ə>s.,1,A,APV,NoPtcl,pst,ind,none,pfv,A,sg,barenp,act,sp,uniq,strg,A,pl,barenp,ref,sp,uniq,nfam
+V<ō>rt<ō>lnut <ē>ka n̩avremane <ā><ń>iɧьjane,1,AP,APV,NoPtcl,npst,ind,none,npfv,A,sg,barenp,act,sp,uniq,strg,A,pl,possnp,act,sp,uniq,strg
+i sipiɧlьjane.,1,AP,V,NoPtcl,npst,ind,none,npfv,A,sg,barenp,act,sp,uniq,strg,A,pl,possnp,act,sp,uniq,strg
+"""Man moꞩert tь johtav<ē>va h<ō>sa l<ē>ɧp̥ ujin.",X,P,PVA,ti,npst,ind,none,pfv,A,sg,barenp,typid,nonsp,nuniq,nfam,1,pl,pron,act,sp,uniq,sap
+Tan man o<ɔ̄>lne kanuv artalьjanьl,1,AP,APV,NoPtcl,npst,ind,none,pfv,H,pl,pron,act,sp,uniq,strg,I,sg,possnp,uniq,sp,uniq,weak
+āꞩanьl os jot totьjanь<ə>l.,1,AP,PV,NoPtcl,npst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+V<ō>rt<ō>lnut ēka sas ꞩuŋkari <ā>ɧьten mis.,1,A,APV,NoPtcl,pst,ind,none,pfv,A,sg,barenp,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+"ti s<ā>s ꞩuŋkarin, tan juv narŏ̯mtane jivanьl palt narŏ̯mteln.",1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,demnp,act,sp,uniq,strg
+tan jivanьl kona hartьjanьl,1,AP,PV,NoPtcl,npst,ind,none,pfv,H,pl,pron,act,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+tan kasalь<i>janьl.,1,AP,AV,NoPtcl,npst,ind,none,pfv,H,pl,pron,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+"kinsel[i]n"".",1,AP,V,NoPtcl,npst,imp,none,npfv,2,sg,pron,act,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+k<ē>tne n<ē>anь<ə>l masne sov [v]os toti.,1,A,APV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,ref,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+"usьŋ otьr ojkan, tah man ji<e>kaŋk[v]e, pataveva.",0,P,APV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,fam,sp,uniq,strg,1,pl,pron,act,sp,uniq,sap
+"tan tah manavnьl n̩<ō>vi<ə><ł> {ńɔ̄wel'} pajtaŋk[v]e pateɧьt,",0,A,APV,NoPtcl,npst,ind,none,pfv,H,pl,pron,act,sp,uniq,strg,I,mass,barenp,ref,sp,uniq,weak
+am naŋьn tont uꞩti han̩ꞩt[ь]ilom.,1,AP,APV,NoPtcl,npst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,2,sg,pron,act,sp,uniq,sap
+usьŋ otьr ojka piɧatn pisal̩il patamtaves,1,P,AV,NoPtcl,pst,ind,none,pfv,H,pl,barenp,fam,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+usьŋ otьr ojka piɧatn ahsa laves,1,P,AV,NoPtcl,pst,ind,none,pfv,H,pl,barenp,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+"si{ə, ė}r manajanьt jo<ɔ̄>r o<ɔ̄>n̩ꞩeɧьn.""",1,A,PV,NoPtcl,npst,ind,quest,npfv,2,sg,zero,act,sp,uniq,sap,I,abst,barenp,typid,nonsp,nuniq,nfam
+Piɧane jiv vis<t̥>,1,A,APV,NoPtcl,pst,ind,none,pfv,H,pl,possnp,act,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+jiv juv nariɧ tas{ə}t.,1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+<ū>sьŋ <ō>tьr <ō>jka piɧant ꞩam<a> ta pon̩salaveseɧa,1,P,AV,ta,pst,ind,none,pfv,H,pl,barenp,act,sp,uniq,strg,A,du,zero,top,sp,uniq,strg
+<ŭ>sьŋ <ō>tьr <ō>jka man̩ piɧ jiv vi<u>s,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,fam,sp,uniq,strg
+v<ō>ŋha h<ō>sь<i>t m<ā>ɧ{<ə>}ste.,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+jive kona hartaste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,top,sp,uniq,strg
+"Ūsɘŋ <ō>tьr <ō>jkan s<ā>s ꞩuŋkari almajav<ē>s,",1,P,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+sunsaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+"kona totu<ɒ>nk[v]e patste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+<ū>sьŋ <ō>tьr <ō>jka ma<ń> piɧ supe hot <ā>ŋh[a]ste,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,possnp,uniq,sp,uniq,weak
+n<ē>t<ē>n mastaste.,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+n<ē>t<ē> sup masəs,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,top,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+"husah tall nos a<ł>nt<ē>ln,",1,AP,V,NoPtcl,npst,imp,none,npfv,2,sg,zero,top,sp,uniq,sap,1,sg,zero,top,sp,uniq,sap
+Humit<ē>n n<ɔ̄>ŋha almaves,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+"n<ē> k<ē>t<ē>na,",1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,H,sg,barenp,typid,sp,nuniq,nfam
+"""man n<ē> ho<ɔ̄>ŋ<n>tsuva v<ō>rtolnut v<ō>ŋha ki<e>virt.",1,A,APV,NoPtcl,pst,ind,none,pfv,1,pl,pron,act,sp,uniq,sap,H,sg,barenp,ref,sp,uniq,strg
+"masne sov tav<ē>n toten"".",1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,typid,sp,nuniq,nfam
+"<ū>sьŋ<n> <ō>tьr <ō>jka <ē>ka ti l<ā>tьŋ h<ŏ>ls,",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,top,sp,uniq,strg,I,sg,demnp,ref,sp,uniq,weak
+masne sovt almajs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,strg
+"mastaste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+pun<ł>taste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+koln man̩e t<ū>lste.,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,possnp,top,sp,uniq,strg
+Kasap s<ā>jin p<ā>ln <ū>nt<t>aste.,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+<ū>sьŋ <ō>tьr <ō>jka v<ō>rt<ō>lnutanьl ji<e>kaŋk[v]e patsan<ə>l,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,fam,sp,uniq,strg,A,pl,possnp,fam,sp,uniq,strg
+ma<ń>[j]anьl n̩e<ɔ̄>vl'i<ə>l kos majlьjanьl,1,AP,PV,NoPtcl,npst,ind,none,npfv,H,pl,zero,top,sp,uniq,strg,H,sg,possnp,fam,sp,uniq,strg
+Mol v<ō>rt<ō>lnut <ā>ŋk[v]e lāvom vārmil̩ nomite.,1,AP,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,fam,sp,uniq,strg
+tav akan pi<u>nijane.,1,AP,AV,NoPtcl,npst,ind,none,npfv,H,sg,pron,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+s<ū>n kivьrt akan atьm n<ō>vl̩ane kon totsane.,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,fam,sp,uniq,strg
+v<ō>rt<ō>lnut jaɧpiɧen misane.,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+"am tot naŋьn uꞩ ha<ń>iꞩtьlom.""",1,AP,APV,NoPtcl,npst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,2,sg,pron,top,sp,uniq,sap
+"""hotьl <ū>sьŋ <ō>tьr <ō>jka v<ō>rt<ō>lnut n<ē> man̩ vi<u>s"".",1,A,APV,NoPtcl,pst,ind,quest,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,barenp,act,sp,uniq,strg
+"Man moꞩne jaɧpiɧ<ē>n rav kos s<ā>ɧrav<ē>s,",1,P,PAV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,H,sg,barenp,fam,sp,uniq,strg
+V<ō>rt<ō>lnut <ā>ɧь h<ō>ta<ɒ>lane l<ō>vintьman oꞩsane.,1,AP,APV,NoPtcl,pst,ind,none,npfv,H,sg,barenp,act,sp,uniq,strg,I,pl,possnp,ref,sp,uniq,weak
+h<ū>rmit h<ō>tal<ē>t <ō>nьpe v<ō>vs u<ł'>i<ji>v totne <ł>ōŋh pa<t>tan.,X,A,AV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,possnp,fam,sp,uniq,strg
+u<ł'><ji>v totne <ł̩><ō>ŋh pa<t>tat āŋk[v]e i jaɧpiɧaɧe h<ō>ntsaɣena.,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,A,sg,barenp,fam,sp,uniq,strg
+an̩ t<ō>r<u̮>mn nurьŋьɧ vojvesьn. jaɧpiɧьn palt jalmin m<ā>ɧьs.,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,fam,sp,uniq,strg,2,sg,zero,top,sp,uniq,sap
+"<ō>s t<ō>r<o̯>m[ь]<n̥> s<ā>t piɧьl, s<ā>t <ā>ɧьl l<ā>vsav<ē>sьn.",1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,2,sg,zero,top,sp,uniq,sap
+h<ō>sa t<ō>rmanьl h<ō>sa{<ı̮>}ɧ <ō>lijanьl,1,AP,PV,NoPtcl,npst,ind,none,npfv,H,pl,zero,act,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+vat̩i tormanьl v va<t'>t<'>iɧ <ō>lijanьl.,1,AP,PV,NoPtcl,npst,ind,none,npfv,H,pl,zero,top,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ ul' ı̯̯iw̯ kinseɣŭm,1,A,PV,NoPtcl,npst,ind,none,npfv,1,sg,zero,top,sp,uniq,sap,I,mass,barenp,typid,nonsp,nuniq,nfam
+ ꞩama alilum!,1,AP,V,NoPtcl,npst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,2,sg,zero,top,sp,uniq,sap
+ - am ti porsət kon totiı̯anum,1,AP,APV,NoPtcl,npst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,I,pl,demnp,ref,sp,nuniq,nfam
+" nan ul' ı̯iw̯ sāɣren,",1,A,APV,NoPtcl,npst,imp,none,pfv,2,pl,pron,act,sp,uniq,sap,I,mass,barenp,typid,nonsp,nuniq,nfam
+ wit totēn,1,A,PV,NoPtcl,npst,imp,none,pfv,2,pl,zero,top,sp,uniq,sap,I,mass,barenp,typid,nonsp,nuniq,nfam
+" tau̯ ēꞩaɣe konn tosɒm tarı̮ɣ sāɣresı̮ɣ,",1,A,APV,NoPtcl,pst,ind,none,pfv,H,du,possnp,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" ul' ı̯iw, ta sāɣreı̮ɣ",1,A,PV,ta,npst,ind,none,npfv,H,du,zero,top,sp,uniq,strg,I,mass,barenp,typid,nonsp,nuniq,nfam
+ MN ɔ̄s wit toti,1,A,APV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,mass,barenp,typid,nonsp,nuniq,nfam
+" ı̯PN porsane kon totsane,",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,pl,dpossnp,act,sp,uniq,strg
+" ꞩɔ̄pitasane,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+ χūrŭm pal ɔ̄lne maɣəs ta ꞩɔ̄pitasane,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,top,sp,uniq,strg
+" ul' ı̯iw tūlsət,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,mass,barenp,act,sp,uniq,strg
+" ɔ̄rɒs saməlta sanəl,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,weak
+ kūꞩè pal'aɣènəl pūwəste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ χɔ̄t ta āŋχẇitaste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" ēntɒp kwalɣe pēsatɒs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ muli pāln tuu̯ ta rau̯tsasane,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+" ēntɒp kalɣe praɣ pinɒs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ wȯı̯kane paɣ=pinɒs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ ńarane = waı̯ane χot āŋχwuŋkwe ta ūntəs,1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+" ńarane = waı̯ana χot - ta, āŋχwsane",1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,top,sp,uniq,strg
+ ta ńarane = waı̯ane almaı̯asane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+ tuı̯tanəl tot ta parɣalti,1,A,PV,ta,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,dpossnp,ref,sp,nuniq,weak
+ tuw̯l nɔ̄χ ta taɣa tasane,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+ χot sēɣəstè,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,zero,act,sp,uniq,strg
+" pal'aɣenəl takwite, puwəste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,ref,sp,uniq,nfam
+" kūꞩe χot ta āŋχwətaste,",1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ ɔ̄χsɒr sɔw̯ kūꞩe nɔŋχ ta taɣataste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ nɔχsət pori ta taɣatamane,1,AP,PV,ta,pst,evid,none,pfv,H,sg,zero,ref,sp,nuniq,nfam,I,pl,barenp,act,sp,uniq,strg
+" - ta rau̯tsasane, muli paln,",1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+ n̄árane = waı̯ane aŋχwsalasane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,ref,sp,uniq,weak
+ ńarat = waı̯t álmáı̯əs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,act,sp,uniq,strg
+" tuı̯tanəl, ı̯ankanəl araꞩ wātan tuu̯ ta parɣaltasane",1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,dpossnp,ref,sp,nuniq,weak
+" tuu̯l nɔ̄l ta taɣatɒlapsane,",1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ χot seı̮ɣsaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,mass,zero,top,sp,uniq,strg
+" ı̯osa χot lɔ̄χsaɣe,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,ref,sp,nuniq,nfam,I,du,barenp,ref,sp,nuniq,nfam
+" tustəsaɣe,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,ref,sp,nuniq,nfam,I,du,zero,ref,sp,nuniq,nfam
+ takwi kāta ɣetəl takwi pal'aɣenəl pūwəste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ kuꞩe χot ti ānχwəste,1,AP,PV,ti,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ ńarane=waı̯ane āŋχw sane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,ref,sp,uniq,weak
+ āŋχwsane,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+ tuu̯ ta kȯlkann ꞩeltŭmtasane,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+ ńarane=waı̯ almaı̯asane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+ ākwaı̮ɣ kȯlkan witəl tɔ̄ltəste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,weak
+ NW nɔ̄χ ta taɣatasane,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+ tuuəl kȯlkan wite χot sēɣəste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,possnp,act,sp,uniq,strg
+ ta kēm ta lɔ̄χ͔aꞩliı̯aɣe,1,AP,V,ta,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,I,du,zero,top,sp,uniq,strg
+" ı̯osa taɣatan matēn, nɔŋχ ta taɣatasaɣe",1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,du,zero,act,sp,uniq,strg
+ ı̯uu̯=ꞩaltuŋkwe āwi ta punsəste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+" takwi āŋwalaɣenəl puwəste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,ref,sp,uniq,weak
+" takwi kātlaɣetəl, kūse χot ta āŋχwəste",1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ tuu̯ ta taɣataste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ ꞩar perı̯im ńɔχəs tuu̯ ta alum,1,A,PV,ta,pst,evid,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,barenp,ref,sp,nuniq,nfam
+" ēntap kwalɣe pēsatɒs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ ńɔ̄χsane muli pāln ta pintsane,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+" ēntap kwalɣe nɔ̄ŋχ taɣataste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+" wȯı̯kane nɔ̄ŋχ, ı̯ol at pinı̯aɣe, pāln",1,AP,PV,NoPtcl,npst,ind,neg,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ ńarane=waı̯ane aŋχwsalasane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,ref,sp,uniq,weak
+ kȯl kann ta pintsane,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ tuı̯təŋ narat=waı̯t ta wisane,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,top,sp,uniq,strg
+" tuı̯tanəl parɣaltasanen,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,dpossnp,top,sp,uniq,strg
+ ı̯aŋkanəl ratsane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,dpossnp,top,sp,uniq,strg
+ nɔ̄ŋχ toslaŋkwe ta taɣɒtalapsane,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ tulmɒχ ɔ̄ı̯ka ńɔ̄χane siltaliı̯ane,1,AP,APV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,fam,sp,uniq,strg,I,pl,possnp,ref,sp,uniq,nfam
+ χot nuı̯liɣtiı̯ane,1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ pusən nila χum pusən siltalapsanəl,1,AP,AV,NoPtcl,pst,ind,none,npfv,H,pl,barenp,act,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+" ta nuı̯lı̮ɣtasanəl, saka mol'aχ",1,AP,V,ta,pst,ind,none,npfv,H,pl,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+ akw ti ꞩost ta nuı̯lı̮ɣ tasanəl,1,AP,V,ta,pst,ind,none,npfv,H,pl,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+ ı̯anı̮ɣ pūt taɣàtɒs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ ńɔ̄χs ńɔ̄wl'ane naluu̯ ta pētsane,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,dpossnp,ref,sp,nuniq,weak
+" TƆ pūt pētəs,",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ pūte paɣ ta ūntəste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+" tuu̯l ńila áni ta ālmaəs, nɔχs nɔ̄wəl χūnuŋkwe",1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+ nɔ̄χs ńɔ̄wəl' ta χuniı̯ane,1,AP,PV,ta,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,act,sp,uniq,strg
+ ńila ānin ta χūntsane,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+ ńila āni wisane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+ ńila mān kolkann ūntəsane,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+" ńila χum kasaı̯ wis,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+ ńila nē kasaı̯ wis,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+ āni ou̯lanèn ta pinsane,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ ńɔ̄χəs ńɔ̄wəl akw ı̯ot ta tēɣı̮ɣ,1,A,PV,ta,npst,ind,none,npfv,H,du,zero,act,sp,uniq,strg,I,mass,barenp,act,sp,uniq,strg
+" tēmanəl astəsət,",1,A,V,NoPtcl,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,abst,possnp,ref,sp,nuniq,nfam
+ ismit aı̯sət,1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,mass,barenp,ref,sp,uniq,weak
+ ta ul'anəl χarı̮ɣtasa nəl,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,sg,dpossnp,ref,sp,uniq,weak
+ alpəl ı̯anı̮ɣ PN ul'a tuꞩtŭm,1,A,APV,NoPtcl,pst,evid,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ ńɔ̄wəl totəs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,barenp,ref,sp,nuniq,nfam
+" JPN ńɔ̄wəl sāɣrəlataste,",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,mass,barenp,act,sp,uniq,strg
+ pūt ta wārəs,1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" JPN ńɔ̄wəl ńila ānin, tau̯ χuns",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,mass,barenp,act,sp,uniq,strg
+ tuu̯l ńila mān ūntsane,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+" tēmanəl āstəst,",1,A,V,NoPtcl,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,abst,possnp,ref,sp,nuniq,nfam
+ tulmaχ sɔ̄we nɔ̄ŋχ ta masapaste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,fam,sp,uniq,strg
+ ƆƆ koni kūꞩe ɔs masapaste,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,possnp,fam,sp,uniq,strg
+" SƆ ɔ̄s masapaste,",1,AP,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,zero,fam,sp,uniq,strg
+" tɔ̄reu sɔ̄we ɔ̄s masəste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,fam,sp,uniq,strg
+" ı̯osaɣe ı̯ola pinsaɣe,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,du,possnp,fam,sp,uniq,strg
+" mataranən tuwlé wȯı̯eln,",1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,strg,I,pl,possnp,undef,nonsp,nuniq,nfam
+ tuw=wȯı̯eln!,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,pl,zero,act,sp,uniq,strg
+" kuꞩe χot āŋχwəte tuu̯,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,fam,sp,uniq,strg
+ ta kēm takəs ta lȯχnɒꞩliı̯aɣe,1,AP,V,ta,npst,ind,none,npfv,H,sg,zero,ref,sp,uniq,nfam,I,du,zero,act,sp,uniq,strg
+" loχɒꞩlasaɣe,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,du,zero,top,sp,uniq,strg
+" nɔ̄ŋχ taɣmatsaɣe,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,du,zero,top,sp,uniq,strg
+" kūꞩe χɔt āŋχwəs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,fam,sp,uniq,strg
+" wɔ̇ı̯akane āŋχwəs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,fam,sp,uniq,strg
+" ńarane = waı̯ane āŋχwŭŋkwe patsane,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,fam,sp,uniq,strg
+" māχmane akw̯ tȯrı̮ɣ, ńaranəl χot āŋχwsanəl",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,pl,dpossnp,top,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+ TƆ ńarane=waı̯ane JPN palt ta lisane,1,AP,APV,ta,pst,ind,none,pfv,H,sg,barenp,top,sp,uniq,strg,I,pl,possnp,top,sp,uniq,strg
+ naməl at wı̮ɣane,1,AP,V,NoPtcl,npst,ind,neg,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ ƆƆ NW aŋχsane,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,pl,possnp,fam,sp,uniq,strg
+ KPN palt ta lisane,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+" tuwəl ań TƆ NW āŋχwsane,",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,pl,possnp,fam,sp,uniq,strg
+ āwi sunt pāln ta lisane,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+ at wı̮ɣane,1,AP,V,NoPtcl,npst,ind,neg,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+" tuwl SƆ NW āŋχwsane,",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,pl,possnp,fam,sp,uniq,strg
+" wit nȯrma ı̯oli pāln, NPN palt ta lisane",1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+" ńaranəl=waı̯anəl χot ꞩopitaŋkwe, taɣataŋkwe ta putsanəl",1,AP,PV,ta,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+ tuu̯l toslan maɣəs nɔ̄ŋx ta taɣɒta lasanəl,1,AP,V,ta,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+ χumit ńɔ̄χsanəl χot nuı̯ɣalasət,1,A,APV,NoPtcl,pst,ind,none,pfv,H,pl,barenp,act,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+tuwl KPN tau ta put wāri,1,A,APV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" tau̯ pūt wārs,",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ pāɣ ta ūnttəstē,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" ńila áni almaı̯ɒs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+ ńila ānin ta χūnsane,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ tuw̯l ńila mān kȯlkann ta ūnttəsane,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+ ńila né pusən pı̮ɣriꞩət ɔ̄ꞩsət,1,A,APV,NoPtcl,pst,ind,none,pfv,H,pl,barenp,act,sp,uniq,strg,H,pl,barenp,ref,sp,nuniq,weak
+" ań, - lawi -, alamutanuu̯ urtiı̯anuu̯,",1,AP,PV,NoPtcl,npst,ind,none,pfv,1,pl,zero,top,sp,uniq,strg,I,pl,possnp,ref,sp,nuniq,nfam
+ mèn kol at ɔ̄ńꞩimēn!,1,A,APV,NoPtcl,npst,ind,neg,npfv,1,du,pron,act,sp,uniq,sap,I,sg,barenp,typid,nonsp,nuniq,nfam
+" ań ńɔ̄χəsanəl ta urtəsanəl, ńila χum mus",1,AP,PV,ta,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,pl,possnp,ref,sp,nuniq,nfam
+" - MN, naŋ matarann wȯı̯en!",1,A,APV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,pl,possnp,ref,nonsp,nuniq,nfam
+ takwi tūp ńɔ̄χsane ālməs,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+ matarane ta wisane,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,ref,nonsp,nuniq,nfam
+ pı̮ɣe nɔ̄ŋχ ālməste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,possnp,fam,sp,uniq,strg
+" matarane, ı̯ot wisane",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,ref,nonsp,nuniq,nfam
+" sȯmı̯uχ, ɔ̄nꞩi,",1,A,PV,NoPtcl,npst,ind,none,npfv,I,sg,zero,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" mol χotal ı̯alkèt, ul'ı̯iu̯ sāɣrim kȯl at kāsali",1,A,PV,NoPtcl,npst,ind,neg,npfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,typid,nonsp,nuniq,nfam
+" pı̮ɣriꞩe kol kann tarmatɒs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+ sāli ńɔ̄wəl totəs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,barenp,ref,sp,nuniq,nfam
+ nas āt'i sāli alum,1,A,PV,NoPtcl,pst,evid,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,barenp,ref,sp,nuniq,nfam
+ ńɔ̄wəl ı̯uu̯ tūls,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,barenp,act,sp,uniq,strg
+" MN, tau̯ ta pūt wāri",1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,pron,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" pūt warı̮ɣlas,",1,A,PV,NoPtcl,pst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ pı̮ɣriꞩən kon ul taraten,1,A,PV,NoPtcl,npst,imp,neg,pfv,2,sg,zero,top,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+ am pı̮ɣriꞩum ti χȯtal alapilum,1,AP,PV,NoPtcl,npst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,H,sg,possnp,fam,sp,uniq,strg
+" - tēnut ɔ̄ńꞩew,",1,A,PV,NoPtcl,npst,ind,none,npfv,1,pl,zero,act,sp,uniq,sap,I,mass,barenp,ref,sp,nuniq,nfam
+ manrı̮ɣ naskası̮ɣ χumus aliluw̯!,1,AP,V,NoPtcl,npst,ind,quest,pfv,1,pl,zero,top,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+ elmχolas ńɔ̄wəl' tēŋkwe taŋχeɣŭm,1,A,PV,NoPtcl,npst,ind,none,npfv,1,sg,zero,act,sp,uniq,sap,I,mass,barenp,typid,nonsp,nuniq,nfam
+" am pı̮ɣriꞩe alapaste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+ pȯli ı̯aktla paste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+" pūte nal= taı̮ɣmatɒs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,ref,sp,nuniq,nfam
+ ta pētəste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" mol'amtaχtim ta paı̯tite,",1,AP,V,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ χumitn ul wos ı̯ɔ̄χtawe,0,P,AV,NoPtcl,npst,ind,neg,pfv,H,pl,barenp,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ matər kon ta sāɣri,1,A,PV,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,U,abst,npron,undef,nonsp,nuniq,nfam
+ ı̯iw sāɣrɒste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ ēlmχolas χuriı̯iɣ saɣrɒste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" ı̯uu̯ tāləste, kȯl kiwrèn,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ tuwəl pı̮ɣriꞩ ulamət tuu̯ mastəsane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+ lɔ̄χ pālèn paɣ ꞩēltumtaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ ńila ańin ta χūniste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" - am sar ńilit ām sar MN Palt totilum,",1,AP,APV,NoPtcl,npst,ind,none,pfv,1,sg,pron,act,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,weak
+" tuu̯ pı̮ɣriꞩ ɔ̄ńsi,",1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,H,sg,barenp,fam,sp,uniq,strg
+" tau alite,",1,AP,AV,NoPtcl,npst,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+" ńɔ̄wəl' āni wiste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ ań ńɔ̄wəl' áni supe tȯtəs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+" - tit am ńɔ̄wəl āni supkèm to taslum,",1,AP,APV,NoPtcl,pst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,I,sg,barenp,ref,sp,nuniq,nfam
+ wȯı̯eln!,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+ - am pı̮ɣriꞩŭm alapaslum,1,AP,APV,NoPtcl,pst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+ paı̯te slum,1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,H,sg,zero,top,sp,uniq,strg
+ naŋ ti āni supkèm ɔ̄s taı̯a palen,1,A,APV,NoPtcl,npst,imp,none,pfv,2,sg,pron,act,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+" naŋ pı̮ɣən āleɣən,",1,A,APV,NoPtcl,npst,ind,none,pfv,2,sg,pron,top,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+ ta wȯı̯eln!,1,AP,V,ta,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+ MN āwite mań χall wārəste,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,nfam
+ - tiı̯ maı̯eln!,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,npron,act,sp,uniq,strg
+ JPN kāte āwi χaln tuu̯ ta tak təste,1,AP,APV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ MN āni ta wiste,1,AP,APV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ āwi sunt pɔχan ı̯ol ta untəpaste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ matɒrəl lap ta pantapaste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ naŋən urimèn,1,A,PV,NoPtcl,npst,ind,none,npfv,1,du,zero,top,sp,uniq,sap,2,sg,pron,act,sp,uniq,sap
+" ńɔwəl'e pusən taı̯apasət,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,mass,possnp,act,sp,uniq,strg
+" ismite pusən aı̯alasanəl,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,mass,possnp,ref,sp,uniq,weak
+ tuwl witəl rau̯tasaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" tuwl pūte lou̯təs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,top,sp,uniq,strg
+ āniı̯ane low̯təs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,dpossnp,act,sp,uniq,strg
+ wite pusən konn ta rau̯tasaste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,dpossnp,ref,sp,nuniq,weak
+" āniı̯ane mulɣa ūnttı̮ɣpaste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,dpossnp,act,sp,uniq,strg
+" ūte ɔ̄s tuu̯ ūnttı̮ɣpaste, akw ta ɔ̄lum matèn",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+ań pūt ı̯il'pi witəl ta rau tasaste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ ań JPN mastum ı̯iw supe naluw wiste,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ tuwl naluu̯ kol kann tustite,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" kataɣe χot tarmatsaɣe,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,du,possnp,ref,sp,uniq,weak
+" ta porat nɔŋχ amaı̯aste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ ta ūl maχmane nas rētataliı̯ane,1,AP,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,H,pl,dpossnp,act,sp,uniq,strg
+" tuu̯l ta almaı̯aste,",1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ wası̮ɣ χumle wārilum,1,AP,V,NoPtcl,npst,ind,quest,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+" kon ta totəste,",1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ sɔ̄χripn χottal' ta liste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" - χolit worn uꞩ totilum,",1,AP,V,NoPtcl,npst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+ sɔ̄χripn pinɒslum,1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+" ań maχmane ńɔ̄χs ńɔ̄wəl'ane pētsanəl,",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,pl,dpossnp,act,sp,uniq,strg,I,pl,dpossnp,ref,sp,nuniq,nfam
+ taı̯anəl pūt ta wārsət,1,A,PV,ta,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ kot'l'e PN pūte paɣ ta wiste,1,AP,APV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,dpossnp,top,sp,uniq,strg
+ χūrŭm āni mus ńɔ̄wəl'ane ta χunsane,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,dpossnp,act,sp,uniq,strg
+" tuul χūrŭm āni χūrŭm man ta ūnttəsane,",1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,act,sp,uniq,strg
+ ńɔ̄wəl' ta totəs,1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,barenp,ref,sp,nuniq,nfam
+" NPN ul'ate nɔ̄ŋχ tuꞩtlatas,",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,dpossnp,fam,sp,uniq,strg
+" pūte ta taɣataste,",1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+ ńɔ̄wəl' ta pētite,1,AP,PV,ta,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,barenp,act,sp,uniq,strg
+" ı̯osanəl pinumtasət,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,pl,possnp,fam,sp,uniq,strg
+ - pı̮ɣrisen χotum ti warapeln,1,AP,PV,ti,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,U,abst,npron,act,sp,uniq,strg
+" mol χotal, tanaı̯, am pı̮ɣriꞩum alasŭm",1,A,APV,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+ ań KPN pı̮ɣriꞩe ta alapaste,1,AP,APV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+ poli ı̯aktlapaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ pūte naluu̯ ta pētlı̮ɣ taste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+ ta paı̯tite,1,AP,V,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ pı̮ɣriꞩe masnutət ı̯uu̯ supen mastəsane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+" tuwl kȯt'il' pālèn, pı̮ɣriꞩe χuı̯am mātèn tuu̯ ta ꞩeltumtaste",1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" tuu̯l pūte paɣ ālməste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+ paɣ ūnttəste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ ńila āni sup ālmaı̯ɒs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,act,sp,uniq,strg
+ am akw āni sup MN palt totilum,1,AP,APV,NoPtcl,npst,ind,none,pfv,1,sg,pron,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ takɔs puweln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,H,sg,zero,top,sp,uniq,strg
+ alapilmèn,1,AP,V,NoPtcl,npst,ind,none,pfv,1,du,zero,top,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+ - am pı̮ɣriꞩum alapaslŭm,1,AP,APV,NoPtcl,pst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+" paı̯təslŭm,",1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,H,sg,zero,top,sp,uniq,strg
+ an ńɔ̄wəl' āni sup wȯı̯eln!,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+ naŋ pı̮ɣriꞩən aleɣən,1,A,APV,NoPtcl,npst,ind,none,pfv,2,sg,pron,top,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+ taχ anum ɔ̄s ńɔwəl' āni sup χuneɣen,1,A,PV,NoPtcl,npst,ind,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,typid,nonsp,nuniq,nfam
+ ań tii wȯı̯eln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,npron,act,sp,uniq,strg
+" 'MN awi man χall wārəs,",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ -tı̮ɣ maı̯eln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+ wȯı̯eln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+" naŋ tiɣ ke totilən,",1,AP,AV,NoPtcl,npst,irr,none,pfv,2,sg,pron,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+ wı̮ɣlŭm,1,AP,V,NoPtcl,npst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+" MN āniŋ taɣəl kātè χot urmı̮ɣtaste,",1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ āwi lap pantapaste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+" tuwəl āni, mol χotal ānite pɔ̄χən akwan tuu̯ ta ūnttı̮ɣ paste",1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ tı̮ɣəl ti ı̯oχtawew χumitn,0,P,VA,ti,npst,ind,none,pfv,H,pl,barenp,fam,sp,uniq,strg,1,pl,zero,top,sp,uniq,sap
+ ta taı̯apasanəl,1,AP,V,ta,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,sg,zero,fam,sp,uniq,strg
+" ı̯il'pi witəl rau̯tasaste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" tuul pūte ı̯omɒꞩakwe ta lȯu̯təs,",1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+ āniı̯ane lȯu̯tsane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,dpossnp,act,sp,uniq,strg
+ taı̯e χot lȯu̯təs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,ref,sp,nuniq,weak
+ aniı̯ane mulɣa unttı̯ɣpasane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,dpossnp,act,sp,uniq,strg
+" wetra almaı̯as,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ pūtè witəl tāɣle ta sɔ̄sı̮ɣpaste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+" ı̯osanəl χot ꞩɔ̄pitasanəl,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+" noŋχ tāɣmatsanəl,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+ naluu̯ ta wiste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ kȯlkann tuꞩtite,1,AP,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ tuꞩtəste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" kātaɣe χot wis,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,du,possnp,ref,sp,uniq,weak
+ noŋχ almaı̯aste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ χotal' ēt'i totipilŭm,1,AP,V,NoPtcl,npst,ind,quest,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+ sɔ̄χripn pi nilum,1,AP,V,NoPtcl,npst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+ χɔlitan wɔ̯̄rn uꞩ totilŭm,1,AP,V,NoPtcl,npst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+" χumit ńɔ̄χsət nuı̯ɣalasət,",1,A,APV,NoPtcl,pst,ind,none,pfv,H,pl,barenp,act,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+ pūt tan tawārs,1,A,PAV,ta,pst,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,I,sg,zero,ref,sp,nuniq,nfam
+" pūte naluu̯ = tāɣataste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+ nɔ̄χs ńōwəl' ta pētlı̮ɣtaste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,barenp,act,sp,uniq,strg
+ paltiı̮ɣtaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ pāı̮ɣ ūnttı̮ɣpaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ χūrŭm āni wis,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+ χūrŭm āni ńɔ̄wlil ta χunsane,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,act,sp,uniq,strg
+ MPN tuu̯ ul'a tuꞩ təs,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ nɔ̄wəl' totəs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,barenp,ref,sp,nuniq,nfam
+ MPN sāɣrapəl sāɣrlataste,1,AP,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,top,sp,uniq,strg,I,mass,zero,ref,sp,nuniq,nfam
+ pūte ta tāɣmatɒs,1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,fam,sp,uniq,strg
+" -ı̮a, mol'ɒχ, pı̮ɣriꞩən aleln!",1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+" - am χuml'e alilum,",1,AP,AV,NoPtcl,npst,ind,quest,pfv,1,sg,pron,act,sp,uniq,sap,H,sg,zero,top,sp,uniq,strg
+" toχ kismaıte,",1,AP,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ mol'aχ aleln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+ ta alaste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+" put taɣmatəs,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ ta pētlı̮ɣtaste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ matər ta sāɣri,1,A,PV,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,U,abst,npron,ref,nonsp,nuniq,nfam
+ ı̯iu̯ sup ı̯uu̯ ti tūləs,1,A,PV,ti,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ ań pı̮ɣrise masuntane ı̯uu̯ supən tuu̯ mastəsane,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,ref,sp,nuniq,nfam
+ ta til ta lāplite,1,AP,V,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" mastəste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ tuu̯l pāl ou̯lēn tuu̯ ta ꞩēltumtaste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" takwi pūte paɣ ālmaı̯as,",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+ paɣ ūnttəɣpaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" ńila āni wis,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+ ta χūnlı̮ɣtaste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" - ań taχ āni totilum, MN palt",1,AP,PV,NoPtcl,npst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+" - naŋ kon wȯweln,",1,AP,AV,NoPtcl,npst,imp,none,pfv,2,sg,pron,act,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+ wos wı̮ɣte,1,AP,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ ta porat taχ puwèln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+" am pı̮ɣriꞩŭm alapaslum,",1,AP,APV,NoPtcl,pst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+" paı̯te slum,",1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,H,sg,zero,top,sp,uniq,strg
+ ńɔ̄wəl' āni sup naŋən totəslum,1,AP,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,barenp,ref,sp,nuniq,nfam
+ ań wȯı̯eln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+ -tı̮ɣ maı̯eln!,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+" naŋ tı̮ɣ toteln,",1,AP,AV,NoPtcl,npst,imp,none,pfv,2,sg,pron,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+ am wı̮ɣlum,1,AP,AV,NoPtcl,npst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+ āwi χall wārəste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" kona wowite,",1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ puu̯nūw te,1,AP,V,NoPtcl,npst,irr,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" āt’i, M N kāte kon at neı̮ɣltite",1,AP,APV,NoPtcl,npst,ind,neg,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ ań āni winete porat kos puwəste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ kate χot ńartumtaste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,top,sp,uniq,strg
+ āwite lap pantupaste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+" ań āni wis,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ mol χotal āniı̯aɣe palt tuu̯ ūnttı̮ɣ paste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ -ı̯a manurəl at puwəslən?,1,AP,V,NoPtcl,pst,ind,neg,pfv,2,sg,zero,act,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+ - mat pȯsum kāte l'apan at mı̮ɣte!,1,AP,PV,NoPtcl,npst,ind,neg,npfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+" āniı̯anəl ūnttəlmatəst,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+ ta taı̯apa sanəl,1,AP,V,ta,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ ismite pusən aı̯alasanəl,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,mass,possnp,ref,sp,nuniq,weak
+ pālen χuı̯ūptaslum,1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,H,sg,zero,top,sp,uniq,strg
+" nɔ̄ŋχ kuriitilum,",1,AP,V,NoPtcl,npst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+" pālènəl naluw ti almaı̯aste,",1,AP,V,ti,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ kol kann tuu̯ ti tuꞩtı̮ɣpaste,1,AP,V,ti,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" tau̯ kātaɣe χot wis,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,du,possnp,ref,sp,uniq,weak
+ nɔ̄ŋχ almaı̯aste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ pūt ta tāɣmatɒs,1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ tuwəl ńɔ̄χəs ńɔ̄wəl ta pētlı̮ɣtɒs,1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,barenp,ref,sp,nuniq,nfam
+ χolitan alpəl KPN tuu ul'a tuꞩtı̮ɣpɒs,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ pı̮ɣriꞩe wos alite,1,AP,PV,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+ -naŋ pı̮ɣriꞩən ti χɔ̄tɒl alapeln,1,AP,APV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+ āni wȯı̯eln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,ref,sp,nuniq,nfam
+ mań χall wārəste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ -wȯı̯eln ani,1,AP,VP,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+ -ı̯anɣı̮ɣ punsəln!,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+" - āt'i, am at punsilum",1,AP,AV,NoPtcl,npst,ind,neg,pfv,1,sg,pron,act,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+ - at nè punsilən,1,AP,V,NoPtcl,npst,irr,neg,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+ ani tı̮ɣ maı̯eln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,top,sp,uniq,strg
+ ta almaı̯aste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ ńɔ̄wəl' lōmt ta tɔ̄u̯məs,1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ tēntèn ɔ̄s astəsaɣŭm,1,AP,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,H,du,pron,act,sp,uniq,strg
+ - āwi torɣen ı̯anɣı̮ɣ punseln!,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+ - āt'i at punsilum!,1,AP,V,NoPtcl,npst,ind,neg,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+ tan ɔ̄s man χalkwenəl tuwəl ta wiste,1,AP,AV,ta,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ -pı̮ɣriꞩən alaslən,1,AP,PV,NoPtcl,pst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+ -alaslum,1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,H,sg,zero,top,sp,uniq,strg
+ ńɔ̄wl'əl χūnəslum,1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,zero,ref,sp,nuniq,nfam
+ nɔ̄wəl' ani sup wȯı̯eln!,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+ tuwəl āwi ı̯anɣı̮ɣ at punsite,1,AP,PV,NoPtcl,pst,ind,neg,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ āni sup mań χalkwenəl ta wiste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+" ānite wis,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ naŋ ūrimēn,1,A,PV,NoPtcl,npst,ind,none,npfv,1,du,zero,top,sp,uniq,sap,2,sg,pron,act,sp,uniq,sap
+ ań āni supkenəl ńɔ̄wəl' ı̯uu̯ ta taı̯apasanəl,1,AP,PV,ta,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,mass,barenp,act,sp,uniq,sap
+" - ti χɔ̄tal pı̯ɣriꞩum aluŋkwe ti marlalwesum, por nētn!",0,P,PVA,ti,pst,ind,none,pfv,H,pl,barenp,act,sp,uniq,strg,1,sg,zero,top,sp,uniq,strg
+ pı̮ɣriꞩən kon ul tarateln!,1,AP,PV,NoPtcl,npst,imp,neg,pfv,2,sg,zero,top,sp,uniq,sap,H,sg,possnp,act,sp,uniq,strg
+ akw lomt at χɔ̄ntnuwən,1,A,PV,NoPtcl,pst,irr,neg,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,barenp,typid,nonsp,nuniq,nfam
+ akv mat ert matmen pьrꞩumen ovьlt akv mat ert akv pьɧriꞩ on̩ꞩsьɧ,1,A,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,H,sg,barenp,ref,sp,uniq,weak
+" aꞩ, arɧen oln muvьr supьn anum majeln",1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,possnp,ref,sp,uniq,nfam
+ Lun̩ꞩim vovuŋkve pataste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ aꞩen ta majves,1,P,AV,ta,pst,ind,none,pfv,H,sg,possnp,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+" nalval̩ puvartite, ",1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" paɧle puvartite,",1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ jonjim ta on̩ꞩite,1,AP,V,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ arɧen oln muvьr supum n̩auleɧum,1,A,PV,NoPtcl,npst,ind,none,npfv,1,sg,zero,act,sp,uniq,sap,I,sg,possnp,act,sp,uniq,strg
+" ul̩a paltunuvum, ",1,A,PV,NoPtcl,npst,irr,none,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,barenp,typid,nonsp,nuniq,nfam
+ naŋ man ta janit ꞩohlaŋ vareɧьn? - ,1,A,APV,NoPtcl,npst,ind,quest,npfv,2,sg,pron,act,sp,uniq,sap,I,abst,barenp,ref,sp,nuniq,nfam
+ atajaleln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,A,sg,zero,top,sp,uniq,strg
+" tujte jaŋke n̩ollьɧten,",1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,mass,dpossnp,ref,sp,nuniq,nfam
+ juv puvtmeln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,H,sg,zero,typid,nonsp,nuniq,nfam
+ ꞩar poliьɧ minьɧteln! ,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,H,sg,zero,typid,nonsp,nuniq,nfam
+ akv ekvate arɧen oln kuraꞩ tulьs,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,dpossnp,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ am puvlen kol paltsum ,1,A,APV,NoPtcl,pst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,I,sg,barenp,ref,sp,uniq,nfam
+" kuraꞩ manurьl noŋh olmilum,",1,AP,PV,NoPtcl,npst,ind,quest,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+" numi pos asum, numi pos jeɧum anum erьɧ totuŋkve ke, mojt totuŋkve ke laveslьn",1,AP,PV,NoPtcl,pst,irr,none,pfv,2,sg,zero,act,sp,uniq,sap,1,sg,pron,act,sp,uniq,strg
+" almajaste, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ naŋ taj arɧen oln kurasum ꞩar akvaьɧ pusьn loptane hot ta ratmanьn,1,AP,APV,ta,pst,evid,none,pfv,2,sg,pron,act,sp,uniq,sap,I,pl,possnp,act,sp,uniq,nfam
+ akv ekvate hun̩t ꞩari̊tam vor Sali maravi n̩ovьl toh totaste,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,dpossnp,act,sp,uniq,strg,I,mass,barenp,ref,sp,nuniq,nfam
+ maravi tur ja at on̩ꞩi ,1,A,APV,NoPtcl,npst,ind,neg,npfv,I,sg,barenp,ref,sp,nuniq,nfam,I,sg,barenp,typid,nonsp,nuniq,nfam
+ sali n̩ovьle pusьn tes,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,mass,possnp,act,sp,uniq,strg
+ taite pusьn tes,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,npron,act,sp,uniq,strg
+ Totnuw olne akvьn ekvan haniꞩtaven,1,P,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,ref,sp,uniq,nfam,2,sg,zero,act,sp,uniq,sap
+ ul̩a paltnuvum ,1,A,V,NoPtcl,npst,irr,none,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,barenp,typid,nonsp,nuniq,nfam
+ man ta janit ꞩahlaŋ vareɧьn? ,1,A,PV,NoPtcl,npst,ind,quest,npfv,2,sg,zero,act,sp,uniq,sap,I,abst,barenp,ref,sp,nuniq,nfam
+" atajaleln, ",1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,H,sg,zero,ref,sp,nuniq,nfam
+" tujte jaŋke n̩ollьɧten, ",1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,mass,dpossnp,ref,sp,nuniq,nfam
+ mol̩ah n̩olanteln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,H,sg,zero,ref,sp,nuniq,nfam
+" arɧen oln muvьr sup, n̩auleɧum",1,A,PV,NoPtcl,npst,ind,none,npfv,1,sg,zero,act,sp,uniq,sap,I,sg,barenp,fam,sp,uniq,strg
+ solьɧ oln kuraꞩ voril ti noŋh olmьste,1,AP,PV,ti,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" sorup n̩ovьle pusьn tes, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,mass,possnp,act,sp,uniq,strg
+ pot n̩ane pusьn tes,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,possnp,act,sp,uniq,strg
+ totnuv olne akvьn ekvan haniꞩtaven,1,P,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,ref,sp,uniq,nfam,2,sg,zero,act,sp,uniq,sap
+ Man ta janit ꞩohlaŋ vareɧьn? ,1,A,PV,NoPtcl,npst,ind,quest,npfv,2,sg,zero,act,sp,uniq,sap,I,abst,barenp,ref,sp,nuniq,nfam
+ atajaleln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,H,sg,zero,ref,sp,nuniq,nfam
+" tujte jaŋke n̩ollьɧten, ",1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,mass,dpossnp,ref,sp,nuniq,nfam
+ juv puvtmeln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,H,sg,zero,ref,sp,nuniq,nfam
+ arɧen oln muvьr sup n̩auleɧum,1,A,PV,NoPtcl,npst,ind,none,npfv,1,sg,zero,act,sp,uniq,sap,I,sg,barenp,fam,sp,uniq,strg
+" sorniŋ olьn kuraꞩ al̩majame porat, voril ti almajaste",1,AP,V,ti,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ naŋ taj hum pusьn ta rātumlьn,1,AP,APV,ta,pst,evid,none,pfv,2,sg,pron,act,sp,uniq,sap,I,mass,npron,act,sp,uniq,strg
+ Torev n̩ovьle pusьntes,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,mass,possnp,act,sp,uniq,strg
+ kit pot n̩ane pusьn tes,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,possnp,ref,sp,nuniq,nfam
+ naŋkin ositьntьl aŋkvalna tuv pereln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,2,sg,pron,act,sp,uniq,sap
+ akv mat ert torumna telum mān telum janьɧ aŋkval hontas,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ aŋkval muvaltartahtam ker kvaljetьl takvite ositetьl tuv ta pērьste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,pron,top,sp,uniq,strg
+ luv leɧьnьl jol konsьɧtaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ naŋьn jolhun̩ puvnuvum,1,A,PV,NoPtcl,pst,irr,quest,pfv,1,sg,zero,act,sp,uniq,sap,2,sg,pron,act,sp,uniq,sap
+ Jomas ernete maɧьs jol-puvьslum,1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,2,sg,zero,top,sp,uniq,sap
+" luvьŋ humite ꞩepnьl levatas polah posne tor, ",1,A,AVP,NoPtcl,pst,ind,none,pfv,H,sg,dpossnp,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ mān jola nortaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" ti manьr janьɧ ker aŋkval, ti koni pal janьɧ aŋkval honteɧьn",1,A,PV,NoPtcl,npst,ind,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,ref,sp,nuniq,nfam
+ naŋkin ositьntьl ta aŋkvalna tuv ta perilьn,1,AP,PV,ta,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,2,sg,pron,act,sp,uniq,sap
+ akv ker kvalьɧ hot ul pesaten,1,A,PV,NoPtcl,npst,imp,neg,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,ref,sp,uniq,strg
+" akva ke pesateɧьn,",1,A,PV,NoPtcl,npst,irr,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,ref,sp,uniq,strg
+ Torumna telum mān telum janьɧ ker aŋkval hontas,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ ositetьl takvite ker kvaljil ta pērьste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,pron,top,sp,uniq,strg
+ luve elal̩ posite,1,AP,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,A,sg,possnp,ref,sp,uniq,weak
+ Tan pohenьl tahame můs luv leɧenьl jola konsьɧtaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ jola hun̩ puvnuvlum,1,AP,V,NoPtcl,pst,irr,quest,pfv,1,sg,zero,act,sp,uniq,strg,2,sg,zero,act,sp,uniq,strg
+ Jomas erme maɧьs jol puvьslum,1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,strg,2,sg,zero,top,sp,uniq,strg
+" ꞩepnьl polah posne tor levatas, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ jola nortumtaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" Ti manьr janьɧ aŋkval, ti koni pal janьɧ aŋkval honteɧьn",1,A,PV,NoPtcl,npst,ind,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,ref,sp,nuniq,nfam
+ akv ti ꞩirьl naŋkin ositьntьl tuv ta perilьn,1,AP,AV,ta,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,2,sg,pron,top,sp,uniq,sap
+ akv ker kvalьɧ hot ul pesateln,1,AP,PV,NoPtcl,npst,imp,neg,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,ref,sp,nuniq,nfam
+" akv ker kvalьɧ ke pesteɧьn, ",1,A,PV,NoPtcl,npst,irr,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,ref,sp,nuniq,nfam
+ torum telum mān telum janьɧ ker aŋkval hōntas,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ takvite ositetьl tuv ta perьste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,pron,top,sp,uniq,strg
+" akv pis ker kvalьɧ ta pēsatas, ",1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" kitit ker kvalьɧ pēsatas, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" Hurmit ker kvalьɧ pesatas, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ Mol̩amtahtem tuv perlьɧtasane ,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+" Tan pohenьl tahane porat, luv leɧenьl jola konsьɧtaste",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ os ta kotьrtaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,zero,act,sp,uniq,strg
+ akvaьɧ von̩salьɧ totnuvlum,1,AP,V,NoPtcl,npst,irr,none,pfv,1,sg,zero,act,sp,uniq,sap,2,sg,zero,top,sp,uniq,sap
+ manarьɧ pesatalam hurum ker kval[ьɧ]? jin? ,1,A,VP,NoPtcl,pst,evid,quest,pfv,2,sg,zero,top,sp,uniq,sap,I,pl,possnp,act,sp,uniq,strg
+ Jaŋk luvьŋ hum polah posne tōre kona lévātas ,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,possnp,ref,sp,nuniq,nfam
+" mān norteste, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+Hoti humjuvna taltave?,1,P,AV,NoPtcl,npst,ind,quest,pfv,H,sg,possnp,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ ta humjuvna vos taltaves,1,P,PV,NoPtcl,npst,ind,none,pfv,H,sg,demnp,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ manьr vovi? ,1,A,PV,NoPtcl,npst,ind,quest,pfv,H,sg,zero,act,sp,uniq,strg,U,abst,npron,undef,nonsp,nuniq,nfam
+ sat lomtup kasar vos vovi,1,A,PV,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,nfam
+ Semьl luvьŋ humna taltuves,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ Luv neɧne aŋkvalna luvanel neɧsьt,1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,A,pl,possnp,act,sp,uniq,strg
+ akiten tan johtume at ta vave,1,P,APV,ta,npst,ind,neg,npfv,H,sg,dpossnp,ref,sp,uniq,nfam,I,abst,possnp,ref,sp,uniq,weak
+ an̩ ojka hujimete jaŋ luvьŋ humna sorniŋ oln muvьr supьl vilt jāt ta junьɧtave,1,P,APV,ta,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,barenp,ref,sp,uniq,strg
+" aman mьɧlьn, aman ati? ",1,AP,V,NoPtcl,npst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+" naŋьn at mьɧlum, ",1,AP,V,NoPtcl,npst,ind,neg,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+ hoŋhan mьɧlum? ,1,AP,V,NoPtcl,npst,ind,quest,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+ akite ꞩoprite joŋhtas ,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,dpossnp,act,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,nfam
+" akv laɧьlup sat pasane vis, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,dpossnp,act,sp,uniq,strg
+ sat lomtup kasar vis,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ apьɧkve os jomas ulum varimen,1,A,PV,NoPtcl,npst,ind,none,pfv,1,du,zero,act,sp,uniq,sap,I,abst,barenp,typid,nonsp,nuniq,nfam
+ os jomas ulum ul mos vari,1,A,PV,NoPtcl,npst,ind,neg,pfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,typid,nonsp,nuniq,nfam
+ Sotьr loptap sorniŋ hal̩ taji vos vovi,1,A,PV,NoPtcl,npst,ind,none,pfv,H,sg,demnp,act,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,nfam
+ Man̩ akitenьl mā holtne jor vas vovi,1,A,PV,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,mass,barenp,ref,sp,uniq,nfam
+" Jaŋk luvьŋ humjanьl jot os jomas ulum varsьt, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,abst,barenp,ref,sp,nuniq,nfam
+ kotil̩ akitēn at ta vave johtume,1,P,AVP,ta,npst,ind,neg,npfv,H,sg,dpossnp,act,sp,uniq,strg,I,abst,possnp,ref,sp,uniq,nfam
+ manarum(um)[ьl] tit kisnuvum,1,A,PV,NoPtcl,npst,irr,quest,npfv,1,sg,zero,act,sp,uniq,sap,U,abst,npron,undef,nonsp,nuniq,nfam
+" akite ꞩoprite tьɧle joŋhtas,",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,dpossnp,act,sp,uniq,strg,I,sg,possnp,ref,sp,nuniq,nfam
+ sotьr loptap sorniŋ hale viste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,act,sp,uniq,strg
+" os jomas ulum varimen, ",1,A,PV,NoPtcl,npst,ind,none,pfv,1,du,zero,act,sp,uniq,strg,I,abst,barenp,typid,sp,nuniq,nfam
+" os jomas ulum varsьt, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,abst,barenp,ref,sp,nuniq,nfam
+" naŋьn sorati tulьŋ luv,",1,A,VP,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,barenp,ref,sp,nuniq,nfam
+ naŋ ul vujeln,1,AP,AV,NoPtcl,npst,imp,neg,pfv,2,sg,pron,act,sp,uniq,sap,A,sg,zero,act,sp,uniq,strg
+" naŋ voven kate laɧьle n̩arьt, lul̩ mat luvriꞩ,",1,A,AVP,NoPtcl,npst,imp,none,pfv,2,sg,pron,top,sp,uniq,sap,A,sg,barenp,typid,nonsp,nuniq,nfam
+ taji voven,1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,A,sg,npron,act,sp,uniq,strg
+" naŋ tah saka vovuŋkve patilьn,",1,AP,APV,NoPtcl,npst,ind,none,pfv,2,sg,pron,act,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+ Luve mьŋkve patite,1,AP,PV,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,dpossnp,act,sp,uniq,strg
+ Tajil ꞩermatteln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,A,sg,zero,act,sp,uniq,strg
+" Luv neɧne aŋkvalna luve neɧsьɧ, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ naŋ johtumьn akin an̩ at vaɧte,1,AP,PAV,NoPtcl,npst,ind,neg,npfv,H,sg,dpossnp,act,sp,uniq,strg,I,abst,possnp,ref,sp,nuniq,weak
+ ꞩoprite tьɧle joŋhtas,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,ref,sp,nuniq,nfam
+ an̩ lavim luve ti kasalaste,1,A,PV,ti,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+" Jola luv puvьste,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,barenp,act,sp,uniq,strg
+ taji vůjen,1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,A,sg,npron,act,sp,uniq,strg
+ vůjeln,1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,A,sg,zero,top,sp,uniq,strg
+" Pium ꞩermatьl ꞩermattaŋkve pataste, ",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+" ꞩorniŋ ꞩermatьl ꞩermatteln, ",1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,A,sg,zero,act,sp,uniq,strg
+" ꞩermattaste, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,zero,act,sp,uniq,strg
+ konal̩ vantamtaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,zero,act,sp,uniq,strg
+ apьɧkve os jomas ulum varimen ,1,A,PV,NoPtcl,npst,ind,none,pfv,1,du,zero,act,sp,uniq,sap,I,abst,barenp,typid,nonsp,nuniq,nfam
+" os jomas ulum varsьɧ,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,I,abst,barenp,ref,sp,nuniq,nfam
+ ꞩorhilna luve tuv ta neɧьste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ Sat lomtpas kasre paul palten,1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,barenp,fam,sp,uniq,strg
+" nortaste, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ sotьr loptap sorniŋ hole asьɧ tovipna tuꞩtaste,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,fam,sp,uniq,strg
+nēmatər tɔ̄rəŋ at alèɣt,1,A,PV,NoPtcl,npst,ind,neg,npfv,H,pl,zero,top,sp,uniq,strg,U,abst,npron,undef,nonsp,nuniq,nfam
+tūp tēne sawit aleɣt,1,A,PV,NoPtcl,npst,ind,none,npfv,H,pl,zero,top,sp,uniq,strg,I,abst,barenp,typid,sp,nuniq,nfam
+" akw tuu̯ toχ ɔ̄lnènəl χalt tɔ̄lı̮ɣ rēpı̮ɣtasət, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,uniq,nfam
+"paı̮ɣ ı̯ɔ̄ŋχtsasanəl, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+"mań tɔ̄lı̮ɣ, kiwrenəl χūl pāɣ wı̮ɣuw",1,A,PV,NoPtcl,npst,ind,none,pfv,1,pl,zero,act,sp,uniq,sap,I,mass,barenp,act,sp,uniq,strg
+" χūl mȯssal paɣ χartsanəl, ",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,mass,barenp,act,sp,uniq,strg
+ at ı̯anı̮ɣ sāt pɔt paɣ ta ı̯ɔ̄ŋχtasət! ,1,A,PV,ta,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,pl,barenp,ref,sp,uniq,weak
+manare urtew? ,1,A,PV,NoPtcl,npst,ind,quest,npfv,1,pl,zero,top,sp,uniq,sap,U,abst,npron,undef,nonsp,nuniq,nfam
+manakem wermeɣən ,1,A,PV,NoPtcl,npst,ind,none,npfv,2,sg,zero,typid,nonsp,nuniq,sap,U,abst,npron,undef,nonsp,nuniq,nfam
+tii wȯı̯en! ,1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,typid,nonsp,nuniq,sap,I,abst,npron,ref,sp,nuniq,strg
+kȯlŭmn ı̯uu̯ tūlilŭm,1,AP,V,NoPtcl,npst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+tɔ̄r lomt totəs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+" sām mańsiŋ tɔ̄r arsinəl tuu̯ neχsalaste, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+"ı̯uu̯ tūləste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ muln kȯl au̯lan ta nēɣəste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+āni wisanəl,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,typid,nonsp,nuniq,nfam,I,sg,barenp,act,sp,uniq,strg
+" ta mań χāl'n, tuu̯ nēɣèln,",1,AP,V,NoPtcl,npst,imp,none,pfv,2,pl,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+ χɔ̄tı̯utna ɔ̄ń ꞩawe,1,P,AV,NoPtcl,npst,ind,none,npfv,U,abst,npron,undef,nonsp,nuniq,nfam,I,sg,zero,act,sp,uniq,strg
+" tai maɣəs ꞩar koı̯up at rāteɣt, ",1,A,PV,NoPtcl,npst,ind,neg,npfv,H,pl,zero,act,sp,uniq,strg,I,sg,barenp,typid,nonsp,nuniq,nfam
+naŋ ti kȯı̯up rāten - ,1,A,APV,NoPtcl,npst,imp,none,npfv,2,sg,pron,ref,sp,uniq,sap,I,sg,demnp,ref,sp,uniq,nfam
+ akw ı̯ɔ̄rn sunènəl kȯı̯up ti tūls,1,A,APV,ti,pst,ind,none,pfv,H,sg,barenp,ref,sp,nuniq,nfam,I,sg,barenp,act,sp,uniq,strg
+wos wı̮ɣte,1,AP,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ koı̯up tawen ta maı̯wès ,1,P,PV,ta,pst,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+kātèn ta wiste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" wiste, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+takwi katəl ı̯il'piliɣ ulan isəltaste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+pı̮ɣaɣe kisne maɣəs tan χɔ̄nt wɔ̄wi,1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,pron,act,sp,uniq,strg,I,sg,barenp,typid,nonsp,nuniq,nfam
+ ta mā χɔntəs ,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,demnp,act,sp,uniq,strg
+" - nēn am tit tārateɣŭm, wit tarməl, ",1,A,PAV,NoPtcl,npst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,2,du,pron,act,sp,uniq,sap
+ta kasasalasaɣe ,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,du,zero,act,sp,uniq,strg
+χapəŋ χumı̮ɣ kasalasaɣe,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,du,barenp,top,sp,uniq,strg
+" nɔ̄ŋχ alməstèn, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,I,sg,zero,ref,sp,nuniq,weak
+"χāpen pinsanen, χūlanèn",1,AP,VP,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,A,pl,dpossnp,act,sp,uniq,strg
+ puweɣēn,1,AP,V,NoPtcl,npst,imp,none,pfv,2,du,zero,act,sp,uniq,sap,H,du,zero,act,sp,uniq,strg
+ χāpəŋ taɣəl puweɣēn,1,AP,V,NoPtcl,npst,imp,none,pfv,2,du,zero,act,sp,uniq,sap,H,du,zero,act,sp,uniq,strg
+χap ta puwɔstèn,1,AP,PV,ta,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+ χomi ta rau̯tsastèn,1,AP,V,ta,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" pı̮ɣaɣe kit χumn ta puwwesı̮ɣ, ",1,P,PAV,ta,pst,ind,none,pfv,H,du,barenp,act,sp,uniq,strg,H,du,possnp,act,sp,uniq,strg
+ manare wiɣ! ,1,A,PV,NoPtcl,npst,ind,quest,pfv,H,sg,zero,top,sp,uniq,strg,U,abst,npron,undef,nonsp,nuniq,nfam
+wiŋkwe at ta werməsaɣe,1,AP,PV,ta,pst,ind,neg,npfv,H,sg,zero,top,sp,uniq,strg,H,du,zero,act,sp,uniq,strg
+χūl alasən? - āti,1,A,PV,NoPtcl,pst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,A,mass,barenp,typid,nonsp,nuniq,nfam
+" pı̮ɣaɣŭm ań mūnt ı̯ola taratasum, χūl aluŋkwe",1,A,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,H,du,possnp,fam,sp,uniq,strg
+kit χumn ı̯oχtuwesı̮ɣ,X,P,AV,NoPtcl,pst,ind,none,pfv,H,du,barenp,act,sp,uniq,strg,H,du,zero,typid,sp,nuniq,nfam
+" ı̯a, ta, lāwi, naŋ kitı̮ɣlasən? ",1,AP,AV,NoPtcl,pst,ind,quest,pfv,2,sg,pron,act,sp,uniq,sap,1,sg,zero,act,sp,uniq,sap
+naŋən woweɣum,1,A,PV,NoPtcl,npst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,2,sg,pron,act,sp,uniq,sap
+" TPϽ puŋke ı̯olanūw̭ moꞩ ɔ́ńsaste, ",1,AP,APV,NoPtcl,pst,ind,none,npfv,H,sg,barenp,fam,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ anum wȯwəslən,1,AP,PV,NoPtcl,pst,ind,none,pfv,2,sg,zero,act,sp,uniq,sap,1,sg,pron,top,sp,uniq,sap
+ χɔ̄ntlaχtən luwaɣamèn puweı̮n,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,A,du,possnp,ref,sp,uniq,nfam
+"ꞩērmattein, ",1,AP,V,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,A,du,zero,act,sp,uniq,strg
+seltan nen tuw pinen,1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,pl,possnp,ref,sp,uniq,weak
+ tuwəl ꞩermattas aɣe ,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,du,zero,act,sp,uniq,strg
+"ꞩetlonèn tus pinɒs, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,act,sp,uniq,strg
+MSχ woweln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,H,sg,barenp,act,sp,uniq,strg
+manarŭm alilum! ,1,AP,V,NoPtcl,npst,ind,quest,npfv,1,sg,zero,act,sp,uniq,sap,U,abst,npron,undef,nonsp,nuniq,nfam
+am naŋəŋ ı̯ot wowilŭm,1,AP,APV,NoPtcl,npst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,2,sg,pron,act,sp,uniq,sap
+χɔ̄ntlaχtən lawaɣamèn pawern,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,A,du,possnp,ref,sp,uniq,nfam
+ taı̯aɣe puwsaɣe,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,du,npron,act,sp,uniq,strg
+" ꞩermattasaɣe, ",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,du,zero,act,sp,uniq,strg
+ꞩetlanèn pinɒs,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,possnp,typid,sp,nuniq,nfam
+"luwaɣamèn ꞩermattasaɣum, ",1,AP,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,A,du,possnp,act,sp,uniq,strg
+ꞩetla taɣum,1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,A,du,zero,top,sp,uniq,strg
+sāt pȯrı̮ɣ tur nōŋχ taktalen,1,A,PV,NoPtcl,npst,imp,none,pfv,2,pl,zero,top,sp,uniq,sap,I,pl,barenp,ref,sp,uniq,nfam
+" kāеaɣe l'al't takamaɣe, ",1,AP,PV,NoPtcl,pst,evid,none,pfv,H,sg,zero,top,sp,uniq,strg,I,du,possnp,ref,sp,uniq,nfam
+ tɔ̄rumn χɔ̄ntlaχtŭŋkwe ɔs at taratawet,1,P,APV,NoPtcl,npst,ind,neg,npfv,H,sg,barenp,act,sp,uniq,strg,H,pl,zero,act,sp,uniq,strg
+" Wχ matər wārs, ",1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,U,abst,npron,undef,nonsp,nuniq,nfam
+ mana sāwit wērmeɣən ,1,A,PV,NoPtcl,npst,ind,none,npfv,2,sg,zero,top,sp,uniq,sap,U,abst,barenp,ref,sp,nuniq,nfam
+χūl alen ,1,A,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,A,mass,barenp,typid,nonsp,nuniq,nfam
+mana kem aleɣən ,1,A,PV,NoPtcl,npst,ind,none,pfv,2,sg,zero,top,sp,uniq,sap,U,abst,npron,ref,sp,nuniq,nfam
+witχul ta ali,1,A,PV,ta,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,A,mass,barenp,ref,nonsp,nuniq,strg
+ manrı̮ɣ ı̯uu̯ tuləslən,1,AP,V,NoPtcl,pst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+"χāl'èt χolit kit χum pērı̯en, ",1,A,PV,NoPtcl,npst,imp,none,pfv,2,pl,zero,act,sp,uniq,sap,H,du,barenp,typid,sp,nuniq,nfam
+ χolitan ti ȯln āni ı̯aŋk nēnsatə sɔ̄wəl perı̮ɣteln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,pl,zero,top,sp,uniq,sap,I,sg,demnp,act,sp,uniq,strg
+ lap nēɣelen ,1,AP,V,NoPtcl,npst,imp,none,pfv,2,pl,zero,top,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+wos totitēn,1,AP,V,NoPtcl,npst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ta χum tuu̯ ta wı̮ɣte,1,AP,AV,ta,npst,ind,none,pfv,H,sg,demnp,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ańɔ̄ꞩne maté ta χɔ̄ntɒste,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+ ńaı̯tən ta χɔ̄ntwes,1,P,AV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,zero,ref,sp,uniq,weak
+ ı̯aŋk sāli sɔ̄wəŋ tāɣəl ta wiste ,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ pı̮ɣı̮ɣ ɔ̄n’ꞩi. ,1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,H,du,barenp,typid,sp,nuniq,nfam
+" Kit janı̮ɣ χāp, kit sāt tal pı̮ɣaɣe ꞩɔpitası̮ɣ. ",1,A,PAV,NoPtcl,pst,ind,none,pfv,H,du,possnp,fam,sp,uniq,strg,I,du,barenp,typid,sp,nuniq,nfam
+ pɔra ta neı̮ɣsı̮ɣ. ,1,A,PV,ta,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+" janı̮ɣ uj n’ɔu̯l’ sāu̯ χūrı̮ɣ, janiı̮ɣ ij sāu̯ pȱt tāltəst. ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,pl,barenp,typid,sp,nuniq,nfam
+ tuji χul sɔ̄t pȱjkēn. ,1,A,PV,NoPtcl,npst,imp,none,npfv,2,du,zero,top,sp,uniq,sap,I,abst,barenp,ref,sp,uniq,nfam
+ taku̯si uj sɔ̄t pȱjkēn. ,1,A,PV,NoPtcl,npst,imp,none,npfv,2,du,zero,top,sp,uniq,sap,I,abst,barenp,ref,sp,uniq,nfam
+" - pū̬rlən matər ke ɔ̄n’ꞩeɣən,",1,A,PV,NoPtcl,npst,irr,none,npfv,2,sg,zero,act,sp,uniq,sap,U,abst,npron,undef,nonsp,nuniq,nfam
+ naŋ pū̬rleln,1,AP,AV,NoPtcl,npst,imp,none,npfv,2,sg,pron,top,sp,uniq,sap,U,abst,zero,ref,nonsp,nuniq,nfam
+ mēn tawen pū̬rlən matər at ɔn’ꞩimēn,1,A,APV,NoPtcl,npst,ind,neg,npfv,1,du,pron,act,sp,uniq,sap,U,abst,npron,undef,nonsp,nuniq,nfam
+ tuji χil sɔ̄t tawenəl χun’ pȱjkimēn. ,1,A,PV,NoPtcl,npst,ind,quest,npfv,1,du,zero,top,sp,uniq,sap,I,abst,barenp,ref,sp,uniq,strg
+ taku̯si uj sɔ̄t tawenəl χun’ pȱjkimen.,1,A,PV,NoPtcl,npst,ind,quest,npfv,1,du,zero,top,sp,uniq,sap,I,abst,barenp,ref,sp,uniq,strg
+" tuji χul sɔ̄t pȱjken,",1,A,PV,NoPtcl,npst,imp,none,npfv,2,du,zero,act,sp,uniq,sap,I,abst,barenp,ref,sp,uniq,strg
+ taku̯si uj sɔ̄t pȱjkēn. ,1,A,PV,NoPtcl,npst,imp,none,npfv,2,du,zero,top,sp,uniq,sap,I,abst,barenp,ref,sp,uniq,strg
+" - naŋ pū̬rlən matər ke ɔn’ꞩeɣən,",1,A,APV,NoPtcl,npst,irr,none,npfv,2,sg,pron,act,sp,uniq,sap,U,abst,npron,undef,nonsp,nuniq,nfam
+ naŋ pū̬rleln. ,1,AP,AV,NoPtcl,npst,imp,none,npfv,2,sg,pron,top,sp,uniq,sap,U,abst,zero,ref,nonsp,nuniq,nfam
+ mēn tawen pū̬rlən matər at ɔn’ꞩimen,1,A,APV,NoPtcl,npst,ind,neg,npfv,1,du,pron,act,sp,uniq,sap,U,abst,npron,undef,nonsp,nuniq,nfam
+" tuji χul sɔ̄t tawenəl χun’ pȱjkimen,",1,A,PV,NoPtcl,npst,ind,quest,npfv,1,du,zero,top,sp,uniq,sap,I,abst,barenp,ref,sp,uniq,strg
+ takusi uj sɔ̄t tawenəl χun’ pȱjkimen. ,1,A,PV,NoPtcl,npst,ind,quest,npfv,1,du,zero,top,sp,uniq,sap,I,abst,barenp,ref,sp,uniq,strg
+ tuji χul sɔ̄t pȱkēn,1,A,PV,NoPtcl,npst,imp,none,npfv,2,du,zero,top,sp,uniq,sap,I,abst,barenp,ref,nonsp,nuniq,nfam
+ taku̯si uj sɔ̄t pȱjkēn”,1,A,PV,NoPtcl,npst,imp,none,npfv,2,du,zero,top,sp,uniq,sap,I,abst,barenp,ref,nonsp,nuniq,nfam
+ - men tuji χul sɔ̄t tawenəl χun’ pȱjkimēn. ,1,A,APV,NoPtcl,npst,ind,quest,npfv,1,du,pron,act,sp,uniq,sap,I,abst,barenp,ref,nonsp,nuniq,nfam
+ taku̯si uj sɔ̄t tawenəl χun’ pȱjkimēn.,1,A,PV,NoPtcl,npst,ind,quest,npfv,1,du,zero,top,sp,uniq,sap,I,abst,barenp,ref,nonsp,nuniq,nfam
+ „pupı̮ɣn ērtal l’ul’ lātəŋ ta lāwsı̮ɣ.”,1,A,PV,ta,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,I,abst,barenp,ref,sp,uniq,weak
+ kȯl wārsət,1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+ Mirn akwaı̮ɣ χul tɔtawə. ,1,P,APV,NoPtcl,npst,ind,none,npfv,H,pl,barenp,ref,nonsp,nuniq,strg,I,mass,barenp,ref,nonsp,nuniq,weak
+" - naŋ pū̬rlən matər ke ɔn’ꞩeɣən,",1,A,APV,NoPtcl,npst,irr,none,npfv,2,sg,pron,act,sp,uniq,sap,U,abst,npron,undef,nonsp,nuniq,nfam
+ naŋ pū̬leln!,1,AP,AV,NoPtcl,npst,imp,none,npfv,2,sg,pron,top,sp,uniq,sap,U,abst,zero,ref,nonsp,nuniq,nfam
+ mēn tawēn pū̬rlən matər at ɔ̄n’ꞩimēn.,1,A,APV,NoPtcl,npst,ind,neg,npfv,1,du,pron,act,sp,uniq,sap,U,abst,npron,ref,nonsp,nuniq,nfam
+" naŋ manər ti sawit pupı̮ɣ ɔn’ꞩeɣən,",1,A,APV,NoPtcl,npst,ind,none,npfv,2,sg,pron,act,sp,uniq,sap,I,abst,demnp,typid,nonsp,nuniq,weak
+" men pū̬rlən matər at ɔn’ꞩimēn,",1,A,APV,NoPtcl,npst,ind,neg,npfv,1,du,pron,act,sp,uniq,sap,U,abst,npron,ref,nonsp,nuniq,nfam
+ joləl minam lāɣləŋ uj kɔnse χartum l’ɔ̄ŋχe at χɔ̄nteɣt. ,1,A,PV,NoPtcl,npst,ind,neg,npfv,H,du,zero,top,sp,uniq,strg,I,sg,possnp,typid,nonsp,nuniq,nfam
+ „pupı̮ɣn ertɒl l’ul’ latəŋ ta lawsən. ,1,A,PV,ta,pst,ind,none,pfv,2,du,zero,act,sp,uniq,sap,I,abst,barenp,ref,sp,uniq,weak
+ tɔru̮mn ertal l’ul’ latəŋ ta lawsən. ,1,A,PV,ta,pst,ind,none,pfv,2,sg,zero,top,sp,uniq,sap,I,abst,barenp,ref,sp,uniq,weak
+ńɔ̄χsēn alası̮ɣ.,1,A,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,A,sg,possnp,top,sp,uniq,strg
+alastēn.,1,AP,V,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+ɔ̄s alastēn.,1,AP,V,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+ɔ̄s alastēn.,1,AP,V,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+ɔ̄s alastēn.,1,AP,V,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+ań ńila ńɔχs ti alası̮ɣ.,1,A,PV,ti,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,A,pl,barenp,act,sp,uniq,strg
+ālası̮ɣ saka sēməl.,1,A,VP,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,A,sg,barenp,act,sp,uniq,strg
+-am ńɔ̄χsum manrı̮ɣ ı̯ol alaslen,1,AP,PV,NoPtcl,pst,ind,quest,pfv,H,du,zero,act,sp,uniq,sap,A,sg,possnp,act,sp,uniq,strg
+"-anum, lāwi, ta kɔꞩ pȯχten!",1,A,PV,NoPtcl,npst,imp,none,pfv,H,du,zero,top,sp,uniq,sap,H,sg,pron,act,sp,uniq,sap
+"matər āt'i tēpı̯alasət, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,U,abst,npron,undef,nonsp,nuniq,nfam
+ꞩaı̯ aı̯sət.,1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,mass,barenp,ref,sp,nuniq,nfam
+χuı̯ne mate ꞩɔ̄pitɒs (misχum).,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+"nēnan kinsi, ",1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,H,du,pron,act,sp,uniq,sap
+taχ anum nēn nɔŋχ tuı̯alēn.,1,A,PAV,NoPtcl,npst,imp,none,pfv,H,du,pron,top,sp,uniq,sap,H,sg,pron,act,sp,uniq,sap
+pal' ńārɣum tou̯melēn.,1,AP,PV,NoPtcl,npst,imp,none,pfv,H,du,zero,top,sp,uniq,sap,I,du,possnp,ref,sp,uniq,weak
+"pal' ńārɣŭm tou̯meı̯en,",1,A,PV,NoPtcl,npst,ind,none,pfv,H,du,zero,top,sp,uniq,sap,I,du,possnp,top,sp,uniq,strg
+"wɔ̄ŋχŭp almaı̯ēn,",1,A,PV,NoPtcl,npst,imp,none,pfv,H,du,zero,act,sp,uniq,sap,I,sg,barenp,typid,nonsp,nuniq,nfam
+anum wil't ı̯atta ı̯unı̮ɣte:lēn.,1,AP,PV,ta,npst,imp,none,pfv,H,du,zero,top,sp,uniq,sap,H,sg,pron,act,sp,uniq,sap
+"χańꞩtasaɣe,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,du,zero,top,sp,uniq,strg
+pal' ńārı̮ɣ kos tou̯malitēn.,1,AP,PV,NoPtcl,npst,ind,none,npfv,H,du,zero,top,sp,uniq,strg,I,du,barenp,fam,sp,uniq,strg
+wōŋχŭp wissı̮ɣ ,1,A,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,I,sg,barenp,fam,sp,nuniq,strg
+wil't ı̯at ta ı̯uniı̮ɣtasten.,1,AP,PV,ta,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,I,sg,barenp,fam,sp,uniq,strg
+"ta sāŋχwasaste,",1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+" - āɣikwe, ul'a tuꞩteln!",1,AP,PV,NoPtcl,npst,imp,none,pfv,H,sg,barenp,ref,sp,uniq,sap,I,sg,barenp,uniq,sp,uniq,nfam
+"- ı̯aɣpı̮ɣan, tı̮ɣ wowen.",1,A,PV,NoPtcl,npst,imp,none,pfv,H,sg,barenp,top,sp,uniq,sap,H,pl,possnp,ref,sp,uniq,weak
+ti totimutkweı̮ɣ ti χɔ̄tal χottal' totipeı̯aɣuw.,1,AP,PV,NoPtcl,npst,ind,none,pfv,H,pl,zero,top,sp,uniq,sap,H,du,barenp,act,sp,uniq,strg
+ -naŋ A145totamutaɣən ti χɔ̄tal maı̯ χotum wariı̯aɣuw̯,1,AP,PV,NoPtcl,npst,ind,none,pfv,H,pl,zero,top,sp,uniq,sap,H,du,possnp,act,sp,uniq,strg
+{manau̯n} maı̯eı̯n!,1,AP,V,NoPtcl,npst,imp,none,pfv,H,sg,zero,act,sp,uniq,sap,H,du,zero,top,sp,uniq,strg
+"-atim, at mı̮ɣaɣŭm.",1,AP,V,NoPtcl,npst,ind,neg,pfv,H,sg,zero,top,sp,uniq,sap,H,du,zero,act,sp,uniq,strg
+ tēɣaɣuw.,1,AP,V,NoPtcl,npst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,H,du,zero,top,sp,uniq,strg
+kan ta wāreɣt.,1,A,PV,ta,npst,ind,none,npfv,H,pl,zero,act,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,strg
+"kan wārsət,",1,A,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+"mir susne χum tān ta sāŋkwəlti, ",1,A,PV,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,nfam
+" ı̯ol poı̯ltaste,",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+MSX{ta χumı̮ɣ} wos mı̮-|ɣaɣe.,1,AP,APV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,du,demnp,act,sp,uniq,strg
+ań saŋkwəltane χum ɔs χul' ɔ̄tər saŋkwəlti ,1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,fam,sp,uniq,strg,H,sg,barenp,ref,sp,uniq,weak
+ ı̯ol ta nēɣəste.,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+-maı̯eɣēn!,1,AP,V,NoPtcl,npst,imp,none,pfv,H,pl,zero,act,sp,uniq,strg,H,du,zero,act,sp,uniq,strg
+mı̮ɣaɣuu̯.,1,AP,V,NoPtcl,npst,ind,none,pfv,H,pl,zero,act,sp,uniq,sap,H,du,zero,act,sp,uniq,strg
+manər wareɣt.,1,A,PV,NoPtcl,npst,ind,none,npfv,H,pl,zero,act,sp,uniq,strg,U,abst,npron,undef,nonsp,nuniq,nfam
+-nēnan am {at} mı̮ɣaɣum!,1,AP,PAV,NoPtcl,npst,ind,neg,pfv,H,sg,pron,top,sp,uniq,sap,H,du,pron,act,sp,uniq,sap
+man taχ matər wārew {ta warew},1,A,APV,ta,npst,ind,none,pfv,H,pl,pron,top,sp,uniq,sap,U,abst,npron,undef,nonsp,nuniq,nfam
+pupı̮ɣ ɔ̄ńꞩiı̯en man āti?,1,A,PV,NoPtcl,npst,ind,quest,npfv,H,du,pron,top,sp,uniq,sap,H,sg,barenp,typid,nonsp,nuniq,nfam
+wowiluw.,1,AP,V,NoPtcl,npst,ind,none,pfv,H,pl,zero,top,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+saŋkwəl- | tap ta ńartumtaste.,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,weak
+sāχitee χɔ̄t āŋχwəs ,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,ref,sp,uniq,weak
+naŋk ānkwaln nɔŋχ ta taɣataste.,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+katētəl nɔŋχ ti urmı̮ɣtaste.,1,AP,V,ti,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+nɔŋχ tuꞩtəste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ɔ̄s nɔŋχ tuꞩtite.,1,AP,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+-aū manrı̮ɣ totı̯aɣum.,1,AP,V,NoPtcl,npst,ind,quest,npfv,H,sg,pron,top,sp,uniq,sap,H,du,zero,act,sp,uniq,strg
+permtaχ- | tame mus siraı̯ ta lēı̮ɣmataste.,1,AP,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,weak
+Χ.Ɔ. ńol kwalɣe ńirasɒs.,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,fam,sp,uniq,strg,I,sg,possnp,ref,sp,nuniq,nfam
+ań alam utanəl alasunəl,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,pl,possnp,top,sp,uniq,strg,H,pl,possnp,act,sp,uniq,strg
+"-an, χutəl totı̮ɣlasaɣən",1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,du,zero,act,sp,uniq,strg
+akw tuu̯ ı̯uu̯ = toteɣı̯n.,1,AP,V,NoPtcl,npst,imp,none,pfv,H,sg,zero,top,sp,uniq,strg,H,du,zero,top,sp,uniq,strg
+"-a, lāwi tot'ı̯aɣŭm.",1,AP,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,sap,H,du,zero,top,sp,uniq,strg
+sāχite masɒs.,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,fam,sp,uniq,strg
+"ta χumı̯aɣe χotəl tatı̮ɣlasaɣe,",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,du,barenp,act,sp,uniq,strg
+"ńɔχəs alam mānəln, tuu̯ tatotsaɣe.",1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,du,zero,top,sp,uniq,strg
+ı̯aɣāɣite kēr sāli ūı̯ χumı̮ɣ ɔ̄ńꞩite,1,AP,APV,NoPtcl,npst,ind,none,npfv,H,sg,possnp,top,sp,uniq,strg,H,sg,barenp,uniq,sp,uniq,nfam
+tau̯ ta lakwꞩite,1,AP,AV,ta,npst,ind,none,npfv,H,sg,pron,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+"tēχam, anŭm ul alèln! ",1,AP,PV,NoPtcl,npst,imp,neg,pfv,2,sg,zero,act,sp,uniq,sap,A,sg,pron,act,sp,uniq,sap
+lakwsite,1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+ lakwsalite,1,AP,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+"e-e, tēχam, anŭm ul alèln! ",1,AP,PV,NoPtcl,npst,imp,neg,pfv,2,sg,zero,act,sp,uniq,sap,A,sg,pron,top,sp,uniq,sap
+ɔ̄s lakwsiı̯anəl. ,1,AP,V,NoPtcl,npst,ind,none,npfv,H,pl,zero,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+"e, χuma, χuma, anum ul alelèn. ",1,AP,PV,NoPtcl,npst,imp,neg,pfv,2,pl,zero,act,sp,uniq,sap,A,sg,pron,act,sp,uniq,sap
+"ei, χuma, anum ul alelen. ",1,AP,PV,NoPtcl,npst,imp,neg,pfv,2,pl,zero,act,sp,uniq,sap,A,sg,pron,act,sp,uniq,sap
+tɔ̄rəw ɔ̄ı̯ka lakwsaliı̯anəl.,1,AP,PV,NoPtcl,npst,ind,none,npfv,A,pl,zero,act,sp,uniq,strg,A,sg,barenp,top,sp,uniq,strg
+"eı̯, χuma, nan tai manər wāriı̯en? ",1,A,APV,NoPtcl,npst,ind,quest,npfv,2,pl,pron,ref,sp,uniq,sap,I,abst,npron,typid,nonsp,nuniq,nfam
+anŭm alūŋkwe kusiı̯en-a?,1,A,PV,NoPtcl,npst,ind,quest,npfv,2,pl,zero,act,sp,uniq,sap,1,sg,pron,act,sp,uniq,sap
+anum ul alelen. ,1,AP,PV,NoPtcl,npst,imp,neg,pfv,2,pl,zero,top,sp,uniq,sap,A,sg,pron,act,sp,uniq,sap
+ɔ̄s lakwsite,1,AP,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+anum ul alelen. ,1,AP,PV,NoPtcl,npst,imp,neg,pfv,2,pl,zero,act,sp,uniq,sap,A,sg,pron,act,sp,uniq,sap
+ta lakwsaliı̯anəl. ,1,AP,V,ta,npst,ind,none,npfv,A,pl,zero,top,sp,uniq,strg,A,sg,zero,act,sp,uniq,strg
+anum ul ālelen. ,1,AP,PV,NoPtcl,npst,imp,neg,pfv,2,pl,zero,top,sp,uniq,sap,A,sg,pron,act,sp,uniq,sap
+potəlma wāreɣt! ,1,A,PV,NoPtcl,npst,ind,none,npfv,A,pl,zero,top,sp,uniq,strg,I,abst,barenp,typid,sp,uniq,strg
+"ta ti,  lāwi, ńarten.",1,A,PV,ta,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,mass,pron,top,sp,uniq,strg
+"am ta ti teɣŭm, pusmeɣum. ",1,A,APV,ta,npst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,mass,pron,act,sp,uniq,strg
+"ı̯a, sāt pis āwi manurəl punsiı̯anuu̯?",1,AP,PV,NoPtcl,npst,ind,quest,pfv,1,pl,zero,act,sp,uniq,sap,I,pl,barenp,fam,sp,uniq,strg
+koni pis āwi χasumtasanəl ,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+tau̯ kolas ta ńarti. ,1,A,APV,ta,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,I,mass,barenp,fam,sp,uniq,strg
+"mat ı̯anı̮ɣ mat χuriɣ ɔ̄ńꞩɒs, ",1,A,PV,NoPtcl,pst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,weak
+"ań uı̯anum, ı̯un ta nārɒptawesət. ",X,P,PV,ta,pst,ind,none,pfv,A,pl,possnp,fam,sp,uniq,strg,A,pl,possnp,act,sp,uniq,strg
+manurəl kon pattiı̯anum. ,1,AP,V,NoPtcl,npst,ind,quest,pfv,1,sg,zero,top,sp,uniq,sap,A,pl,zero,top,sp,uniq,strg
+taχ kēr sāli ūı̯n ta alawem taχ.,1,P,AV,ta,npst,ind,none,pfv,H,sg,barenp,fam,sp,uniq,strg,H,sg,zero,top,sp,uniq,sap
+"ı̯uu̯ kolɒs χurɣe alməs, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+"kolas ńakwəl ta tittite, ",1,AP,V,ta,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+"ti tittiste, ",1,AP,V,ti,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ti taı̯apilum!,1,AP,V,ti,npst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,2,sg,zero,act,sp,uniq,sap
+naŋ - anum manurəl taı̯apilən saka pāŋkəŋ ɔ̄sum.,1,AP,APV,NoPtcl,npst,ind,quest,pfv,2,sg,pron,act,sp,uniq,sap,1,sg,pron,act,sp,uniq,sap
+anŭm uꞩ taı̯apeln ,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,1,sg,pron,act,sp,uniq,sap
+ań tot χul'tum ūı̯anən an kit āwi sakwatawes. ,1,P,APV,NoPtcl,pst,ind,none,pfv,A,pl,possnp,fam,sp,uniq,strg,I,du,barenp,fam,sp,uniq,strg
+"tuu̯l supane masapɒs, ",1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,typid,sp,uniq,weak
+sat ērı̮ɣ ɔ̄ńꞩeɣŭm,1,A,PV,NoPtcl,npst,ind,none,npfv,1,sg,zero,top,sp,uniq,sap,I,pl,barenp,typid,nonsp,nuniq,nfam
+taı̯anum erɣiı̯anum,1,AP,PV,NoPtcl,npst,ind,none,pfv,1,sg,zero,top,sp,uniq,strg,I,pl,pron,act,sp,uniq,strg
+sȯp sūpən palı̮ɣχarteln ,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,possnp,uniq,sp,uniq,weak
+sūpən pal=χarteln,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,possnp,uniq,sp,uniq,strg
+tuwl' nor ul'a paltsət. ,0,A,V,NoPtcl,pst,ind,none,pfv,A,pl,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+"ul'an paltsanəl, ",1,AP,PV,NoPtcl,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+"ta āraꞩt ta rau̯tite,",1,AP,V,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,mass,zero,act,sp,uniq,strg
+ta kinsite. ,1,AP,V,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+akw ert K.SU ańꞩar puŋk ti χɔ̄ntaste. ,1,AP,PV,ti,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+"ta wiste, ",1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ı̯uu̯ ta totɒste,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" ı̯uw̯ totɒste, ",1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+apꞩite osma ı̯oli palt tuu̯ pinɒste,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ı̯aɣaɣitèn ta totwès kuꞩńèꞩ pālt. ,1,P,AV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ta l'ɔ̄ŋχ χosit ta kɔ̄ı̯anəl.  ,1,AP,V,ta,npst,ind,none,npfv,A,pl,zero,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+"ta kɔ̄ı̯anəl, ",1,AP,V,ta,npst,ind,none,npfv,A,pl,zero,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ı̯aŋk tāra ta atintiı̯anəl,1,AP,V,ta,npst,ind,none,npfv,A,pl,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ ı̯āŋk ātinti. ,1,A,PV,NoPtcl,npst,ind,none,npfv,A,sg,zero,top,sp,uniq,strg,I,mass,barenp,ref,sp,uniq,weak
+tuwl ı̯aŋk sakwatuŋkwe ta patsət.,1,A,PV,ta,pst,ind,none,pfv,H,pl,zero,act,sp,uniq,strg,I,mass,barenp,ref,sp,uniq,strg
+ı̯āŋk tara ti pásat:sanəl.,1,AP,V,ti,pst,ind,none,pfv,A,pl,zero,top,sp,uniq,strg,I,mass,zero,typid,nonsp,nuniq,nfam
+"tara, pasatsanəl, ",1,AP,V,NoPtcl,pst,ind,none,pfv,A,pl,zero,top,sp,uniq,strg,I,mass,zero,typid,nonsp,nuniq,nfam
+nɔ̄ŋχ ti χartsanəl ,1,AP,V,ti,pst,ind,none,pfv,A,pl,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+"ı̯a, ta, laweɣt, manurəl pȯl'iɣ sakwatiluw! ",1,AP,V,NoPtcl,npst,ind,quest,pfv,1,pl,zero,act,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+kēr pȯꞩka χum wariı̯anəl? ,1,AP,PV,NoPtcl,npst,ind,quest,pfv,A,pl,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+"tɔ̄rewn ꞩaχnil kos ı̯unı̮ɣtalàwe, ",1,P,V,NoPtcl,npst,ind,none,pfv,A,sg,barenp,act,sp,uniq,weak,I,sg,zero,top,sp,uniq,strg
+nēm χotum  ta wāriı̯anəl.,1,AP,V,ta,npst,ind,none,npfv,A,pl,zero,act,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+"puŋk pattal kos l'ēŋktasite,",1,AP,V,NoPtcl,npst,ind,none,npfv,A,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+"poꞩka takəꞩ pinelen,  pattate tı̮ɣl'e l'al't. ",1,AP,PV,NoPtcl,npst,imp,none,pfv,2,pl,zero,act,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+ań pȯꞩka pattate ān'təl ta l'ēŋktasaste . ,1,AP,PV,ta,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,weak
+akw ti ꞩos ı̯anɣı̮ɣ ti manliɣtasanəl. ,1,AP,V,ti,pst,ind,none,pfv,A,pl,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+koꞩaı̯anəl kon ti lēwmatsanəl.,1,AP,PV,ti,pst,ind,none,pfv,A,pl,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+"lēwmatsanəl, ",1,AP,V,NoPtcl,pst,ind,none,pfv,A,pl,zero,top,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ta sunsiɣliı̯anəl ,1,AP,V,ta,npst,ind,none,npfv,A,pl,zero,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+"akw ert pal'=asèt ti χɔ̄ntsanəl, ",1,AP,V,ti,pst,ind,none,pfv,A,pl,zero,top,sp,uniq,strg,I,sg,zero,ref,sp,uniq,weak
+ı̯a manurəl ı̯altaptiluw̯? ,1,AP,V,NoPtcl,npst,ind,quest,pfv,1,pl,zero,top,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+"sipɣiluw, ",1,AP,V,NoPtcl,npst,ind,none,npfv,1,pl,zero,top,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+"ɔs ɔ̄χsɒr ɔ̄ı̯ka tur χɔ̄sit ta pēlwès, ",X,P,V,ta,pst,ind,none,pfv,I,sg,zero,act,sp,uniq,strg,A,sg,barenp,top,sp,uniq,strg
+χotum lawi ɔs nɔŋχ ı̯altupte:len ,1,AP,V,NoPtcl,npst,imp,none,pfv,2,pl,zero,act,sp,uniq,sap,A,sg,zero,top,sp,uniq,strg
+anum χāpɣa puŋna sup tı̮ɣ totelen. ,1,AP,PV,NoPtcl,npst,imp,none,pfv,2,pl,zero,top,sp,uniq,sap,A,sg,barenp,typid,nonsp,nuniq,nfam
+koꞩaı̯ ɔs ı̯altŭptawes.,X,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ań āpꞩitēn wȯı̯wès ,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg

@@ -1,0 +1,14 @@
+{
+  "df_all_fs_all_type_AO_resp_A-rform": 0.7056277056277056,
+  "df_all_fs_verb_ref_type_AO_resp_A-rform": 0.7316017316017316,
+  "df_all_fs_disc_type_AO_resp_A-rform": 0.7445887445887446,
+  "df_all_fs_disc_ref_type_AO_resp_A-rform": 0.7445887445887446,
+  "df_all_fs_verb_type_AO_resp_A-rform": 0.7359307359307359,
+  "df_all_fs_tg_type_AO_resp_A-rform": 0.7359307359307359,
+  "df_ind_fs_all_type_AO_resp_A-rform": 0.8051282051282052,
+  "df_ind_fs_verb_ref_type_AO_resp_A-rform": 0.7794871794871795,
+  "df_ind_fs_disc_type_AO_resp_A-rform": 0.8256410256410256,
+  "df_ind_fs_disc_ref_type_AO_resp_A-rform": 0.8051282051282052,
+  "df_ind_fs_verb_type_AO_resp_A-rform": 0.7794871794871795,
+  "df_ind_fs_tg_type_AO_resp_A-rform": 0.7794871794871795
+}

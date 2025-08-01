@@ -1,0 +1,405 @@
+n,Text,Place,,,Trans,Form,W-ord,Tns,Mood,SenT,Pfv,Ptcl,S-anim,S-Numb,A-rform,A-rstat,A-sp,A-uniq,A-fam,O-anim,O-Numb,O-rform,O-rstat,O-sp,O-uniq,O-fam
+,,,СКАЗКА О ЖЕЛЕЗНОМ ВОЛКЕ,0,,,,,,,,,,,,,,,,,,,,,,
+1,BROTHER AND SISTER,Katravozh,ı̯a an χum ı̯aɣāɣitēntəl ɔ̄lèı̮ɣ,1,0,A,AV,npst,ind,,npfv,,H,sg,barenp,ref,sp,uniq,nfam,,,,,,,
+2,BROTHER AND SISTER,Katravozh,ı̯aɣāɣite kēr sāli ūı̯ χumı̮ɣ ɔ̄ńꞩite,2,1,AP,APxV,npst,ind,,npfv,,H,sg,possnp,top,sp,uniq,strg,H,sg,barenp,uniq,sp,uniq,nfam
+3,BROTHER AND SISTER,Katravozh,āpꞩite lāwi ,3,0,A,AV,npst,ind,,pfv,,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+4,BROTHER AND SISTER,Katravozh,am sar wɔ̄rn ı̯aleɣŭm.,4,0,A,AxV,npst,hort,,pfv,,1,sg,pron,top,sp,uniq,sap,,,,,,,
+4,BROTHER AND SISTER,Katravozh,wɔ̄rn ta minas,5,0,A,V,pst,ind,,pfv,ta,H,sg,zero,top,sp,uniq,strg,,,,,,,
+4,BROTHER AND SISTER,Katravozh,"wɔ̄rn minas,  ",6,0,A,V,pst,ind,,pfv,,H,sg,zero,top,sp,uniq,strg,,,,,,,
+,,,akw māt sunsi:,7,0,A,V,npst,ind,,pfv,,H,sg,zero,top,sp,uniq,strg,,,,,,,
+,,,sɔ̄u̯r sultɣali,8,0,A,AV,npst,ind,,npfv,,A,sg,barenp,typid,sp,uniq,nfam,,,,,,,
+5,BROTHER AND SISTER,Katravozh,tau̯ ta lakwꞩite,9,1,AP,AxV,npst,ind,,npfv,ta,H,sg,pron,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+6,BROTHER AND SISTER,Katravozh,akw ert sɔ̄w̯r lāwi ,10,0,A,AV,npst,ind,,pfv,,A,sg,barenp,top,sp,uniq,strg,,,,,,,
+7,BROTHER AND SISTER,Katravozh,"tēχam, anŭm ul alèln! ",11,1,AP,PV,npst,imp,neg,pfv,,2,sg,zero,act,sp,uniq,sap,A,sg,pron,act,sp,uniq,sap
+7,BROTHER AND SISTER,Katravozh,"ı̯a, naŋ ı̯urꞩχà:tən ",12,0,A,AV,npst,imp,,pfv,,2,sg,pron,act,sp,uniq,sap,,,,,,,
+7,BROTHER AND SISTER,Katravozh,ı̯uw̯ ta minası̮ɣ,13,0,A,V,pst,ind,,pfv,ta,A,du,zero,top,sp,max,strg,,,,,,,
+7,BROTHER AND SISTER,Katravozh,tawèn ta ı̯urꞩχatɒs,14,0,A,V,pst,ind,,pfv,ta,A,sg,zero,top,sp,uniq,strg,,,,,,,
+8,BROTHER AND SISTER,Katravozh,aku̯ ı̯ot ı̯uu̯ ta minası̮ɣ,15,0,A,V,pst,ind,,pfv,ta,A,du,zero,top,sp,max,strg,,,,,,,
+9,BROTHER AND SISTER,Katravozh,"ı̯uu̯ minası̮ɣ,",16,0,A,V,pst,ind,,pfv,,A,du,zero,top,sp,max,strg,,,,,,,
+,,, ı̯un χūlsı̮ɣ,17,0,A,V,pst,ind,,pfv,,A,du,zero,top,sp,max,strg,,,,,,,
+10,BROTHER AND SISTER,Katravozh,χolit akwı̯ot wɔ̄rn ta minası̮ɣ,18,0,A,V,npst,ind,,pfv,ta,A,du,zero,top,sp,max,strg,,,,,,,
+10,BROTHER AND SISTER,Katravozh,akw māt ɔ̄χsɒr ı̯ɔ̄mı̮ɣti,19,0,A,AV,npst,ind,,npfv,,A,sg,barenp,typid,sp,uniq,nfam,,,,,,,
+11,BROTHER AND SISTER,Katravozh,lakwsite,20,1,AP,V,npst,ind,,npfv,,H,sg,zero,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+,,, lakwsalite,21,1,AP,V,npst,ind,,npfv,,H,sg,zero,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+12,BROTHER AND SISTER,Katravozh,akw ert ɔ̄χsar ɔ̄ı̯ka lāwi ,22,0,A,AV,npst,ind,,pfv,,A,sg,barenp,act,sp,uniq,fam,,,,,,,
+12,BROTHER AND SISTER,Katravozh,"e-e, tēχam, anŭm ul alèln! ",23,1,AP,PV,npst,imp,neg,pfv,,2,sg,zero,act,sp,uniq,sap,A,sg,pron,top,sp,uniq,sap
+13,BROTHER AND SISTER,Katravozh,am naŋən ı̯urꞩateɣŭm. ,24,0,A,AxV,npst,ind,,pfv,,A,sg,pron,top,sp,uniq,sap,,,,,,,
+13,BROTHER AND SISTER,Katravozh,"ı̯a, ta, naŋ ı̯urꞩχaten. ",25,0,A,AV,npst,imp,,pfv,,A,sg,pron,top,sp,uniq,sap,,,,,,,
+14,BROTHER AND SISTER,Katravozh,tawēn ta ı̯urꞩχatɒs.,26,0,A,V,pst,ind,,pfv,ta,A,sg,zero,top,sp,uniq,strg,,,,,,,
+15,BROTHER AND SISTER,Katravozh,ı̯uu̯ ta  minasət. ,27,0,A,V,pst,ind,,pfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+,,,ı̯uu̯ minasət ,28,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+16,BROTHER AND SISTER,Katravozh,ı̯un χulsət. ,29,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+,,,"χolitanı̮ɣ ı̯ēmtəs,  ",30,0,A,V,pst,ind,,pfv,,,,,,,,,,,,,,,
+,,,ɔ̄s ta minasət. ,31,0,A,V,pst,ind,,pfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+17,BROTHER AND SISTER,Katravozh,akw māt tūlmaχ ɔ̄ı̯ka ı̯ɔ̄mı̮ɣti. ,32,0,A,AV,npst,ind,,npfv,,A,sg,barenp,typid,sp,uniq,nfam,,,,,,,
+,,,ɔ̄s lakwsiı̯anəl. ,33,1,AP,V,npst,ind,,npfv,,H,pl,zero,act,sp,max,strg,A,sg,zero,top,sp,uniq,strg
+18,BROTHER AND SISTER,Katravozh,akw ert ɔ̄s tı̮ɣl'e aŋkwatɒs ,34,0,A,V,pst,ind,,pfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+19,BROTHER AND SISTER,Katravozh,"e, χuma, χuma, anum ul alelèn. ",35,1,AP,PV,npst,imp,neg,pfv,,2,pl,zero,act,sp,max,sap,A,sg,pron,act,sp,uniq,sap
+20,BROTHER AND SISTER,Katravozh,am nanan ı̯urꞩχateɣŭm ,36,0,A,AxV,npst,ind,,pfv,,A,sg,pron,top,sp,uniq,sap,,,,,,,
+21,BROTHER AND SISTER,Katravozh,"ı̯a, naŋ {manau̯n} ı̯urꞩχatən, ",37,0,A,V,npst,imp,,pfv,,A,sg,pron,top,sp,uniq,sap,,,,,,,
+,,,ı̯uw mineu̯! ,38,0,A,V,npst,hort,,,,A,pl,zero,top,sp,max,sap,,,,,,,
+,,,ta ı̯uu̯ ta minasət. ,39,0,A,V,pst,ind,,pfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+,,,ı̯uu̯ ı̯oχtesət. ,40,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+22,BROTHER AND SISTER,Katravozh,ɔ̄s ta χūlsət. ,41,0,A,V,pst,ind,,pfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+,,,χolit ɔ̄s wɔ̄rn ta minasət. ,42,0,A,V,pst,ind,,pfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+23,BROTHER AND SISTER,Katravozh,akw māt lēu̯ ižwer ı̯ɔ̄mı̮ɣti.,43,0,A,AV,npst,ind,,npfv,,A,sg,barenp,typid,sp,uniq,nfam,,,,,,,
+24,BROTHER AND SISTER,Katravozh,ɔ̄s ti lakwsa:we.,44,X,P,V,npst,ind,,pfv,ti,A,sg,zero,act,sp,uniq,strg,A,sg,zero,act,sp,uniq,strg
+25,BROTHER AND SISTER,Katravozh,"tı̮ɣl'e aŋkwatɒs, ",45,0,A,V,pst,ind,,pfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+26,BROTHER AND SISTER,Katravozh,"{tan nupəlanəl} sunsi, ",46,0,A,V,npst,ind,,npfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+27,BROTHER AND SISTER,Katravozh,lāwi ,47,0,A,V,npst,ind,,pfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+28,BROTHER AND SISTER,Katravozh,"ei, χuma, anum ul alelen. ",48,1,AP,PV,npst,imp,neg,pfv,,2,pl,zero,act,sp,max,sap,A,sg,pron,act,sp,uniq,sap
+29,BROTHER AND SISTER,Katravozh,am nanan ı̯urꞩχateɣŭm.,49,0,A,AV,npst,ind,,pfv,,1,sg,pron,top,sp,uniq,sap,,,,,,,
+30,BROTHER AND SISTER,Katravozh," ı̯a, naŋ, laweɣt, ı̯urꞩχàtən ",50,0,A,AxV,npst,imp,,pfv,,2,sg,pron,top,sp,uniq,sap,,,,,,,
+31,BROTHER AND SISTER,Katravozh,manawn ı̯urt ēri. ,51,0,A,AV,npst,ind,,npfv,,A,sg,barenp,typid,nonsp,nuniq,nfam,,,,,,,
+32,BROTHER AND SISTER,Katravozh,ı̯uu̯ ta minasət. ,52,0,A,V,pst,ind,,pfv,ta,A,pl,zero,act,sp,max,strg,,,,,,,
+33,BROTHER AND SISTER,Katravozh,"ı̯uu̯ ı̯oχtesət, ",53,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+33,BROTHER AND SISTER,Katravozh,ı̯un χūlsət.,54,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+33,BROTHER AND SISTER,Katravozh,χolit kwalsət. ,55,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+34,BROTHER AND SISTER,Katravozh,"χuma, ɔ̄s wɔ̄rn ı̯alew.",56,0,A,V,npst,hort,,pfv,,1,pl,zero,top,sp,max,sap,,,,,,,
+35,BURIALS,Aksarka,an χum iŋt tɔ̄u̯li. ,57,0,A,AxV,npst,ind,,npfv,,A,sg,barenp,typid,nonsp,nuniq,nfam,,,,,,,
+35,BURIALS,Aksarka,ta minasət. ,58,0,A,V,pst,ind,,pfv,ta,A,pl,zero,act,sp,max,strg,,,,,,,
+35,BURIALS,Aksarka,wɔ̄rn minasət. ,59,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+36,BURIALS,Aksarka,akw māt tɔ̄rəw ı̯ɔ̄mı̮ɣti. ,60,0,A,AV,npst,ind,,npfv,,A,sg,barenp,ref,sp,uniq,nfam,,,,,,,
+36,BURIALS,Aksarka,tɔ̄rəw ɔ̄ı̯ka lakwsaliı̯anəl.,61,1,AP,PV,npst,ind,,npfv,,A,pl,zero,act,sp,max,strg,A,sg,barenp,top,sp,uniq,strg
+36,BURIALS,Aksarka,akw ert tan nupəlanəl sunsi,62,0,A,V,npst,ind,,pfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+37,BURIALS,Aksarka,"eı̯, χuma, nan tai manər wāriı̯en? ",63,1,A,AxPV,npst,ind,quest,npfv,,2,pl,pron,ref,sp,max,sap,I,abst,indefp,typid,nonsp,nuniq,nfam
+38,BURIALS,Aksarka,anŭm alūŋkwe kusiı̯en-a?,64,1,A,PxV,npst,ind,quest,npfv,,2,pl,zero,act,sp,max,sap,1,sg,pron,act,sp,uniq,sap
+39,BURIALS,Aksarka,anum ul alelen. ,65,1,AP,PV,npst,imp,neg,pfv,,2,pl,zero,top,sp,max,sap,A,sg,pron,act,sp,uniq,sap
+40,BURIALS,Aksarka,am nan palten ı̯urꞩχateɣŭm.,66,0,A,AxV,npst,ind,,pfv,,1,sg,pron,top,sp,uniq,sap,,,,,,,
+41,BURIALS,Aksarka,"ı̯a naŋ, laweɣt, ı̯úrꞩχatən. ",67,0,A,AxV,npst,imp,,pfv,,2,sg,pron,top,sp,uniq,sap,,,,,,,
+41,BURIALS,Aksarka,ta ı̯urꞩχaitəs.,68,0,A,V,pst,ind,,pfv,ta,A,sg,zero,top,sp,uniq,strg,,,,,,,
+42,BURIALS,Aksarka,"ı̯a, ı̯uu̯ minew.",69,0,A,V,npst,hort,,pfv,,1,pl,zero,top,sp,max,sap,,,,,,,
+42,BURIALS,Aksarka,ı̯uw̯ ɔ̄s ta minasət. ,70,0,A,V,pst,ind,,pfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+42,BURIALS,Aksarka,ı̯uu̯ ı̯oχtesət,71,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+,,, ı̯un ɔ̄s χūlsət.,72,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+43,BURIALS,Aksarka,"χolitanı̮ɣ ı̯ēmtəs, ",73,0,A,V,pst,ind,,pfv,,,,,,,,,,,,,,,
+44,BURIALS,Aksarka,ɔ̄s wɔ̄rn minasət.,74,0,A,V,pst,ind,,pfv,,A,pl,zero,act,sp,max,strg,,,,,,,
+45,BURIALS,Aksarka,"akw mat sunseɣt, ",75,0,A,V,npst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+46,BURIALS,Aksarka,raꞩ ı̯omı̮ɣti ,76,0,A,AV,npst,ind,,npfv,,A,sg,barenp,ref,sp,uniq,nfam,,,,,,,
+47,BURIALS,Aksarka,ɔ̄s lakwsite,77,1,AP,V,npst,ind,,pfv,,H,sg,zero,act,sp,uniq,strg,A,sg,zero,top,sp,uniq,strg
+48,BURIALS,Aksarka,"tēχam, tēχam, lawi, ",78,0,A,V,npst,ind,,pfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+49,THE CUCKOO,Kharsaim,anum ul alelen. ,79,1,AP,PV,npst,imp,neg,pfv,,2,pl,zero,act,sp,max,sap,A,sg,pron,act,sp,uniq,sap
+50,THE CUCKOO,Kharsaim,am nanan ı̯urꞩχateɣŭm,80,0,A,AV,npst,ind,,pfv,,1,sg,pron,top,sp,uniq,sap,,,,,,,
+51,THE CUCKOO,Kharsaim,"naŋ ı̯urꞩχa:tən, ",81,0,A,AV,npst,imp,,pfv,,2,sg,pron,top,sp,uniq,sap,,,,,,,
+52,THE CUCKOO,Kharsaim,laweɣt. ,82,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+53,THE CUCKOO,Kharsaim,ta ı̯urꞩχa:tɒs. ,83,0,A,V,pst,ind,,pfv,ta,A,sg,zero,top,sp,uniq,strg,,,,,,,
+54,THE CUCKOO,Kharsaim,ı̯uu̯ ta mina:sət ,84,0,A,V,pst,ind,,pfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+55,THE CUCKOO,Kharsaim,"ı̯uu̯ minasət,",85,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+,,," ı̯uu̯ ı̯oχtəsət, ",86,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+56,THE CUCKOO,Kharsaim,ı̯un ta χūlsət.,87,0,A,V,pst,ind,,pfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+57,THE CUCKOO,Kharsaim,"χolit kwalsət, ",88,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+58,THE CUCKOO,Kharsaim,"ı̯a, laweɣt, ",89,0,A,V,npst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+59,THE CUCKOO,Kharsaim,ɔ̄s wɔ̄rn ı̯alew ,90,0,A,V,npst,hort,,pfv,,1,pl,zero,top,sp,max,sap,,,,,,,
+60,THE CUCKOO,Kharsaim,{ɔ̄s} wɔ̄rn ta minasət,91,0,A,V,pst,ind,,pfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+61,THE CUCKOO,Kharsaim,akw mat sɔ̄rp ɔ̄ı̯ka ı̯ȯmı̮ɣti,92,0,A,AV,npst,ind,,npfv,,A,sg,barenp,ref,sp,uniq,nfam,,,,,,,
+62,THE CUCKOO,Kharsaim,ta lakwsaliı̯anəl. ,93,1,AP,V,npst,ind,,npfv,ta,A,pl,zero,top,sp,max,strg,A,sg,zero,act,sp,uniq,strg
+63,THE CUCKOO,Kharsaim,akw ert tan nuplanəl ta āŋkwatɒs.,94,0,A,V,pst,ind,,pfv,ta,A,sg,zero,top,sp,uniq,strg,,,,,,,
+,,,lāwi ,95,0,A,V,npst,ind,,pfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+64,THE CUCKOO,Kharsaim,anum ul ālelen. ,96,1,AP,PV,npst,imp,neg,pfv,,2,pl,zero,top,sp,max,sap,A,sg,pron,act,sp,uniq,sap
+65,THE CUCKOO,Kharsaim,am nanan ı̯urꞩχateɣŭm,97,0,A,AxV,npst,ind,,pfv,,1,sg,pron,top,sp,uniq,sap,,,,,,,
+66,THE CUCKOO,Kharsaim,"ı̯a, lāweɣt, ",98,0,A,V,npst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+67,THE CUCKOO,Kharsaim,naŋ ı̯urꞩχa:tən,99,0,A,AV,npst,imp,,pfv,,2,sg,pron,act,sp,uniq,sap,,,,,,,
+68,THE CUCKOO,Kharsaim,tananəlna ta ı̯urꞩχaitɒs.,100,0,A,V,pst,ind,,pfv,ta,A,sg,zero,top,sp,uniq,strg,,,,,,,
+69,THE CUCKOO,Kharsaim,ı̯uu̯ ta minasət. ,101,0,A,V,pst,ind,,pfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+70,THE CUCKOO,Kharsaim,ta ɔ̄leɣt,102,0,A,V,npst,ind,,npfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+71,THE CUCKOO,Kharsaim,uı̯t kona = ı̯uu̯ ta ı̯alēɣt,103,0,A,V,npst,ind,,npfv,ta,A,pl,barenp,top,sp,max,strg,,,,,,,
+72,THE CUCKOO,Kharsaim,"ta ı̯onɣeɣt, ",104,0,A,V,npst,ind,,npfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+73,THE CUCKOO,Kharsaim,"ta χopəlteɣt, ",105,0,A,V,npst,ind,,npfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+74,THE CUCKOO,Kharsaim,ta ı̯oŋχərteɣt. ,106,0,A,V,npst,ind,,npfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+,,,ı̯aɣāɣite akw ert lawi ,107,0,A,AxV,npst,ind,,pfv,,H,sg,possnp,fam,sp,uniq,strg,,,,,,,
+75,THE CUCKOO,Kharsaim,"e, lawi, manər potəlma! ti manrı̮ɣ ta atum utane totum utane. ",108,0,,,,,,,,,,,,,,,,,,,,,
+76,THE CUCKOO,Kharsaim,potəlma wāreɣt! ,109,1,A,PV,npst,ind,,npfv,,A,pl,zero,top,sp,max,strg,I,abst,barenp,typid,sp,uniq,fam
+76,THE CUCKOO,Kharsaim,akw=ert ı̯aɣāɣite āɣməl ti ı̯ēmtəs. ,110,0,A,AxV,pst,ind,,pfv,ti,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+77,THE CUCKOO,Kharsaim,lāwi,111,0,A,V,npst,ind,,pfv,,H,sg,possnp,top,sp,uniq,strg,,,,,,,
+78,THE CUCKOO,Kharsaim,"tot, lāwi, sat pis kēr awip ampar tot ɔ̄li",112,0,A,AxV,npst,ind,,npfv,,I,sg,barenp,ref,sp,uniq,nfam,,,,,,,
+79,THE CUCKOO,Kharsaim,"tuu̯ ı̯alen, ",113,0,A,V,npst,imp,,pfv,,2,sg,zero,act,sp,uniq,sap,,,,,,,
+80,THE CUCKOO,Kharsaim,sat pis ker āwip ampar pattan tuu̯ ꞩalten.,114,0,A,V,npst,imp,,pfv,,2,sg,zero,zero,sp,uniq,sap,,,,,,,
+,,,kolas ńakw tot ɔ̄li,115,0,A,AxV,npst,ind,,npfv,,I,mass,barenp,ref,sp,uniq,nfam,,,,,,,
+,,,"ta ti,  lāwi, ńarten.",116,1,A,PxV,npst,imp,,pfv,ta,2,sg,zero,act,sp,uniq,sap,I,mass,pron,top,sp,uniq,strg
+81,THE CUCKOO,Kharsaim,tuwəl am paltum  toten. ,117,X,A,V,npst,imp,,pfv,,2,sg,zero,top,sp,uniq,sap,,,,,,,
+82,THE CUCKOO,Kharsaim,"am ta ti teɣŭm, pusmeɣum. ",118,1,A,AxPV,npst,ind,,pfv,ta,1,sg,zero,act,sp,uniq,sap,I,mass,pron,act,sp,uniq,strg
+83,THE CUCKOO,Kharsaim,tuwl ta minasət. ,119,0,A,V,pst,ind,,pfv,ta,A,pl,zero,act,sp,uniq,strg,,,,,,,
+84,THE CUCKOO,Kharsaim,"minasət, ",120,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,uniq,strg,,,,,,,
+,,,tuu̯ ı̯oχtesət.,121,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,uniq,strg,,,,,,,
+85,THE CUCKOO,Kharsaim,"ı̯a, sāt pis āwi manurəl punsiı̯anuu̯?",122,1,AP,PxV,npst,ind,quest,pfv,,1,pl,zero,act,sp,max,sap,I,pl,barenp,fam,sp,uniq,strg
+85,THE CUCKOO,Kharsaim,koni pis āwi χasumtasanəl ,123,1,AP,PV,pst,ind,,pfv,,H,pl,zero,top,sp,max,strg,I,sg,barenp,act,sp,uniq,strg
+86,THE CUCKOO,Kharsaim,sāt āwi pussən ta pūsχatsət. ,124,0,A,AxV,pst,ind,,pfv,ta,I,pl,barenp,act,sp,max,strg,,,,,,,
+87,THE CUCKOO,Kharsaim,ı̯uu̯ ta ꞩaltsət. ,125,0,A,V,pst,ind,,pfv,ta,A,pl,zero,act,sp,max,strg,,,,,,,
+88,THE CUCKOO,Kharsaim,"ı̯uu̯ ꞩaltsət,",126,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+89,THE CUCKOO,Kharsaim,uı̯ane kol kanna ı̯ol ta χuı̯lı̮ɣtasət.,127,0,A,AxV,pst,ind,,pfv,ta,A,pl,possnp,top,sp,max,strg,,,,,,,
+90,THE CUCKOO,Kharsaim,tau̯ kolas ta ńarti. ,128,1,A,APxV,npst,ind,,npfv,ta,H,sg,zero,act,sp,uniq,strg,I,mass,barenp,fam,sp,uniq,strg
+91,THE CUCKOO,Kharsaim,"mat ı̯anı̮ɣ mat χuriɣ ɔ̄ńꞩɒs, ",129,1,A,PV,pst,ind,,npfv,,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,ref,sp,uniq,w_prcp
+92,THE CUCKOO,Kharsaim,ta tāɣintɒs. ,130,X,A,V,pst,ind,,pfv,ta,H,sg,zero,top,sp,uniq,strg,,,,,,,
+93,THE CUCKOO,Kharsaim,kon ta kwālapɒs. ,131,0,A,V,pst,ind,,pfv,ta,H,sg,zero,top,sp,uniq,strg,,,,,,,
+93,THE CUCKOO,Kharsaim,tau̯ kon kwālapakēte sāt āwi pussən ta lap ta pantχatsət. ,132,0,A,AxV,pst,ind,,pfv,ta,I,pl,barenp,fam,sp,max,strg,,,,,,,
+94,THE CUCKOO,Kharsaim,"eɣe, lawi, manər ı̯anı̮ɣ karek. ",133,0,A,V,npst,ind,,,,H,sg,zero,act,sp,uniq,strg,,,,,,,
+95,THE CUCKOO,Kharsaim,"ań uı̯anum, ı̯un ta nārɒptawesət. ",134,X,P,PxV,pst,ind,,pfv,ta,A,pl,possnp,fam,sp,max,strg,A,pl,possnp,act,sp,max,strg
+96,DIALOGUE,Katravozh,manurəl kon pattiı̯anum. ,135,1,AP,V,npst,ind,quest,pfv,,1,sg,zero,top,sp,uniq,sap,A,pl,zero,top,sp,max,strg
+97,DIALOGUE,Katravozh,nemat piꞩum at ārtmi.,136,0,A,V,npst,ind,neg,npfv,,,,,,,,,,,,,,,
+98,DIALOGUE,Katravozh,"ań ı̯uu̯ ı̯oχteɣum, ",137,0,A,V,npst,ind,,pfv,,1,sg,zero,top,sp,uniq,sap,,,,,,,
+99,DIALOGUE,Katravozh,taχ kēr sāli ūı̯n ta alawem taχ.,138,1,P,AxV,fut,ind,,pfv,ta,H,sg,barenp,fam,sp,uniq,strg,H,sg,zero,top,sp,uniq,sap
+100,DIALOGUE,Katravozh,"ı̯uu̯ kolɒs χurɣe alməs, ",139,1,A,PV,pst,ind,,pfv,,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+101,DIALOGUE,Katravozh,ı̯uu̯ ta minas.,140,0,A,V,pst,ind,,pfv,ta,H,sg,zero,top,sp,uniq,strg,,,,,,,
+102,DIALOGUE,Katravozh,ań uı̯ane tuu̯ ta χul'tsət. ,141,0,A,AxV,pst,ind,,pfv,ta,A,pl,possnp,act,sp,max,strg,,,,,,,
+103,DIALOGUE,Katravozh,ı̯uu̯ ı̯oχtəs ,142,0,A,V,pst,ind,,pfv,,H,sg,zero,act,sp,uniq,strg,,,,,,,
+,,,ań ı̯aɣāɣite iŋ aɣməŋ ,143,0,A,A,,,,,,H,sg,possnp,fam,sp,uniq,strg,,,,,,,
+104,DIALOGUE,Katravozh,"kolas ńakwəl ta tittite, ",144,1,AP,V,npst,ind,,npfv,ta,H,sg,zero,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+105,DIALOGUE,Katravozh,"ti tittiste, ",145,1,AP,V,pst,ind,,pfv,ti,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+106,DIALOGUE,Katravozh,ti pusməs. ,146,0,A,V,pst,ind,,pfv,ti,H,sg,zero,top,sp,uniq,strg,,,,,,,
+107,DIALOGUE,Katravozh,"a, lāwi, sɔ̄l' ı̯omas ɔ̄lnete.",147,0,A,V,pst,evid,,npfv,,I,sg,zero,act,sp,uniq,strg,,,,,,,
+108,DIALOGUE,Katravozh,"ań tesŭm, ",148,X,A,V,pst,ind,,pfv,,1,sg,zero,act,sp,uniq,sap,,,,,,,
+109,DIALOGUE,Katravozh,ti pusməsŭm,149,0,A,V,pst,ind,,pfv,ti,1,sg,zero,top,sp,uniq,sap,,,,,,,
+110,DIALOGUE,Katravozh,"akw ērt kēr sali uı̯ ti ı̯oχtəs,",150,0,A,AxV,pst,ind,,pfv,ti,A,sg,barenp,fam,sp,uniq,strg,,,,,,,
+,,, lawi,151,0,A,V,npst,ind,,pfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+111,DIALOGUE,Katravozh,ti taı̯apilum!,152,1,AP,V,npst,ind,,pfv,ti,1,sg,zero,act,sp,uniq,sap,2,sg,zero,act,sp,uniq,sap
+112,DIALOGUE,Katravozh,naŋ - anum manurəl taı̯apilən saka pāŋkəŋ ɔ̄sum.,153,1,AP,APxV,npst,ind,quest,pfv,,2,sg,pron,act,sp,uniq,sap,1,sg,pron,act,sp,uniq,sap
+113,DIALOGUE,Katravozh,am lāwi pańan ı̯aleɣŭm. ,154,0,A,AxV,npst,ind,,pfv,,1,sg,pron,top,sp,uniq,sap,,,,,,,
+114,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,χot lou̯tχateɣŭm.,155,0,A,V,npst,ind,,pfv,,1,sg,zero,top,sp,uniq,sap,,,,,,,
+114,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,anŭm uꞩ taı̯apeln ,156,1,AP,PxV,npst,imp,,pfv,,2,sg,zero,act,sp,uniq,sap,1,sg,pron,act,sp,uniq,sap
+115,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,pańan ta minas. ,157,0,A,V,pst,ind,,pfv,ta,H,sg,zero,top,sp,uniq,strg,,,,,,,
+116,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ta pańan minas, ",158,0,A,V,pst,ind,,pfv,,H,sg,zero,top,sp,uniq,strg,,,,,,,
+117,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta lou̯tχati,159,0,A,V,npst,ind,,npfv,ta,H,sg,zero,top,sp,uniq,strg,,,,,,,
+,,,ta lou̯tχati,160,0,A,V,npst,ind,,npfv,ta,H,sg,zero,top,sp,uniq,strg,,,,,,,
+118,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,loutχatimete akw ert isnasnəl χulaχ ı̯uu̯ āŋkwatɒs. ,161,0,A,AV,pst,ind,,pfv,,A,sg,barenp,ref,sp,uniq,nfam,,,,,,,
+118,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,lāwi,162,0,A,V,npst,ind,,pfv,,A,sg,zero,act,sp,uniq,strg,,,,,,,
+,,,ań tot χul'tum ūı̯anən an kit āwi sakwatawes. ,163,1,P,AxPV,pst,ind,,pfv,,A,pl,possnp,fam,sp,max,strg,I,du,barenp,fam,sp,uniq,strg
+119,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"tau̯ χulaχe ta minas, ",164,0,A,AxV,pst,ind,,pfv,ta,A,sg,possnp,top,sp,uniq,strg,,,,,,,
+120,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tau̯ ta lou̯tχati. ,165,0,A,AxV,npst,ind,,npfv,ta,H,sg,zero,act,sp,uniq,strg,,,,,,,
+121,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,akw ert kēr sāli uı̯ ı̯oχtəs ,166,0,A,AV,pst,ind,,pfv,,A,sg,barenp,fam,sp,uniq,strg,,,,,,,
+122,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,isnasnəl ı̯uu̯ āŋkwātɒs ,167,0,A,V,pst,ind,,pfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+123,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,manər ti palit lou̯tχateɣən? ,168,0,A,V,npst,ind,quest,npfv,,2,sg,zero,act,sp,uniq,sap,,,,,,,
+124,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"mol'ɒχ, lāwi",169,0,A,V,npst,ind,,pfv,,A,sg,zero,act,sp,uniq,strg,,,,,,,
+125,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"sar laꞩ, laꞩ, lāwi, ",170,0,A,V,npst,ind,,pfv,,H,sg,zero,top,sp,uniq,strg,,,,,,,
+126,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ti asteɣŭm,171,0,A,V,npst,ind,,pfv,ti,1,sg,zero,top,sp,uniq,sap,,,,,,,
+127,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"moꞩ lȯu̯tχatɒs, ",172,0,A,V,pst,ind,,pfv,,1,sg,zero,top,sp,uniq,sap,,,,,,,
+128,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"tuu̯l supane masapɒs, ",173,1,A,PV,pst,ind,,pfv,,H,sg,zero,top,sp,uniq,strg,I,pl,possnp,typid,sp,uniq,w_brdg
+129,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,kon ta kwalapɒs,174,0,A,V,pst,ind,,pfv,ta,H,sg,zero,top,sp,uniq,strg,,,,,,,
+130,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"sar lāꞩal, uı̯e nupəl lāwi",175,0,A,V,npst,ind,,pfv,,H,sg,zero,top,sp,uniq,strg,,,,,,,
+131,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,kēr aŋkwal ta l'uli,176,0,A,AxV,npst,ind,,npfv,ta,I,sg,barenp,ref,sp,uniq,nfam,,,,,,,
+132,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,am kēr āŋkwal puŋken nɔ̄ŋχ χaŋχeɣŭm,177,0,A,AxV,npst,ind,,pfv,,1,sg,pron,act,sp,uniq,sap,,,,,,,
+,,,sat ērı̮ɣ ɔ̄ńꞩeɣŭm,178,1,A,PV,npst,ind,,npfv,,1,sg,zero,top,sp,uniq,sap,I,pl,barenp,typid,nonsp,nuniq,nfam
+,,,taı̯anum erɣiı̯anum,179,1,AP,PV,npst,ind,,pfv,,1,sg,zero,top,sp,uniq,strg,I,pl,pron,act,sp,uniq,strg
+133,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,naŋ ker aŋkwal tittn χɔ̄ni χuı̯en. ,180,0,A,AxV,npst,imp,,pfv,,2,sg,pron,act,sp,uniq,sap,,,,,,,
+134,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,sȯp sūpən palı̮ɣχarteln ,181,1,AP,PV,npst,imp,,pfv,,2,sg,zero,top,sp,uniq,sap,I,sg,possnp,uniq,sp,uniq,w_brdg
+135,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"am ērɣanum ɔ̄ı̯iɣpeɣt, ",182,0,A,V,npst,ind,,pfv,,I,pl,possnp,act,sp,max,strg,,,,,,,
+,,,am sūp asən tuu̯ porı̮ɣmeɣŭm,183,0,A,AxV,npst,ind,,pfv,,1,sg,zero,top,sp,uniq,sap,,,,,,,
+136,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"tuu̯ minas, ",184,0,A,V,pst,ind,,pfv,,H,sg,zero,top,sp,uniq,strg,,,,,,,
+,,,kēr aŋkwaln nɔŋχ ta χāŋχəs,185,0,A,V,pst,ind,,pfv,ta,H,sg,zero,top,sp,uniq,strg,,,,,,,
+,,,naŋ χuı̯en kēr āŋkwal tittn χuı̯en χɔ̄ni.,186,0,A,AxV,npst,imp,,pfv,,2,sg,pron,act,sp,uniq,sap,,,,,,,
+137,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,sūpən pal=χarteln,187,1,AP,PV,npst,imp,,pfv,,2,sg,zero,top,sp,uniq,sap,I,sg,possnp,uniq,sp,uniq,strg
+,,,"am ērɣŭm ɔ̄ı̯iɣpi, ",188,0,A,V,npst,ind,,pfv,,I,sg,possnp,fam,sp,uniq,strg,,,,,,,
+138,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tuu̯ porı̮ɣmeɣŭm,189,0,A,V,npst,ind,,pfv,,1,sg,zero,top,sp,uniq,sap,,,,,,,
+139,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta ērɣi,190,0,A,V,npst,ind,,npfv,ta,H,sg,zero,top,sp,uniq,strg,,,,,,,
+140,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,akw ērt ērɣimete χulaχ ti ı̯oχtəs,191,0,A,AxV,pst,ind,,pfv,ti,A,sg,barenp,fam,sp,uniq,strg,,,,,,,
+141,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"χulɒs ı̯oχtəs,",192,0,A,AV,pst,ind,,pfv,,A,sg,barenp,top,sp,uniq,strg,,,,,,,
+142,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,lāwi: ,193,0,A,V,npst,ind,,pfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+143,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ań ūı̯an kon patuŋkwe ti ı̯ēmtsət,194,0,A,V,pst,ind,,pfv,ti,A,pl,possnp,fam,sp,max,strg,,,,,,,
+143,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,akw āwi arı̮ɣtɒs. ,195,0,A,AV,pst,ind,,pfv,,I,sg,barenp,fam,sp,nuniq,strg,,,,,,,
+,,,χɔ̄t āwi sakwatamt,196,0,A,AV,pst,evid,,pfv,,I,pl,barenp,fam,sp,nuniq,strg,,,,,,,
+143,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tau̯ tai ta ērɣi,197,0,A,AxV,npst,ind,,npfv,ta,H,sg,pron,act,sp,uniq,strg,,,,,,,
+144,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,sāt erı̮ɣ mol'aχ χuń ɔ̄ı̯iɣpeɣt,198,0,A,AxV,npst,ind,,npfv,,I,pl,barenp,fam,sp,max,strg,,,,,,,
+144,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"kēr sāli ūı̯ ta χuı̯i,  sūpe pal=χartim",199,0,A,AxV,npst,ind,,npfv,ta,A,sg,barenp,fam,sp,uniq,strg,,,,,,,
+146,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,akw ērt χulɒχ ɔ̄s ti ı̯oχtəs,200,0,A,AxV,pst,ind,,pfv,ti,A,sg,barenp,fam,sp,uniq,strg,,,,,,,
+,,,"ań, lawi, moꞩ ērt ti neı̮ɣlapeɣt!",201,0,A,V,npst,ind,,pfv,ti,A,pl,zero,fam,sp,max,strg,,,,,,,
+147,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"akw ērt sunsi, ",202,0,A,V,npst,ind,,pfv,,H,sg,zero,act,sp,uniq,srth,,,,,,,
+,,,ta neı̮ɣlapasət. ,203,0,A,V,pst,ind,,pfv,ta,A,pl,zero,act,sp,max,strg,,,,,,,
+147,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ı̯oχtı̮ɣpasət, ",204,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+147,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ań kēr āŋkwal titt χuı̯am ut sāt lomtiɣ ta manumtawes. ,205,X,P,PxV,pst,ind,,pfv,ta,,,,,,,,A,sg,barenp,act,sp,uniq,strg
+148,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"tuu̯ ı̯ol ta waɣlɒs, ūı̯ane palt. ",206,0,A,AV,pst,ind,,pfv,ta,H,sg,zero,act,sp,uniq,strg,,,,,,,
+148,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tuwl' nor ul'a paltsət. ,207,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,I,sg,barenp,typid,sp,nuniq,nfam
+149,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ań  pol'iɣ maniɣtim lomtane ul'an ta paltwesət. ,208,X,P,PxV,pst,ind,,pfv,ta,,,,,,,,I,pl,possnp,act,sp,uniq,w_brdg
+149,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ul'an paltsanəl, ",209,1,AP,PV,pst,ind,,pfv,,H,pl,zero,top,sp,uniq,strg,I,pl,zero,top,sp,uniq,strg
+149,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta ꞩarwes. ,210,X,P,V,pst,ind,,pfv,ta,,,,,,,,A,sg,zero,top,sp,uniq,strg
+150,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tan χot akw ı̯ot ta ı̯alaseɣt ,211,0,A,AxV,npst,ind,,npfv,ta,A,pl,pron,act,sp,max,strg,,,,,,,
+151,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ı̯aɣāɣite ı̯un ɔ̄li, ",212,0,A,AxV,npst,ind,,npfv,,H,sg,possnp,fam,sp,uniq,strg,,,,,,,
+,,,"ı̯un ɔ̄li, ",213,0,A,V,npst,ind,,npfv,,H,sg,zero,top,sp,uniq,strg,,,,,,,
+152,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,akw ērt kēr sāli ūı̯ ꞩaritime āraꞩn tuu̯ minās.,214,0,A,V,pst,ind,,pfv,,H,sg,zero,top,sp,uniq,strg,,,,,,,
+152,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ta āraꞩt ta rau̯tite,",215,1,AP,V,npst,ind,,npfv,ta,H,sg,zero,top,sp,uniq,strg,I,mass,zero,act,sp,uniq,strg
+152,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta kinsite. ,216,1,AP,V,npst,ind,,npfv,ta,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+,,,akw ert K.SU ańꞩar puŋk ti χɔ̄ntaste. ,217,1,AP,PxV,pst,ind,,pfv,ti,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+,,,"ta wiste, ",218,1,AP,V,pst,ind,,pfv,ta,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+153,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ı̯uu̯ ta totɒste,219,1,AP,V,pst,ind,,pfv,ta,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+154,ELDER BROTHER AND YOUNGER BROTHER,Katravozh," ı̯uw̯ totɒste, ",220,1,AP,V,pst,ind,,pfv,ta,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+154,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,apꞩite osma ı̯oli palt tuu̯ pinɒste,221,1,AP,V,pst,ind,,pfv,,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+155,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,akw ērt apꞩite ı̯uu̯ ta ı̯oχtəs,222,0,A,AxV,pst,ind,,pfv,ta,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+156,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ētimɒs, ı̯ol ta χuı̯ɒs",223,0,A,V,pst,ind,,pfv,ta,H,sg,zero,top,sp,uniq,strg,,,,,,,
+157,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ēti χuı̯mēte KSU ańꞩar puŋke pal'=às, ta pēlwès. ",224,X,P,AxV,pst,ind,,pfv,ta,,,,,,,,I,sg,possnp,act,sp,uniq,strg
+159,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,pal' as pēlwès ,225,X,P,AV,pst,ind,,pfv,,,,,,,,,I,sg,zero,top,sp,uniq,strg
+,,,ta χolɒs,226,0,A,V,pst,ind,,pfv,ta,H,sg,zero,act,sp,uniq,strg,,,,,,,
+159,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,sorumpatəs.,227,0,A,V,pst,ind,,pfv,,H,sg,zero,top,sp,uniq,strg,,,,,,,
+,,,ı̯aɣaɣitèn ta totwès kuꞩńèꞩ pālt. ,228,1,P,AV,pst,ind,,pfv,ta,H,sg,zero,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+159,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"kusn. pālt totwes, ",229,X,P,V,pst,ind,,pfv,,,,,,,,,H,sg,zero,top,sp,uniq,strg
+160,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,kēr pȯꞩka kiwərn pinwès ,230,X,P,V,pst,ind,,pfv,,,,,,,,,H,sg,zero,top,sp,uniq,strg
+,,, lap ta rātwes.,231,X,P,V,pst,ind,,pfv,ta,,,,,,,,H,sg,zero,top,sp,uniq,strg
+161,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,āsna nal=pȯwartawès.,232,X,P,V,pst,ind,,pfv,,,,,,,,,H,sg,zero,top,sp,uniq,strg
+162,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"asna  nal-pȯwartawès, ",233,X,P,V,pst,ind,,pfv,,,,,,,,,H,sg,zero,top,sp,uniq,strg
+,,,ı̯āŋk wɔ̄nχa sāɣrŭwès.,234,X,P,V,pst,ind,,pfv,,,,,,,,,I,sg,barenp,typid,nonsp,nuniq,nfam
+163,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tuu̯ witn ta táratawès.,235,X,P,V,pst,ind,,pfv,ta,,,,,,,,H,sg,zero,top,sp,uniq,strg
+164,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"witn ta taratawès, ",236,X,P,V,pst,ind,,pfv,ta,,,,,,,,H,sg,zero,top,sp,uniq,strg
+165,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,χottal' ta nātawe. ,237,0,P,V,pst,ind,,npfv,ta,,,,,,,,H,sg,zero,top,sp,uniq,strg
+165,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ań ɔ̄lum mātet. ūı̯ane, sāt ūı̯ χɔ̄t ı̯alasasət, ",238,0,A,AxV,pst,ind,,npfv,,A,pl,barenp,fam,sp,max,strg,,,,,,,
+166,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"tuu̯l ı̯uu̯ ı̯oχtèsət, ɔ̄tranəl āt'im. ",239,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+,,,"l'ɔ̄ŋχ ı̯ās χɔ̄sit ta χaı̯teɣt, ",240,0,A,V,npst,ind,,npfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+167,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"atintaχteɣt, ",241,0,A,V,npst,ind,,npfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+168,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta kinseɣt.,242,X,A,V,npst,ind,,npfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+169,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,akw ērt tūlmaχ lāwi: ,243,0,A,V,npst,ind,,pfv,,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+170,ELDER BROTHER AND YOUNGER BROTHER,Katravozh," tı̮ɣ ti totime, āte ti pāsi. ",244,X,P,V,pst,evid,,npfv,ti,,,,,,,,H,sg,zero,act,sp,uniq,strg
+171,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ti l'ɔ̄ŋχ χɔ̄sit ti totime. ,245,X,P,V,pst,evid,,npfv,ti,,,,,,,,H,sg,zero,top,sp,uniq,strg
+172,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta l'ɔ̄ŋχ χosit ta kɔ̄ı̯anəl.  ,246,1,AP,V,npst,ind,,npfv,ta,A,pl,zero,act,sp,max,strg,H,sg,zero,top,sp,uniq,strg
+173,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ta kɔ̄ı̯anəl, ",247,1,AP,V,npst,ind,,npfv,ta,A,pl,zero,act,sp,max,strg,H,sg,zero,top,sp,uniq,strg
+174,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ı̯āŋk wɔ̄ŋχan ı̯oχtesət. ,248,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+175,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tı̮ɣəl ti witna ti tārtime,249,X,P,V,pst,evid,,pfv,ti,,,,,,,,H,sg,zero,act,sp,uniq,strg
+176,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,kinsuŋkwe ta patsət,250,0,A,V,pst,ind,,pfv,ta,,,,,,,,,,,,,,
+177,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ı̯aŋk tāra ta atintiı̯anəl,251,1,AP,V,npst,ind,,npfv,ta,A,pl,zero,top,sp,max,strg,H,sg,zero,act,sp,uniq,strg
+178,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,kisχateɣt,252,0,A,V,npst,ind,,npfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+179,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta kos kinseɣt ,253,X,A,V,npst,ind,,npfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+,,,ta kos kinseɣt ,254,X,A,V,npst,ind,,npfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+,,,"alɣal' mineɣt , ",255,0,A,V,npst,ind,,npfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+180,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,lȯŋχal' mineɣt. ,256,0,A,V,npst,ind,,npfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+181,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta kos kinsèɣt. ,257,X,A,V,npst,ind,,npfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+,,,akw ērt lawe tūlmaχ nupəl lāweɣt: ,258,0,A,V,npst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+182,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"naŋ pēnɣən, ",259,0,A,AV,npst,imp,,,,2,sg,pron,act,sp,uniq,sap,,,,,,,
+183,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tūlmaχ ta pēnɣi.,260,0,A,AxV,npst,ind,,npfv,ta,A,sg,barenp,top,sp,uniq,sap,,,,,,,
+184,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"kāte toχ tāı̮ɣmatwes, ",261,X,P,PxV,pst,ind,,pfv,,,,,,,,,Ip,sg,possnp,ref,sp,uniq,w_brdg
+185,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta pēnɣi.,262,0,A,V,npst,ind,,npfv,ta,A,sg,barenp,top,sp,uniq,sap,,,,,,,
+186,ELDER BROTHER AND YOUNGER BROTHER,Katravozh, ı̯āŋk ātinti. ,263,1,A,PV,npst,ind,,npfv,,A,sg,zero,top,sp,uniq,strg,I,mass,barenp,ref,sp,uniq,w_prcp
+187,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ti ı̯assa, lāwi, ",264,0,A,V,npst,ind,,pfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+188,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ı̯oln ti ɔ̄li.,265,0,A,V,npst,ind,,npfv,ti,H,sg,zero,fam,sp,uniq,strg,,,,,,,
+189,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"āte, lawi, pāsi. ",266,0,A,AxV,npst,ind,,npfv,,I,sg,possnp,ref,sp,uniq,w_brdg,,,,,,,
+190,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tuwl ı̯aŋk sakwatuŋkwe ta patsət.,267,1,A,PV,pst,ind,,pfv,ta,H,pl,zero,act,sp,max,strg,I,mass,barenp,ref,sp,uniq,strg
+191,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"tou konsəl konsi, ",268,X,A,V,npst,ind,,npfv,,A,sg,pron,top,nonsp,nuniq,strg,,,,,,,
+192,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tou puŋkəl puri. ,269,X,A,V,npst,ind,,npfv,,A,sg,pron,top,nonsp,nuniq,strg,,,,,,,
+193,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ākw ērt as ti ı̯emtəs.  ,270,0,A,AxV,pst,ind,,pfv,ti,I,sg,barenp,ref,sp,nuniq,w_prcp,,,,,,,
+194,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ı̯āŋk tara ti pásat:sanəl.,271,1,AP,V,pst,ind,,pfv,ti,A,pl,zero,top,sp,max,strg,I,mass,zero,typid,nonsp,nuniq,nfam
+195,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"tara, pasatsanəl, ",272,1,AP,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,I,mass,zero,typid,nonsp,nuniq,nfam
+,,,tan siməŋı̮ɣ ti ı̯ēmtsət ,273,0,A,V,pst,ind,,pfv,ti,A,pl,zero,top,sp,max,strg,,,,,,,
+196,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta lɔ̄ŋɣitaχteɣt. ,274,0,A,V,npst,ind,,npfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+,,,akw ērt pȯꞩka nɔ̄ŋχ lēwatan ı̯anit as ti ı̯ēmtəs.,275,0,A,AxV,pst,ind,,pfv,ti,I,sg,barenp,ref,sp,nuniq,w_prcp,,,,,,,
+196,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,nɔ̄ŋχ ti χartsanəl ,276,1,AP,V,pst,ind,,pfv,ti,A,pl,zero,,sp,max,strg,I,sg,zero,act,sp,uniq,strg
+196,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,sɔ̄rt ɔ̄ı̯ka ańtəl nɔ̄ŋχ amartawès.,277,X,P,V,pst,ind,,pfv,,,,,,,,,I,sg,zero,top,sp,uniq,strg
+197,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,paɣ powartawès. ,278,X,P,V,pst,ind,,pfv,,,,,,,,,I,sg,zero,top,sp,uniq,strg
+197,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,wātan paɣ tā pȯwartawès. ,279,X,P,V,pst,ind,,pfv,ta,,,,,,,,I,sg,zero,top,sp,uniq,strg
+198,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ı̯a, ta, laweɣt, manurəl pȯl'iɣ sakwatiluw! ",280,1,AP,V,npst,ind,quest,pfv,,1,pl,zero,act,sp,max,sap,I,sg,zero,top,sp,uniq,strg
+199,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ta {kos} pureɣt, ",281,X,A,V,npst,ind,,npfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+200,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,lɔnχitaxteɣt.,282,0,A,V,npst,ind,,npfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+201,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,kēr pȯꞩka χum wariı̯anəl? ,283,1,AP,PxV,npst,ind,quest,,,A,pl,zero,top,sp,max,strg,I,sg,barenp,act,sp,uniq,strg
+202,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"tɔ̄rewn ꞩaχnil kos ı̯unı̮ɣtalàwe, ",284,1,P,V,npst,ind,,pfv,,A,sg,zero,act,sp,uniq,w_brdg,I,sg,zero,top,sp,uniq,strg
+203,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,nas lipńati. ,285,0,A,V,npst,ind,,pfv,,I,sg,zero,top,sp,uniq,strg,,,,,,,
+204,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,nēm χotum  ta wāriı̯anəl.,286,1,AP,V,npst,ind,,npfv,ta,A,pl,zero,act,sp,max,strg,I,sg,zero,top,sp,uniq,strg
+205,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ēla mineɣt, ",287,0,A,V,npst,ind,,npfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+206,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ta ꞩūlintiɣt, ",288,0,A,V,npst,ind,,npfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+207,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"puŋk pattal kos l'ēŋktasite,",289,1,AP,V,npst,ind,,npfv,,A,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+207,ELDER BROTHER AND YOUNGER BROTHER,Katravozh, puŋke χot wolkati  ,290,0,A,AV,npst,ind,,npfv,,I,sg,possnp,ref,sp,uniq,w_brdg,,,,,,,
+208,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,at sakwali.,291,0,A,V,npst,ind,neg,npfv,,I,sg,zero,act,sp,uniq,strg,,,,,,,
+208,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,akw ert sɔ̄rup ɔ̄ı̯ka lāwi ,292,0,A,AV,npst,ind,,pfv,,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+209,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"sar lāꞩɒl, ńawramt, am, lāwi. ",293,0,A,V,npst,ind,,pfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+210,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"poꞩka takəꞩ pinelen,  pattate tı̮ɣl'e l'al't. ",294,1,AP,PxV,npst,imp,,pfv,,2,pl,zero,act,sp,max,sap,I,sg,barenp,act,sp,uniq,strg
+212,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tuwəl sɔ̄rup ɔ̇̄ı̯ka ēla ta minas. ,295,0,A,AxV,pst,ind,,pfv,ta,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+,,,ta sūlintɒs. ,296,0,A,V,pst,ind,,pfv,ta,A,sg,barenp,top,sp,uniq,strg,,,,,,,
+213,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ań pȯꞩka pattate ān'təl ta l'ēŋktasaste . ,297,1,AP,PxV,pst,ind,,pfv,ta,A,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,w_brdg
+213,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,pūꞩku pattate sɔ̄rup an'təl tāra pēlwes.,298,X,P,V,pst,ind,,pfv,,,,,,,,,I,sg,possnp,top,sp,uniq,strg
+214,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta tul ań as ı̯ēmtəs. ,299,0,A,AV,pst,ind,,pfv,,I,sg,barenp,ref,sp,nuniq,w_prcp,,,,,,,
+215,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,manı̮ɣtaŋkwe ta tultı̮ɣpuχtasət,300,1,A,V,pst,ind,,pfv,ta,A,pl,zero,act,sp,max,strg,I,sg,zero,top,sp,uniq,strg
+215,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ta manı̮ɣteɣt, ",301,X,A,V,npst,ind,,npfv,ta,A,pl,zero,top,sp,uniq,max,,,,,,,
+215,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,pureɣt. ,302,X,A,V,npst,ind,,npfv,,A,pl,zero,top,sp,uniq,max,,,,,,,
+216,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,akw ti ꞩos ı̯anɣı̮ɣ ti manliɣtasanəl. ,303,1,AP,V,pst,ind,,pfv,ti,A,pl,zero,top,sp,uniq,max,I,sg,zero,act,sp,uniq,strg
+216,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,koꞩaı̯anəl kon ti lēwmatsanəl.,304,1,AP,PxV,pst,ind,,pfv,ti,A,pl,zero,top,sp,max,strg,H,sg,zero,act,sp,uniq,strg
+216,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"lēwmatsanəl, ",305,1,AP,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,H,sg,zero,act,sp,uniq,strg
+217,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,sunseɣt: ,306,0,A,V,npst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+218,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,a manurəl alwes? ,307,X,P,V,pst,ind,quest,pfv,,,,,,,,,H,sg,zero,act,sp,uniq,strg
+219,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,alim māte χɔ̄t ɔ̄li sar! ,308,0,A,AxV,npst,ind,,npfv,,I,sg,possnp,uniq,sp,uniq,w_brdg,,,,,,,
+219,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta sunsiɣliı̯anəl ,309,1,AP,V,npst,ind,,npfv,ta,A,pl,zero,act,sp,max,strg,H,sg,zero,act,sp,uniq,strg
+220,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"akw ert pal'=asèt ti χɔ̄ntsanəl, ",310,1,AP,V,pst,ind,,pfv,ti,A,pl,zero,top,sp,max,strg,I,sg,zero,ref,sp,uniq,w_prcp
+221,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,KSU. ańꞩɒr puŋk to l'ul'i. ,311,0,A,AxV,npst,ind,,npfv,,I,sg,barenp,fam,sp,uniq,strg,,,,,,,
+,,,tuwəl lāweɣt ,312,0,A,V,npst,ind,,pfv,,A,pl,zero,act,sp,max,strg,,,,,,,
+222,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ı̯a manurəl ı̯altaptiluw̯? ,313,1,AP,V,npst,ind,quest,,,1,pl,zero,top,sp,max,sap,H,sg,zero,act,sp,uniq,strg
+223,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"sipɣiluw, ",314,1,AP,V,npst,ind,,npfv,,1,pl,zero,top,sp,max,sap,I,sg,zero,act,sp,uniq,strg
+224,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"lāweɣt, ",315,0,A,V,npst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+225,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"wēk, leı̮ɣmati. ",316,0,A,V,npst,ind,,pfv,,I,sg,zero,act,sp,uniq,strg,,,,,,,
+226,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,sɔ̄rup ɔ̄ı̯ka ta sipɣi. ,317,X,A,AxV,npst,ind,,npfv,ta,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+227,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"sipɣəs, ",318,X,A,V,npst,ind,,npfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+228,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,akw ērt ta leı̮ɣmatɒs. ,319,0,A,V,pst,ind,,pfv,ta,I,sg,zero,act,sp,uniq,strg,,,,,,,
+,,,"ta leı̮ɣmatɒs, ",320,0,A,V,pst,ind,,pfv,ta,I,sg,zero,top,sp,uniq,strg,,,,,,,
+229,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tau̯ turèn ta pelχa:tɒs. ,321,0,A,V,pst,ind,,pfv,ta,I,sg,zero,top,sp,uniq,strg,,,,,,,
+230,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"takwi ta raɣatɒs, sɔ̄rŭp ɔ̄ı̯ka",322,0,A,AxV,pst,ind,,pfv,ta,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+231,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ań kȯꞩı̯anəl nɔŋχ ta ı̯altəs ,323,0,A,AxV,pst,ind,,pfv,ta,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+232,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ı̯a ta lāwi, sɔ̄rup ɔ̄ı̯ka nɔŋχ ı̯altuptaŋkwe ēri. ",324,0,A,PxV,npst,ind,,npfv,,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+233,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,sɔ̄rup ɔ̄ı̯ka anum ēri. .,325,0,A,AxV,npst,ind,,npfv,,A,sg,barenp,top,sp,uniq,strg,,,,,,,
+233,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tuwəl tɔ̄rew sipɣuŋkwe pats,326,0,A,AxV,pst,ind,,pfv,,A,sg,barenp,fam,sp,uniq,strg,,,,,,,
+233,ELDER BROTHER AND YOUNGER BROTHER,Katravozh, ta tɔ̄rew ta raɣatəs. ,327,0,A,AxV,pst,ind,,pfv,ta,A,sg,barenp,top,sp,uniq,strg,,,,,,,
+234,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,sɔ̄rŭp ɔ̄ı̯ka ŋɔ̄ŋχ ı̯altəs.,328,0,A,AV,pst,ind,,pfv,,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+235,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ɔ̄s motan sipɣuŋkwe ta pats. ,329,0,A,AxV,pst,ind,,pfv,ta,A,sg,pron,fam,sp,uniq,strg,,,,,,,
+236,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,l'eu̯ ı̱ꞩwer sipɣi.,330,X,A,AV,npst,ind,,npfv,,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+236,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ań tau̯ turèn ta pelχatɒs. ,331,0,A,V,pst,ind,,pfv,ta,I,sg,zero,act,sp,uniq,strg,,,,,,,
+236,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,l'ēw̯ iꞩwer ɔs ta raɣatəs: ,332,0,A,AxV,pst,ind,,pfv,ta,A,sg,barenp,top,sp,uniq,strg,,,,,,,
+237,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tɔ̄rəw ɔ̄ı̯ka nɔ̄ŋχ ı̯altəs.,333,0,A,AV,pst,ind,,pfv,,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+238,ELDER BROTHER AND YOUNGER BROTHER,Katravozh, tuwəl raꞩ ɔ̄ı̯ka sipɣuŋkwe pats,334,X,A,AxV,pst,ind,,pfv,,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+239,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ɔs raꞩ ɔ̄ı̯ka, tau̯ sipɣi",335,X,A,AV,npst,ind,,npfv,,A,sg,barenp,top,sp,uniq,strg,,,,,,,
+240,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"sipɣəs, sipɣəs, ",336,X,A,V,pst,ind,,npfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+241,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ɔ̄s tawén ta pēlχa:tɒs. ,337,0,A,V,pst,ind,,pfv,ta,A,sg,zero,top,sp,uniq,strg,,,,,,,
+242,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,l'ēw iꞩwer ŋɔ̄ŋχ ı̯altəs. ,338,0,A,AV,pst,ind,,pfv,,A,sg,zero,act,sp,uniq,strg,,,,,,,
+243,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ɔ̄s tūlmɒχ ɔ̄ı̯ka sipɣi. ,339,X,A,AV,npst,ind,,npfv,,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+244,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tawèn ta pelχa:tɒs. ,340,0,A,V,pst,ind,,pfv,ta,I,sg,zero,act,sp,uniq,strg,,,,,,,
+245,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ɔ̄s tūlmaχ ɔı̯ka ı̯ol ta raɣatɒs.,341,0,A,AxV,pst,ind,,pfv,ta,A,sg,barenp,top,sp,uniq,strg,,,,,,,
+246,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ań ɔs ɔ̄χsɒr, tau̯ sipɣi.",342,X,A,AV,npst,ind,,npfv,,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+247,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ɔs ɔ̄χsɒr ɔ̄ı̯ka tur χɔ̄sit ta pēlwès, ",343,X,P,V,pst,ind,,pfv,ta,I,sg,zero,act,sp,uniq,strg,A,sg,barenp,top,sp,uniq,strg
+248,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ta raɣatɒs.,344,0,A,V,pst,ind,,pfv,ta,A,sg,zero,top,sp,uniq,strg,,,,,,,
+249,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tulmɒχ ɔ̄ı̯ka nɔŋχ ta ı̯altəs. ,345,0,A,AxV,pst,ind,,pfv,ta,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+249,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"touli, laweɣt, mat χɔ̄məl, ",346,0,A,V,npst,ind,,npfv,,A,pl,zero,act,sp,max,strg,,,,,,,
+250,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,wos χuı̯i!,347,0,A,V,npst,opt,,npfv,,A,sg,zero,act,sp,uniq,strg,,,,,,,
+251,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"āt'i, koꞩaı̯e lawi",348,0,A,AV,npst,ind,,pfv,,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+252,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,uı̯ŭm ēri. ,349,0,A,AV,npst,ind,,npfv,,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+253,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,χotum lawi ɔs nɔŋχ ı̯altupte:len ,350,1,AP,V,npst,imp,,pfv,,2,pl,zero,act,sp,max,sap,A,sg,zero,top,sp,uniq,strg
+254,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,uı̯um ēri. ,351,0,A,AV,npst,ind,,npfv,,A,sg,possnp,top,sp,uniq,strg,,,,,,,
+255,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tuwl sɔ̄wr lāwi: ,352,0,A,AV,npst,ind,,pfv,,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+256,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"minen, ",353,0,A,V,npst,imp,,pfv,,2,pl,zero,act,sp,max,sap,,,,,,,
+256,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ı̯alen, ",354,0,A,V,npst,imp,,pfv,,2,pl,zero,top,sp,max,sap,,,,,,,
+256,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,anum χāpɣa puŋna sup tı̮ɣ totelen. ,355,1,AP,PxV,npst,imp,,pfv,,2,pl,zero,top,sp,max,sap,A,sg,barenp,typid,nonsp,nuniq,nfam
+257,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,puŋna sup ta totwès. ,356,X,P,PxV,pst,ind,,pfv,ta,,,,,,,,I,sg,barenp,ref,sp,uniq,nfam
+258,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ɔ̄χsɒr ɔ̄ı̯ka n'ol tal'aχn tuw̯ ta pinwəs.,357,X,P,V,pst,ind,,pfv,ta,,,,,,,,I,sg,zero,act,sp,uniq,strg
+258,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,sɔ̄wər ta sipɣi. ,358,X,A,AxV,npst,ind,,npfv,ta,A,sg,barenp,act,sp,uniq,strg,,,,,,,
+259,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"sipɣa:si, ",359,X,A,V,npst,ind,,npfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+260,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,χapɣa puŋna sup=saina  tuw ꞩeltumtaχti. ,360,0,A,V,npst,ind,,npfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+261,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ɔ̄s sipɣasi, ",361,X,A,V,npst,ind,,npfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+262,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ɔ̄s ꞩeltumtaχti. ,362,0,A,V,npst,ind,,npfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+263,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,χurmintı̮ɣ sipɣa:sɒs. ,363,X,A,V,pst,ind,,npfv,,A,sg,zero,top,sp,uniq,strg,,,,,,,
+264,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,KSU ańꞩɒr puŋk χapɣa puŋna tuu supən tuw pēlχatɒs.,364,0,A,AxV,pst,ind,,pfv,,I,sg,barenp,act,sp,uniq,strg,,,,,,,
+264,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ań pusən liliŋı̮ɣ ta ı̯ēmtsət. ,365,0,A,AxV,pst,ind,,pfv,ta,A,pl,pron,act,sp,max,strg,,,,,,,
+265,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,koꞩaı̯ ɔs ı̯altŭptawes.,366,X,P,AxV,pst,ind,,pfv,,H,sg,barenp,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+266,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ı̯uu̯ ta minasət. ,367,0,A,V,pst,ind,,pfv,ta,A,pl,zero,act,sp,max,strg,,,,,,,
+266,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ań molal ɔ̄lŭm pau̯lanəln ı̯uu̯ ta minasət. ,368,0,A,V,pst,ind,,pfv,ta,A,pl,zero,top,sp,max,strg,,,,,,,
+267,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ı̯uu̯ ı̯oχtesət, ",369,0,A,V,pst,ind,,pfv,,A,pl,zero,top,sp,max,strg,,,,,,,
+268,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ı̯aɣāɣite ı̯un ɔ̄li.,370,0,A,AxV,npst,ind,,npfv,,H,sg,possnp,fam,sp,uniq,strg,,,,,,,
+269,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ań āpꞩitēn wȯı̯wès ,371,1,P,AV,pst,ind,,pfv,,H,sg,possnp,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+270,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,kat pattaɣenəl kol noretn ta ker sol'il ta ı̯anı̮ɣtawes. ,372,X,P,V,pst,ind,,pfv,ta,,,,,,,,H,sg,zero,top,sp,uniq,strg
+271,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,samaɣe tara puu̯tmawesı̮ɣ.,373,X,P,PV,pst,ind,,pfv,,,,,,,,,Ip,du,possnp,uniq,sp,uniq,w_brdg
+272,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"kit samaɣe akw palèn ꞩaı̯ ani unttuwes, ",374,X,P,PV,pst,ind,,pfv,,,,,,,,,I,sg,barenp,typid,nonsp,nuniq,nfam
+272,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,mot palèn ɔ̄s ꞩaı̯ ani unttuwes. ,375,X,P,PV,pst,ind,,pfv,,,,,,,,,I,sg,barenp,typid,nonsp,nuniq,nfam
+273,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,sam witaɣe tuw wos ꞩurɣeı̮ɣ,376,0,A,AxV,npst,opt,,npfv,,I,du,possnp,ref,sp,nuniq,w_brdg,,,,,,,
+274,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"Ker S.U nupəl sime ke ꞩarɣi,",377,0,A,AxV,npst,ind,,npfv,,I,sg,possnp,ref,sp,uniq,w_brdg,,,,,,,
+275,ELDER BROTHER AND YOUNGER BROTHER,Katravozh," KSU nupəl unttum ꞩaı̯ āni,  saw̯na wos ꞩurɣawe ",378,X,P,PxV,npst,opt,,npfv,,,,,,,,,I,sg,barenp,ref,sp,uniq,strg
+277,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"am nupəlum sime ke ꞩārɣi, ",379,0,A,AxV,npst,ind,,npfv,,I,sg,possnp,act,sp,uniq,strg,,,,,,,
+278,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,am ꞩaı̯ anim sau̯na wos ꞩur-ɣawe,380,X,P,PxV,npst,opt,,npfv,,,,,,,,,I,sg,possnp,ref,sp,uniq,strg
+279,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,KSU. nupəl sau̯ ꞩarɣi. ,381,0,A,V,npst,ind,,npfv,,I,sg,zero,act,sp,uniq,strg,,,,,,,
+280,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,tau̯ nupəle sime ꞩārɣi,382,0,A,AV,npst,ind,,npfv,,I,sg,possnp,top,sp,uniq,strg,,,,,,,
+281,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,āpꞩite nupəl moꞩa ꞩarɣi,383,0,A,V,npst,ind,,npfv,,I,sg,zero,top,sp,uniq,strg,,,,,,,
+282,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ul'a paltwes, ",384,X,P,PV,pst,ind,,pfv,,,,,,,,,I,sg,barenp,typid,nonsp,nuniq,nfam
+283,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ul'an ta woꞩkasawes.,385,X,P,V,pst,ind,,pfv,ta,,,,,,,,H,sg,zero,act,sp,uniq,strg
+284,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,nul ta pāltwes ,386,X,P,V,pst,ind,,pfv,ta,,,,,,,,H,sg,zero,top,sp,uniq,strg
+285,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ker sol'aɣenəl  χɔ̄t manumtawes ,387,X,P,V,pst,ind,,pfv,,,,,,,,,H,sg,zero,top,sp,uniq,strg
+285,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ul'an ta pāltwes,388,X,P,V,pst,ind,,pfv,ta,,,,,,,,H,sg,zero,top,sp,uniq,strg
+286,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,"ta χum uı̯anetəl ań ta ɔ̄li, ",389,0,A,AxV,npst,ind,,npfv,ta,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+287,ELDER BROTHER AND YOUNGER BROTHER,Katravozh,ań ta ꞩuńi.,390,0,A,V,npst,ind,,npfv,ta,H,sg,barenp,top,sp,uniq,strg,,,,,,,
+451,FOX,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+452,FOX,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+453,FOX,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+454,FOX,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+455,FOX,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+2834,THE WONDERFUL SON,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+2835,THE WONDERFUL SON,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+2836,THE WONDERFUL SON,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+2837,THE WONDERFUL SON,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+2838,THE WONDERFUL SON,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+2838,THE WONDERFUL SON,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+2839,THE WONDERFUL SON,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,
+2840,THE WONDERFUL SON,Katravozh,,,,,,,,,,,,,,,,,,,,,,,,

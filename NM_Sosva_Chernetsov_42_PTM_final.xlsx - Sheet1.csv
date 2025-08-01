@@ -1,0 +1,611 @@
+,No,Trans,Form,W-ord,Ptcl,Tns,Mood,SenT,Pfv,S-anim,S-Numb,A-rform,A-rstat,A-sp,A-uniq,A-fam,O-anim,O-Numb,O-rform,O-rstat,O-sp,O-uniq,O-fam
+ Polum torum mojt,0,,,,,,,,,,,,,,,,,,,,,,
+ ekvaьɧ ojkaьɧ oleьɧ,1,0,A,AV,NoPtcl,npst,ind,none,npfv,H,du,barenp,ref,sp,uniq,nfam,,,,,,,
+ kit pьɧaɧe janьɧmasьɧ,2,0,A,AV,NoPtcl,pst,ind,none,pfv,H,du,possnp,ref,sp,uniq,w_brdg,,,,,,,
+ Janьɧ pьɧe lavi,3,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,uniq,sp,uniq,w_set,,,,,,,
+ - Maŋki saka nysaɧ olev,4,0,A,AxV,NoPtcl,npst,ind,none,npfv,1,pl,pron,act,sp,uniq,sap,,,,,,,
+" am lavi, hottal̩ jaleɧum",5,0,A,AxV,NoPtcl,fut,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ aꞩe lavi:,6,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,fam,sp,uniq,strg,,,,,,,
+ - manurьl mineɧьn,7,0,A,V,NoPtcl,fut,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+ Pьɧe lavi:,8,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ - Luvьl mineɧum,9,0,A,V,NoPtcl,fut,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ Luv kers,10,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,barenp,ref,sp,uniq,nfam
+ Kotle pьɧe lavi:,11,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,uniq,sp,uniq,w_set,,,,,,,
+ - am os mineɧum,12,0,A,AxV,NoPtcl,fut,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ akv luven talsьɧ,13,0,A,V,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,,,,,,,
+ ta minasьɧ,14,0,A,V,ta,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,,,,,,,
+ minasьɧ akvaьɧ,15,0,A,V,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,,,,,,,
+ man̩ pьɧe lavi,16,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,fam,sp,uniq,strg,,,,,,,
+ - am jaɧpьɧaɧum kinꞩijaɧum,17,1,AP,APV,NoPtcl,fut,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,H,du,possnp,act,sp,uniq,strg
+ - aꞩe lavi,18,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+" - kinsken, hotьl vьɧaɧьn",19,1,AP,V,NoPtcl,fut,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,H,du,zero,act,sp,uniq,strg
+ - am hot kinsijaɧum,20,1,AP,AxV,NoPtcl,fut,ind,quest,pfv,1,sg,pron,act,sp,uniq,sap,H,du,zero,act,sp,uniq,strg
+ aꞩe lavi:,21,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+" - aman̩ pes sat mis kol, sat luv kol pattat sat toulup luv onꞩsum",22,1,A,AxPV,NoPtcl,pst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,A,sg,barenp,ref,sp,uniq,nfam
+" an̩ naŋ sat toulup luv puvuŋkve ke vermilьn,",23,1,INF-AP,APV,NoPtcl,fut,irr,none,pfv,2,sg,zero,act,sp,uniq,sap,A,sg,barenp,act,sp,uniq,strg
+ ta puvilьn,24,1,AP,V,ta,fut,ind,none,pfv,2,sg,zero,top,sp,uniq,sap,A,sg,zero,top,sp,uniq,strg
+ Tajil ta jalasanuvьn,25,0,A,V,ta,fut,irr,none,npfv,2,sg,zero,top,sp,uniq,sap,,,,,,,
+ Pьɧe ta ꞩaltьs,26,0,A,AV,ta,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+" Sat mis kol, avijanel lap naꞩamtimet",27,0,A,AV,NoPtcl,pst,evid,none,pfv,I,pl,possnp,ref,sp,uniq,nfam,,,,,,,
+ Tan kermant vis,28,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+ hьluŋkve ta patas,29,0,INF-A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" Ta hьlas,",30,0,A,V,ta,pst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ hьlas,31,0,A,V,NoPtcl,pst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" Sat mis kol, sat luv kol pattaten johtas",32,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" Luv kol avi palьɧ punsuŋkve patьs,",33,0,INF-A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ sat toulup liv eŋamanete ta sumьllas,34,0,A,AV,ta,pst,ind,none,npfv,I,abst,possnp,ref,sp,uniq,nfam,,,,,,,
+" Luv ꞩermattime,",35,X,P,PV,NoPtcl,pst,evid,none,pfv,,,,,,,,A,sg,barenp,act,sp,uniq,strg
+ ta ꞩermat kvalьɧ ta konsьɧtahtas,36,1,A,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,uniq,sp,uniq,nfam
+ Ta lapajaptuves ,37,X,P,V,ta,pst,ind,none,pfv,,,,,,,,A,sg,zero,act,sp,uniq,strg
+" Sat mis kol, sat luv kol koni palna hontmet johtum jola ta vortumtahtas,",38,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ sans puŋk pasьl jola nopьs,39,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Luve jol l̩ulis,40,0,A,AV,NoPtcl,pst,ind,none,pfv,A,sg,dpossnp,act,sp,uniq,strg,,,,,,,
+ Luve lavi:,41,0,A,AV,NoPtcl,npst,ind,none,pfv,A,sg,possnp,top,sp,uniq,strg,,,,,,,
+ - ekvaьɧ ojkaьɧ man̩ pьɧriꞩ Katьn ta jorьɧ jemtum,42,0,A,AxV,ta,pst,evid,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ anum puvuŋkve ta vermьslьn,43,1,INF-AP,PV,ta,pst,ind,none,pfv,2,sg,zero,act,sp,uniq,sap,1,sg,pron,act,sp,uniq,sap
+ Luve lavi,44,0,A,AV,NoPtcl,npst,ind,none,pfv,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+" am jomas pal paltitumnьl juv ꞩalten,",45,0,A,V,NoPtcl,fut,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+ sorniŋ olьn puvlьn kolt puvlen,46,X,A,V,NoPtcl,fut,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,,,,,,,
+" am mana hurip, akv ta hurip ulamьl mashaten",47,0,A,V,NoPtcl,fut,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,,,,,,,
+ Tan ta ꞩaltьs,48,0,A,AV,ta,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+ Ta puvlьs,49,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" Luve hurip ulamьl ta mashatas,",50,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" kona kvalas,",51,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ aꞩe palt juv ꞩaltas,52,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ aꞩe lavi:,53,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,fam,sp,uniq,strg,,,,,,,
+ - pьɧkēt luvьn puvuŋkve vermьslьn?,54,1,INF-AP,PV,NoPtcl,pst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,A,sg,possnp,act,sp,uniq,strg
+ Pьɧe lavi,55,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ - Manrьɧ at vermulum,56,1,AP,V,NoPtcl,npst,ind,quest/neg,pfv,1,sg,zero,act,sp,uniq,sap,A,sg,zero,act,sp,uniq,strg
+" aꞩe jot jomas ulum vārs,",57,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" ꞩane jot os jomas ulum vars,",58,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" kona kvalas,",59,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" luve palt ta jomantas,",60,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ luve sisna ta talas,61,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ kislakv joŋham lakvьŋ torum janitьl kempliŋ saɧь kemplite ꞩopitanete sis kis lakv joŋham lakvьŋ torum janitьl ta joŋhtaves,62,,,,,,,,,,,,,,,,,,,,,,
+ akv mat sansьn tolь̄pam mil l̩oŋh ta hosit ta minmьɧtas,63,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Hosa mā hosaьɧ ta minite!,64,1,AP,PxV,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,ref,sp,nuniq,nfam
+ akv māt elal̩ sunsi,65,0,A,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ aman hont aŋkvalьɧ aman naŋk aŋkvalьɧ naŋki,66,0,A,AV,NoPtcl,npst,ind,none,npfv,I,du,barenp,ref,sp,nuniq,nfam,,,,,,,
+ nomsi,67,0,A,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ tuv ke johtnuvum,68,0,A,V,NoPtcl,fut,irr,none,pfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ ti itimavem,69,0,P,V,ti,fut,ind,none,pfv,,,,,,,,1,sg,zero,act,sp,uniq,sap
+ Sat ternaj ꞩan̩um noŋh pelamtalnem juji palt sorom ke,70,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ sorom vos,71,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ liliŋ ke,72,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ liliŋ vos,73,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" l̩apan johtьs haꞩne pasьn vane pasьn,",74,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ sunsi,75,0,A,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" hot olum hont aŋkvalьɧ, naŋk aŋkvalьɧ, nas-āti kolьɧ-soml̩ahьɧ",76,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" Tuv johtьs,",77,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ sat nakpa luv neɧne aŋkval,78,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Luve tuv neɧuŋkve pataste,79,1,INF-AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ Satit nakьn luve tuv noŋh hasumtaste,80,1,AP,PxV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ Takvi juv ta ꞩaltьs,81,0,A,AV,ta,pst,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,,,,,,,
+" Kole reɧьŋ, turman",82,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Tan lavi:,83,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,,,,,,,
+ aman elmholas aman oli?,84,0,A,AxV,NoPtcl,npst,ind,quest,npfv,H,sg,barenp,typid,nonsp,nuniq,nfam,,,,,,,
+ elmholas hot suiti,85,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,ref,sp,nuniq,nfam,,,,,,,
+" - ekvaьɧ ojkaьɧ man̩ pьɧriꞩ johtum kastal,",86,0,A,AV,NoPtcl,pst,evid,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+" jovtim ul̩a atim,",87,,,,NoPtcl,,,neg,,,,,,,,,,,,,,,
+ varim tenut atim,88,,,,NoPtcl,,,neg,,,,,,,,,,,,,,,
+ ekvaьɧ ojkaьɧ man pьɧriꞩ ꞩeraŋka sartmьtas,89,1,A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,typid,sp,nuniq,nfam
+ lampa husap pasan tarmьl unli,90,0,A,AxV,NoPtcl,npst,ind,none,npfv,I,sg,barenp,ref,sp,nuniq,nfam,,,,,,,
+ Pelamtaste,91,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ Juji kol nupьl jomantas,92,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Hun̩t varim tenut seŋkvanel joŋheɧt,93,0,A,AV,NoPtcl,npst,ind,none,npfv,I,mass,pl,ref,sp,nuniq,nfam,,,,,,,
+ akv ani viste,94,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" Hurьm sul̩ja vina unli,",95,0,A,AV,NoPtcl,npst,ind,none,npfv,I,pl,barenp,ref,sp,nuniq,nfam,,,,,,,
+ akv sulja vina vis,96,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+" akv tarelka ani sorniŋ tep maɧьŋ tep visane,",97,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,pl,barenp,ref,sp,nuniq,nfam
+" koni kol pakna totsane,",98,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,pl,zero,act,sp,uniq,strg
+ teŋkve ta patas,99,0,INF-A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Tes,100,X,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ astьs,101,X,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" Tematenьl manьr arьɧtas,",102,0,A,AV,NoPtcl,pst,ind,none,pfv,U,abst,indefp,top,sp,uniq,strg,,,,,,,
+ kona kvaltaste,103,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,zero,act,sp,nuniq,nfam
+ luven tittaste,104,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,zero,top,sp,nuniq,nfam
+ ajtaste,105,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,mass,zero,top,sp,nuniq,nfam
+" Juv ꞩaltas,",106,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ lavi:,107,0,A,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" - Ti kolt aman elmholas oli, aman ati?",108,0,A,AV,NoPtcl,npst,ind,quest,npfv,H,sg,barenp,typid,nonsp,nuniq,nfam,,,,,,,
+ Ti lavi tesum,109,X,A,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,strg,,,,,,,
+ ojsum,110,X,A,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,strg,,,,,,,
+ Pomaꞩip,111,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ elmholas hot suiti,112,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,ref,sp,nuniq,nfam,,,,,,,
+ - ekvaьɧ ojkaьɧ man̩ pьɧriꞩ naŋ johtumьn maɧьs jovtim tenut atim,113,,,,NoPtcl,,,neg,,,,,,,,,,,,,,,
+ naŋ johtumьn maɧьs jovtim ul̩a ātim,114,,,,NoPtcl,,,neg,,,,,,,,,,,,,,,
+" Jomas hum johtьn maɧьs jovtьɧlam ul̩am naŋ kastьl nas kasьɧ holtsьn, teltsьn",115,1,A,PAV,NoPtcl,pst,ind,none,pfv,2,sg,pron,act,sp,uniq,sap,,,,,,,
+" an̩ hum, ekvaьɧ - ojkaьɧ man̩ pьɧriꞩ minuŋkve patьs,",116,0,INF-A,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ lavi:,117,0,A,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ os jomas ulum kolet olnut,118,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Lavi,119,0,A,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ - ti minne mānt akvaьɧ minen,120,0,A,V,NoPtcl,fut,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+ Ta minas,121,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ Luve sisen talas,122,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" Hosa ma hosaьɧ ta minite,",123,1,AP,PxV,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,ref,sp,nuniq,nfam
+ vati ma vatiɧ ta minite,124,1,AP,PxV,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,ref,sp,nuniq,nfam
+ Minimete hotal aimaŋkve ta patьs,125,0,INF-A,APV,ta,pst,ind,none,pfv,I,sg,barenp,ref,sp,uniq,w_glob,,,,,,,
+ elal̩ sunsi,126,0,A,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ aman hont aŋkvalьɧ aman naŋk aŋkvalьɧ naŋkeьɧ,127,0,A,AV,NoPtcl,npst,ind,none,npfv,I,du,barenp,ref,sp,nuniq,nfam,,,,,,,
+ Jomaꞩakve l̩apan johtuŋkve pates,128,0,INF-A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" an̩ malьŋ, kolьɧ soml̩ahьɧ",129,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Tuv ta johtьs,130,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ sat nakpa luv neɧne nakьŋ aŋkval,131,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Luve tuv ta neьɧuŋkve pateste,132,1,INF-AP,PV,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ Satit nakna luve tuv noŋh ta neьɧьste,133,1,AP,PxV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,A,sg,possnp,top,sp,uniq,strg
+ Juv ta saltas,134,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" akv ekva unli, lun̩ꞩim",135,0,A,AV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,ref,sp,uniq,nfam,,,,,,,
+ - apьɧkve hotal̩ mineɧьn?,136,0,A,V,NoPtcl,npst,ind,quest,npfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+ Tan lavi,137,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+ - Jorit totne mā kinseɧum,138,1,A,PV,NoPtcl,npst,ind,none,npfv,1,sg,zero,act,sp,uniq,sap,I,sg,barenp,ref,sp,uniq,nfam
+ akve lavi:,139,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ - Manьr jorit totne mā oli,140,0,A,AV,NoPtcl,npst,ind,quest,npfv,I,sg,barenp,act,sp,uniq,strg,,,,,,,
+" am an̩ pьɧum akv naŋ huripan pohatur, hum kos ols,",141,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,ref,sp,uniq,w_brdg,,,,,,,
+" lui hum aɧin hatalalas,",142,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ nete pattita lui hum pьɧna alves,143,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+" Hotal̩ olne sorniŋ tepьl akven tittave,",144,1,P,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ ajtave,145,X,P,V,NoPtcl,npst,ind,none,pfv,,,,,,,,H,sg,zero,top,sp,uniq,strg
+ akve lavi,146,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,dpossnp,act,sp,uniq,strg,,,,,,,
+" - Ti l̩oŋhьn hosit minimen elьn janьɧ jivpa hara sujna pateɧьn,",147,0,A,V,NoPtcl,fut,ind,none,pfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+ am pьɧum tot ta hontalas,148,X,A,AxV,ta,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ Lui hum pьɧe jot tot ta hontьlas,149,X,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Toh elumhplas olime,150,X,P,PV,NoPtcl,pst,evid,none,pfv,,,,,,,,H,sg,barenp,typid,sp,nuniq,nfam
+ uprum vor pum hol̩tol olime,151,X,P,V,NoPtcl,pst,evid,none,pfv,,,,,,,,H,sg,zero,act,sp,uniq,strg
+ akven hurmintьɧ san̩ka palьl majves,152,1,P,AxV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,,,,,H,sg,zero,act,sp,uniq,strg
+ Ta minmьɧtas,153,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ akve lavi,154,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ - Hontlim mān johteɧьn,155,0,A,V,NoPtcl,fut,ind,none,pfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+" jola l̩uleɧьn,",156,0,A,V,NoPtcl,fut,ind,none,pfv,2,sg,zero,top,sp,uniq,sap,,,,,,,
+ lāven:,157,0,A,V,NoPtcl,fut,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,,,,,,,
+  Ti hontlim māt aman liliŋ elmholas aman oli?,158,0,A,AxV,NoPtcl,npst,ind,quest,npfv,H,sg,barenp,ref,nonsp,nuniq,nfam,,,,,,,
+" akvumna majvesum,",159,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,1,sg,zero,act,sp,uniq,sap
+" hurmintьɧ san̩ka palьl majvesum,",160,X,P,V,NoPtcl,pst,ind,none,pfv,,,,,,,,1,sg,zero,top,sp,uniq,sap
+" liliŋ elmholas aman oli, aman āti?",161,0,A,AxV,NoPtcl,npst,ind,quest,npfv,H,sg,barenp,ref,nonsp,nuniq,nfam,,,,,,,
+ Liliŋ elmholas ke olnuv,162,0,A,AV,NoPtcl,npst,irr,none,npfv,H,sg,barenp,ref,nonsp,nuniq,nfam,,,,,,,
+ ti hurmintьɧ san̩ka pālum akv jot ti tenuvanmen,163,1,AP,PxV,ti,fut,irr,none,pfv,1,du,zero,act,sp,uniq,sap,I,pl,possnp,act,sp,uniq,strg
+ Tan ta minas,164,0,A,AV,ta,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+" Tuv johtьs,",165,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ sōl̩ elmholas alime,166,X,P,PV,NoPtcl,pst,evid,none,pfv,,,,,,,,H,sg,barenp,ref,sp,uniq,w_prcp
+" ur pum vor pum hol̩tьl, sōl̩, alime",167,X,P,V,NoPtcl,pst,evid,none,pfv,,,,,,,,H,sg,zero,act,sp,uniq,strg
+" Tan tot jol l̩ulis,",168,0,A,AxV,NoPtcl,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+ lavi:,169,0,A,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ - aman liliŋ elmholas aman oli?,170,0,A,AxV,NoPtcl,npst,ind,quest,npfv,H,sg,barenp,ref,nonsp,nuniq,nfam,,,,,,,
+" akvumna majvesum,",171,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,1,sg,zero,act,sp,uniq,sap
+ hurmintьɧ san̩ka palьl majvesum,172,X,P,V,NoPtcl,pst,ind,none,pfv,,,,,,,,1,sg,zero,top,sp,uniq,sap
+" Liliŋ elmholas ke olnuv,",173,0,A,AV,NoPtcl,npst,irr,none,npfv,H,sg,barenp,ref,nonsp,nuniq,nfam,,,,,,,
+ ti hurmintьɧ san̩ka palum akv jot ti tenuvanmen,174,1,AP,PxV,ti,fut,irr,none,pfv,1,du,zero,act,sp,uniq,sap,I,pl,possnp,act,sp,uniq,strg
+ elmholas suiti,175,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,typid,sp,nuniq,nfam,,,,,,,
+" - am ti tene ꞩol at on̩ꞩeɧum,",176,1,A,APV,NoPtcl,npst,ind,neg,nfpv,1,sg,pron,act,sp,uniq,sap,I,abst,barenp,ref,nonsp,nuniq,nfam
+ lui hum pьɧna álvēsum,177,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,,,,,1,sg,zero,top,sp,uniq,sap
+ Hum (Pьɧriꞩ) lavi,178,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ - Tuvьl manurьl iŋ potьrteɧьn?,179,0,A,V,NoPtcl,npst,ind,quest,npfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+ Tan lavi:,180,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+" - sopluvum saɧrapaves,",181,X,P,PV,NoPtcl,pst,ind,none,pfv,,,,,,,,I,sg,possnp,uniq,sp,uniq,w_brdg
+ puŋkum man̩ si̊p tan lomten úrāve,182,1,P,PAV,NoPtcl,npst,ind,none,npfv,I,sg,possnp,,,,,I,sg,possnp,uniq,sp,uniq,w_brdg
+ naŋ hotal̩ mineɧьn?,183,0,A,AxV,NoPtcl,npst,ind,quest,npfv,2,sg,pron,act,sp,uniq,sap,,,,,,,
+ ekvaьɧ ojkaьɧ man̩ pьɧriꞩ tan lavi:,184,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+ lui hum pьɧ palt hajtalaŋkve mineɧum,185,0,INF-A,PV,NoPtcl,fut,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ alim humite lavi,186,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,dpossnp,act,sp,uniq,strg,,,,,,,
+" - am, lavim ta kos hontlasum",187,X,A,AV,ta+,pst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ oluŋkve at ta vermeslum,188,1,INF-AP,PV,ta,pst,ind,neg,pfv,1,sg,zero,top,sp,uniq,sap,,,,,,,
+ naŋ hun̩ vermilьn,189,1,AP,AxV,NoPtcl,npst,ind,quest,pfv,2,sg,pron,act,sp,uniq,sap,,,,,,,
+" - am, lavi, vermeɧum",190,X,A,AV,NoPtcl,npst,ind,none,npfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+" - naŋ tah minimen, hara man neɧleɧьn,",191,0,A,AxV,NoPtcl,fut,ind,none,pfv,2,sg,pron,act,sp,uniq,sap,,,,,,,
+ lui hum pьɧ kole ta hara ma kotil̩t unlьnete nāŋki,192,0,A,AV,NoPtcl,fut,ind,none,npfv,I,sg,possnp,uniq,sp,uniq,w_brdg,,,,,,,
+ sat nak l̩ulit kol,193,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ numi nake kumьska kol,194,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" naŋ tuv neɧleɧьn tah,",195,0,A,AV,NoPtcl,fut,ind,none,pfv,2,sg,pron,act,sp,uniq,sap,,,,,,,
+ tan naŋьn kasalite,196,1,AP,APV,NoPtcl,fut,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,2,sg,pron,top,sp,uniq,sap
+" tan tah kon kvalapi,",197,0,A,AxV,NoPtcl,fut,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,,,,,,,
+" roŋhuɧli,",198,0,A,V,NoPtcl,fut,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ naŋ tah luvьh jola sānsinti,199,0,A,AV,NoPtcl,fut,ind,none,pfv,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+ Kaьntьɧ os roŋhuɧli,200,0,A,V,NoPtcl,fut,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ luvьn tah jol patuŋkve vorati,201,0,INF-A,AxPV,NoPtcl,fut,ind,none,pfv,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+ naŋ toh ātimtal ꞩolentьl luvьn junьɧteln,202,1,AP,AxPV,NoPtcl,fut,imp,none,pfv,2,sg,pron,act,sp,uniq,sap,A,sg,possnp,top,sp,uniq,strg
+" naŋ man kempelpьꞩ minuŋkve pateɧьn,",203,0,INF-A,AxPV,NoPtcl,fut,ind,none,pfv,2,sg,pron,top,sp,uniq,sap,,,,,,,
+ tan uꞩ pьl pelpьꞩ juv,204,0,A,AxV,NoPtcl,fut,ind,none,npfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+" Tan os luve sisen tāli,",205,0,A,AxV,NoPtcl,fut,ind,none,pfv,H,sg,pron,top,sp,uniq,strg,,,,,,,
+" os hurmintьɧ roŋhuɧli,",206,0,A,V,NoPtcl,fut,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ naŋ luvьn tah jol patsi,207,0,A,AxV,NoPtcl,fut,ind,none,pfv,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+" Tuvьl naŋ os kotьrteln, (junьɧteln)",208,1,AP,AxV,NoPtcl,fut,imp,none,pfv,2,sg,pron,act,sp,uniq,sap,A,sg,zero,top,sp,uniq,strg
+ naŋ luvьn poher tan luve urite,209,1,AP,APV,NoPtcl,fut,ind,none,npfv,H,sg,pron,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+" naŋ luvьŋ ureln,",210,1,AP,APV,NoPtcl,fut,imp,none,npfv,2,sg,pron,act,sp,uniq,sap,A,sg,possnp,top,sp,uniq,strg
+ ꞩar tan luve maɧьlna ureln,211,1,AP,V,NoPtcl,fut,imp,none,npfv,2,sg,zero,top,sp,uniq,strg,A,sg,zero,act,sp,uniq,strg
+ Luvьɧ akvan vos hojeьɧ,212,0,A,AV,NoPtcl,fut,opt,none,pfv,A,du,barenp,act,sp,uniq,strg,,,,,,,
+" Tan tah jola porьɧmi,",213,0,A,AxV,NoPtcl,fut,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+ naŋ nupьlna lavi:,214,0,A,V,NoPtcl,fut,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" - naŋ jeɧpьɧьɧ olen,",215,0,A,AxV,NoPtcl,fut,imp,none,npfv,2,sg,pron,act,sp,uniq,sap,,,,,,,
+ am apꞩiɧ oleɧum ,216,0,A,AxV,NoPtcl,fut,ind,none,npfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ Ti haniꞩtaves,217,X,P,V,ti,pst,ind,none,pfv,,,,,,,,H,sg,zero,act,sp,uniq,strg
+ Ta minmьɧtas,218,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ sōl̩ hara mān neьɧlas,219,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ sōl̩ kol unlьnete naŋki,220,0,A,AV,NoPtcl,npst,ind,none,npfv,I,abst,possnp,fam,sp,uniq,strg,,,,,,,
+ sōl̩ sātit nake kumьska kol,221,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Hajtne tul l̩ulitьl unli,222,0,A,V,NoPtcl,npst,ind,none,npfv,I,sg,zero,act,sp,uniq,strg,,,,,,,
+" Tau tuvle sunsi,",223,0,A,AxV,NoPtcl,npst,ind,none,npfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+ satit naknьl seri varp jolal̩ ta tahame nāŋki,224,0,A,AV,ta,npst,ind,none,npfv,I,sg,possnp,ref,sp,nuniq,nfam,,,,,,,
+ Kona patkete ta roŋhuɧlas,225,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ Tit luve jola ta sansintas,226,0,A,AV,ta,pst,ind,none,pfv,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+" Tan luve ta junьɧtaste,",227,1,AP,APV,ta,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ n̩aŋra ꞩahьl hol̩ ta pókmātas,228,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ Luve pelpьꞩ ta minuŋkve patьs,229,0,INF-A,AxPV,ta,pst,ind,none,pfv,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+" Tuvle sunsi,",230,0,A,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" luve sisna ta porьɧmas,",231,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ kitantьɧ os ta roŋhuɧlas,232,0,A,V,ta+,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Tit luve jola ta patsas,233,0,A,AV,ta,pst,ind,none,pfv,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+" Hurmintьɧ os ta roŋhuɧlas,",234,0,A,V,ta+,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ tit luve akaьɧ l jola ta pats,235,0,A,AxV,ta,pst,ind,none,pfv,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+ Tan lavi,236,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+ - Manьr sir pil̩ne mān,237,,,,NoPtcl,,,quest,,,,,,,,,,,,,,,
+" Tit, lavi, vor hulah",238,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" pьɧriꞩ roŋhuɧlas,",239,0,A,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ naŋ os jol patsьn!,240,0,A,AxV,NoPtcl,pst,ind,none,pfv,2,sg,pron,act,sp,uniq,sap,,,,,,,
+" Homꞩil junьɧtaste kis lakv joŋham lakvьŋ torum janitьl,",241,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,A,sg,zero,act,sp,uniq,sap
+" homꞩi minam mus, ul̩al sāls",242,0,A,V,NoPtcl,pst,ind,none,pfv,I,sg,zero,act,sp,uniq,strg,,,,,,,
+" Luve an̩ manьr minas,",243,0,A,AxV,NoPtcl,pst,ind,none,npfv,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+ uꞩ pil taq pьlpьꞩ minuŋkve pats,244,0,INF-A,PV,NoPtcl,pst,ind,none,pfv,A,sg,zero,top,sp,uniq,strg,,,,,,,
+ Ja ti luvanen akvan ta hojasьɧ,245,0,A,AV,ta,pst,ind,none,pfv,A,du,possnp,act,sp,uniq,strg,,,,,,,
+ Lui hum pьɧ luve hurum usil palitna juvle totves,246,X,P,PxV,NoPtcl,pst,ind,none,pfv,,,,,,,,A,sg,possnp,act,sp,uniq,strg
+ Lui hum pьɧ jol porьɧmas,247,0,A,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ ekvaьɧ ojkaьɧ pьɧriꞩ nupьl lavi:,248,0,A,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" - naŋ jajphьɧ olen,",249,0,A,AxV,NoPtcl,fut,imp,none,npfv,2,sg,pron,act,sp,uniq,sap,,,,,,,
+ am apꞩiɧ oleɧum,250,0,A,AxV,NoPtcl,fut,ind,none,npfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+" Ti, lavi, juv minimen",251,0,A,V,NoPtcl,fut,hort,none,pfv,1,du,zero,act,sp,uniq,sap,,,,,,,
+ Ta minasьɧ,252,0,A,V,ta,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,,,,,,,
+ Sat naklulit kolen juv johtesьɧ,253,0,A,V,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,,,,,,,
+ Sat nak lulit luv neɧne ker aŋkval,254,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" Lui hum pьɧ luve neɧьste, hotit nakna",255,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ ekvaьɧ ojkaьɧ man̩ pьɧriꞩ luve neɧьste satit nakna,256,1,AP,APV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,A,sg,possnp,act,sp,uniq,strg
+ Juv ꞩaltsьɧ,257,0,A,V,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,,,,,,,
+ Lui hum pьɧ lavi:,258,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+" - Jaɧpьɧ, man manьr ti janit vaɧьl kantleɧьn?",259,0,A,V,NoPtcl,npst,ind,quest,npfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+" - Manьr am, lavi, kontleɧum",260,0,A,AV,NoPtcl,npst,ind,quest,pfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ nematьr at kantleɧum,261,0,A,V,NoPtcl,npst,ind,neg,npfv,1,sg,zero,top,sp,uniq,sap,,,,,,,
+ Ta oleьɧ,262,0,A,V,ta,npst,ind,none,npfv,H,du,zero,act,sp,uniq,strg,,,,,,,
+ olneten halt apꞩite tistujas,263,0,A,AV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ Jeɧpьɧe lavi,264,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ - manьr tisteɧьn,265,1,A,PV,NoPtcl,npst,ind,quest,npfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+ manьr voꞩleɧьn?,266,1,A,PV,NoPtcl,npst,ind,quest,npfv,2,sg,zero,top,sp,uniq,sap,,,,,,,
+" - Manьr ti̊steɧem,",267,1,A,PV,NoPtcl,npst,ind,quest,npfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+" manьr voꞩleɧum,",268,1,A,PV,NoPtcl,npst,ind,quest,npfv,1,sg,zero,top,sp,uniq,sap,,,,,,,
+ ꞩar jortal oleɧum,269,0,A,V,NoPtcl,npst,ind,none,npfv,1,sg,zero,top,sp,uniq,sap,,,,,,,
+ - Mol hotal jimant matьr ul vasьn?,270,1,A,PxV,NoPtcl,pst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,U,abst,indefp,undef,nonsp,nuniq,nfam
+ Lavi - vāsum,271,X,A,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ - am jorum tot on̩save,272,X,P,PxV,NoPtcl,npst,ind,none,npfv,,,,,,,,I,abst,possnp,uniq,sp,uniq,w_brdg
+" - manьr, lavi, jorьn,",273,,,,NoPtcl,,,quest,,,,,,,,,,,,,,,
+" - am, lavi, ekva pьɧriꞩ, apьɧriꞩ jot hontlasum",274,0,A,AxV,NoPtcl,pst,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ sopluve kos saɧrapasum,275,1,A,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,possnp,uniq,sp,uniq,w_brdg
+" sirajum hot ojtaslum,",276,1,AP,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,possnp,ref,sp,uniq,w_brdg
+ tan tarm pateste,277,1,AP,V,NoPtcl,pst,ind,none,pfv,I,sg,zero,act,sp,uniq,strg,,,,,,,
+ Vi̊ŋkve at vermilum,278,1,INF-AP,PV,NoPtcl,npst,ind,neg,npfv,1,sg,zero,act,sp,uniq,sap,I,sg,zero,top,sp,uniq,strg
+" Ta l̩apan johteɧum,",279,0,A,V,NoPtcl,npst,ind,none,npfv,1,sg,zero,top,sp,uniq,sap,,,,,,,
+ luvum jol hanni,280,0,A,AV,NoPtcl,npst,ind,none,npfv,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+" Jola vaɧluŋkve pateɧum,",281,0,INF-A,PV,NoPtcl,npst,ind,none,npfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ luvum sisna tuv hanujeɧum,282,0,A,V,NoPtcl,npst,ind,none,npfv,1,sg,zero,top,sp,uniq,sap,,,,,,,
+" Juvle jiŋkve pateɧum, ",283,0,INF-A,PV,NoPtcl,npst,ind,none,npfv,1,sg,zero,top,sp,uniq,sap,,,,,,,
+luvum husmati,284,0,A,AV,NoPtcl,npst,ind,none,npfv,A,sg,possnp,act,sp,uniq,strg,,,,,,,
+ Jeɧpьɧe lavi,285,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+" - am lavi molal elal̩ jimumt tan sajim,",286,0,A,AV,NoPtcl,pst,evid,none,pfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+ tup luv an̩anel unleɧt,287,0,A,AV,NoPtcl,npst,ind,none,npfv,I,pl,possnp,ref,sp,uniq,w_brdg,,,,,,,
+" - ati, apꞩite lavi,",288,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ tuve satьɧ ti jemtas,289,0,A,AxV,ti,pst,ind,none,pfv,I,sg,dpossnp,act,sp,uniq,strg,,,,,,,
+ am jalanteɧum,290,0,A,AV,NoPtcl,npst,ind,none,npfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ tan liliŋ,291,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Jeɧpьɧe lavi,292,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ - am lavi mineɧum,293,0,A,AV,NoPtcl,fut,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+" ti olmajilum,",294,1,AP,V,ti,fut,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,H,sg,zero,act,sp,uniq,strg
+ silajin ti vьɧlum,295,1,AP,PV,ti,fut,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,I,sg,possnp,act,sp,uniq,strg
+ apꞩite lavi:,296,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ - vi̊ŋkve at vermilьn,297,1,INF-AP,PV,NoPtcl,fut,ind,neg,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+ Ekvaьɧ ojkaьɧ pьɧriꞩ lavi,298,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ - Am vermilum,299,1,AP,AV,NoPtcl,fut,ind,none,npfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ Ta minas,300,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" Tuv johtas,",301,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" humite palt neɧlas,",302,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ luve tuv jol hanujas,303,0,A,AxV,NoPtcl,pst,ind,none,pfv,A,sg,possnp,top,sp,uniq,strg,,,,,,,
+ Ta humite tьɧle l̩al̩t lavi:,304,0,A,AxV,NoPtcl,npst,ind,none,pfv,H,sg,dpossnp,act,sp,uniq,strg,,,,,,,
+" - Jatel̩ jaɧpьɧ, am lavi ti tuve sāt, tale sāt tit ta hujanteɧum,",305,0,A,AxV,ta,npst,ind,none,npfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+" naŋ ta apsijiɧ patum humin, am lilim ke nelteɧьn,",306,1,A,PV,NoPtcl,fut,irr,none,pfv,2,sg,zero,act,sp,uniq,sap,I,abst,possnp,uniq,sp,uniq,w_brdg
+ siraje mьɧlum,307,1,AP,PV,NoPtcl,fut,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,sg,dpossnp,fam,sp,uniq,strg
+ Am lilim ke nelteɧьn,308,1,A,PV,NoPtcl,fut,irr,none,pfv,2,sg,zero,act,sp,uniq,sap,I,abst,possnp,act,sp,uniq,strg
+ - Am naŋ lilin manurьl jaltaptilum,309,1,AP,APxV,NoPtcl,fut,ind,quest,pfv,1,sg,pron,act,sp,uniq,sap,I,abst,possnp,act,sp,uniq,strg
+ Am lilim neltanut amki on̩ꞩeɧum,310,1,A,APV,NoPtcl,npst,ind,none,npfv,1,sg,pron,act,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+" Am lilim ke nelteɧьn,",311,1,A,PV,NoPtcl,fut,irr,none,pfv,2,sg,zero,act,sp,uniq,sap,I,abst,possnp,top,sp,uniq,strg
+" naŋ jaɧphьɧ olen,",312,0,A,AxV,NoPtcl,fut,imp,none,npfv,2,sg,pron,act,sp,uniq,sap,,,,,,,
+ am apꞩiɧ oleɧum,313,0,A,AxV,NoPtcl,fut,ind,none,npfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ Lavi - Neltilum,314,1,AP,V,NoPtcl,fut,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,abst,zero,act,sp,uniq,strg
+ L̩apan minas,315,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ Ekva Pьɧriꞩ lilite neltite,316,1,AP,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,I,abst,possnp,act,sp,uniq,strg
+" - Am puŋkum pineln, ꞩar sohtьl",317,1,AP,PV,NoPtcl,fut,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,possnp,uniq,sp,uniq,w_brdg
+ Puŋke pinves,318,X,P,PV,NoPtcl,pst,ind,none,pfv,,,,,,,,I,sg,possnp,act,sp,uniq,strg
+" Elnuv jalanti,",319,0,A,V,NoPtcl,npst,ind,none,npfv,I,sg,zero,act,sp,uniq,strg,,,,,,,
+ ꞩar sohtьl oli,320,0,A,V,NoPtcl,npst,ind,none,npfv,I,sg,zero,act,sp,uniq,strg,,,,,,,
+ Ekva Pьɧriꞩ lavi:,321,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+" - Am ti erьɧ totne hum,",322,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" am ti mojt totne hum,",323,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ ꞩar puŋkum sohtьl vos oli,324,0,A,AxV,NoPtcl,fut,opt,none,npfv,I,sg,possnp,act,sp,uniq,strg,,,,,,,
+" Ekvaьɧ-ojkaьɧ pьɧriꞩna sunsave,",325,1,P,AV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ ꞩar sohtьl oli,326,0,A,V,NoPtcl,npst,ind,none,npfv,I,sg,zero,top,sp,uniq,strg,,,,,,,
+ Ekva Pьɧriꞩ lavi:,327,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ - Am ti jomas pal ꞩepumt liliŋ vit sulji oli,328,0,A,AV,NoPtcl,npst,ind,none,npfv,I,sg,barenp,ref,sp,uniq,nfam,,,,,,,
+" Vujeln,",329,1,AP,V,NoPtcl,fut,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+" am ti sipluvum saɧrapim mate sarteln,",330,1,AP,PV,NoPtcl,fut,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,possnp,fam,sp,uniq,strg
+ am Sōpum liliŋ vitьl ajteln,331,1,AP,PxV,NoPtcl,fut,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,possnp,uniq,sp,uniq,w_brdg
+" Ajtves,",332,X,P,V,NoPtcl,pst,ind,none,pfv,,,,,,,,I,sg,zero,act,sp,uniq,strg
+ sartves,333,X,P,V,NoPtcl,pst,ind,none,pfv,,,,,,,,I,sg,zero,act,sp,uniq,strg
+ Hum noŋh untas,334,0,A,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ Noŋ l̩ulis,335,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Paꞩalahtasьɧ,336,0,A,V,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,,,,,,,
+ Siraje majves,337,X,P,PV,NoPtcl,pst,ind,none,pfv,,,,,,,,I,sg,possnp,act,sp,uniq,strg
+ An Ekva Pьɧriꞩ lavi,338,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ - An̩ naŋ jeɧphьɧ olen,339,0,A,AxV,NoPtcl,fut,imp,none,npfv,2,sg,pron,act,sp,uniq,sap,,,,,,,
+" Aniɧlahtesьɧ,",340,0,A,V,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,,,,,,,
+" sipьɧlahtesьɧ,",341,0,A,V,NoPtcl,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,,,,,,,
+ ti kittьɧ ta minasьɧ,342,0,A,V,ta,pst,ind,none,pfv,H,du,zero,top,sp,uniq,strg,,,,,,,
+ Ekvaьɧ Ojkaьɧ pьɧriꞩ Lui hum palt os ta minas,343,0,A,AxV,ta+,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ Tuv johtьs,344,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" - Ē, lavi, jatel̩ jaɧpьɧ ta johtasьn,",345,0,A,V,ta,pst,ind,none,pfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+" - Ā, lavi, ta johtasum",346,0,A,V,ta,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ - Aman jorum totaslьn?,347,1,AP,PV,NoPtcl,pst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,I,abst,possnp,fam,sp,uniq,strg
+ Jeɧpьɧe lavi,348,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ - Totaslum,349,1,AP,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,I,abst,zero,act,sp,uniq,strg
+ Sьraje majves,350,X,P,PV,NoPtcl,pst,ind,none,pfv,,,,,,,,I,sg,dpossnp,act,sp,uniq,strg
+" - An̩, lavi, vosьɧ ēt at hujeɧum",351,0,A,V,NoPtcl,fut,ind,neg,pfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ Molal Mutraŋ ekva aɧin hajtalaslum,352,1,AP,PV,NoPtcl,pst,ind,none,pfv,1,sg,zero,top,sp,uniq,sap,H,sg,barenp,fam,sp,uniq,strg
+ Hajtalalum hurmit tal,353,,,V,NoPtcl,,,none,,,,,,,,,,,,,,,
+ An̩ ti jorum johtьs,354,0,A,AV,NoPtcl,pst,ind,none,pfv,I,abst,possnp,act,sp,uniq,strg,,,,,,,
+ An̩ Mutraŋ ekva hontlaŋkve am jotum saka vorati,355,0,INF-A,APxV,NoPtcl,fut,ind,none,npfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ Am an̩ ti ēt hontlaŋkve mineɧum,356,0,INF-A,AxPV,NoPtcl,fut,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+" Mashatas,",357,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" enthatas,",358,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ minas,359,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Hontlan maten johtьs,360,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Mutraŋ ekva mire athatmьt,361,0,A,AV,NoPtcl,pst,evid,none,pfv,H,pl,possnp,ref,sp,uniq,w_brdg,,,,,,,
+ Mutraŋ ekva mir ta kem sav on̩ꞩi,362,1,A,APxV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,act,sp,uniq,strg,H,pl,barenp,ref,nonsp,nuniq,strg
+" Osьŋ l̩om uj, osьŋ palum kem mir on̩ꞩi",363,1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,H,pl,barenp,ref,nonsp,nuniq,strg
+" Ta kos ali,",364,X,A,V,ta+,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" ta kos loŋhiti,",365,X,A,V,ta+,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" mana kem ali,",366,1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,undef,nonsp,nuniq,nfam
+ akv pis ta johti,367,0,A,AV,ta,npst,ind,none,npfv,I,sg,barenp,top,sp,uniq,strg,,,,,,,
+" mana kem ali,",368,1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,I,abst,barenp,undef,nonsp,nuniq,nfam
+ akv pis ta johti,369,0,A,AV,ta,npst,ind,none,npfv,I,sg,barenp,top,sp,uniq,strg,,,,,,,
+" Aman tale sāt hontlas,",370,X,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" aman tuve sat hontlas,",371,X,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ juv ta minas,372,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" - Jatel jeɧpьɧ, Mutraŋ ekva mire ta kem sav",373,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Ta kos alasum,374,X,A,V,ta+,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ pusьn aluŋkve at ta vermesanum,375,1,INF-AP,PV,ta,pst,ind,neg,pfv,1,sg,zero,top,sp,uniq,sap,H,pl,univp,ref,sp,nuniq,strg
+ Jeɧpьɧe lavi:,376,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ - Naŋ maɧsьlьn am jaleɧum,377,0,A,AV,NoPtcl,fut,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ - Manьr jatel jeɧpьɧ,378,,,,NoPtcl,,,quest,,,,,,,,,,,,,,,
+" naŋ minken, mat mon pistave",379,,,,,,,,,,,,,,,,,,,,,,
+" - Ati, lavi, am mineɧum",380,0,A,AV,NoPtcl,fut,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ Minas,381,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ Tuv johtas,382,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Mutraŋ ekva mire ta kem sav,383,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Hontlaŋkve pats,384,0,INF-A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ Luv posne homsite viste,385,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,dpossnp,ref,sp,uniq,w_brdg
+" Tьɧle hosɧi,",386,X,A,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" tuvle hosɧi,",387,X,A,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Mutraŋ ekva mire akv matert holasьt,388,0,A,AxV,NoPtcl,pst,ind,none,pfv,H,pl,possnp,act,sp,uniq,strg,,,,,,,
+ Akva arьɧtas,389,0,A,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,ref,sp,uniq,w_set,,,,,,,
+" Jujil kos n̩aunlitaste,",390,1,AP,V,NoPtcl,pst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ vit alntan jivьɧ jemtapas,391,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Kis hol̩tьl ta povaraŋkve pats,392,0,INF-A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" Jujil kos n̩aulьɧtaste,",393,1,AP,V,NoPtcl,pst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ hot ustьpaste,394,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+" Jol vaɧlьs,",395,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ tot jomьɧti,396,0,A,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Mā lepkas hontьɧpas,397,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Tuvle jolal̩ hajtup,398,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" Tuv jol-ta ꞩaltas,",399,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ hajtup hosit ta mini,400,0,A,V,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Joli torumna ta mini,401,0,A,V,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Jola johtьs,402,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" Akv kol,",403,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Kolna juv ꞩaltьs,404,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Akv ekva setap vari,405,1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,ref,sp,uniq,nfam,I,mass,barenp,typid,nonsp,nuniq,nfam
+ Nal larmapti,406,1,A,PV,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,I,mass,barenp,typid,nonsp,nuniq,nfam
+" Nal larmatane mus, elmholas kvalapi",407,0,A,AV,NoPtcl,npst,ind,none,npfv,H,sg,zero,ref,sp,nuniq,nfam,,,,,,,
+" Kválāpi,",408,0,A,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ juji kol nupьl ta hajti,409,0,A,V,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Jun suiti,410,0,A,V,NoPtcl,npst,ind,none,pfv,,,,,,,,,,,,,,
+" - máshatēn, máshatēn!",411,0,A,V,NoPtcl,fut,imp,none,pfv,2,pl,zero,act,sp,uniq,sap,,,,,,,
+ Mutraŋ ekva koꞩaj nev ti johtavev,412,X,P,AV,ti,fut,ind,none,pfv,H,sg,possnp,fam,sp,uniq,strg,1,pl,zero,act,sp,uniq,sap
+" Tau juji kol nupьl ꞩaltьs,",413,0,A,AxV,NoPtcl,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,sap,,,,,,,
+ Ta kem sav mir ti,414,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Akvaьɧ johteɧt,415,0,A,V,NoPtcl,npst,ind,none,npfv,H,pl,zero,act,sp,uniq,sap,,,,,,,
+" Tot mana kem larmapti,",416,X,A,V,NoPtcl,npst,ind,none,npfv,U,abst,indefp,undef,nonsp,nuniq,nfam,,,,,,,
+ akvaьɧ elmholas ta johti,417,0,A,AV,ta,npst,ind,none,npfv,H,sg,barenp,ref,sp,nuniq,nfam,,,,,,,
+" Hun̩t varim kent hun̩t varim sup, hun̩t varum pal̩ta, hun̩t varim passa pusьn tās",418,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" Mana kem elmholas johti,",419,0,A,AV,NoPtcl,npst,ind,none,npfv,I,abst,barenp,undef,nonsp,nuniq,nfam,,,,,,,
+ masnut pusьn tās,420,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" Ekvaьɧ ojkaьɧ man̩ pьɧriꞩ, koni kol nakna kvals,",421,0,A,AxV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ ekva nupьl lavi:,422,0,A,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ - Nalьn tьɧ maj- leln,423,1,AP,PV,NoPtcl,fut,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,possnp,act,sp,nuniq,strg
+" Am larmapteɧum,",424,X,A,AV,NoPtcl,fut,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+" akv torьɧ hurmьl, kvalapi",425,0,A,V,NoPtcl,fut,ind,none,npfv,H,pl,zero,ref,sp,nuniq,nfam,,,,,,,
+ Akve lavi:,426,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+" - Am man̩ porat katum mol̩ah ols,",427,0,A,AxV,NoPtcl,pst,ind,none,pfv,I,du,possnp,uniq,sp,uniq,w_brdg,,,,,,,
+ larmapteɧum,428,X,A,V,NoPtcl,npst,ind,none,npfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ sav kvalapi;,429,0,A,AV,NoPtcl,npst,ind,none,npfv,H,pl,univp,ref,sp,nuniq,nfam,,,,,,,
+" an̩ katum luvtaŋkve patves,",430,X,INF-P,PxV,NoPtcl,pst,ind,none,pfv,,,,,,,,I,du,possnp,act,sp,uniq,strg
+ an̩ katum laꞩalьɧ jemtьs,431,0,A,AxV,NoPtcl,pst,ind,none,pfv,I,sg,possnp,top,sp,uniq,strg,,,,,,,
+ Akve nupьl lavi,432,0,A,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" - Nalьn hata, tьɧ majeln",433,1,AP,PxV,NoPtcl,fut,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,possnp,act,sp,uniq,strg
+" Nalьl majves,",434,X,P,V,NoPtcl,pst,ind,none,pfv,,,,,,,,H,sg,zero,top,sp,uniq,strg
+" Nale almajaste,",435,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,top,sp,uniq,strg
+ akve vil̩t jatet apɧen ta puvtmaves,436,1,P,PxAV,ta,pst,ind,none,pfv,H,sg,dpossnp,top,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+ Ta raɧatas,437,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Ta ūsas,438,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Kona kvalas,439,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ ta jomantas,440,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Akv mat os kol,441,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" Kolna tuv juv ꞩaltьs,",442,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" akv ojkariꞩ ker jūnьɧti,",443,1,A,APV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,ref,sp,uniq,nfam,I,mass,barenp,typid,nonsp,nuniq,nfam
+ ul̩a sultmil ta neɧlapi,444,0,A,AxV,ta,npst,ind,none,npfv,If,mass,barenp,act,sp,uniq,strg,,,,,,,
+ Elmholas tuv kvalapi,445,0,A,AV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,ref,sp,nuniq,nfam,,,,,,,
+ Ꞩisɧim; roŋhim mot kol nakna ta hajti,446,0,A,V,ta,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ Ojka nupьl lavi:,447,0,A,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" - Voŋhpan tьɧ majleln,",448,1,AP,PV,NoPtcl,fut,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,possnp,ref,sp,nuniq,w_brdg
+ am akv ꞩos jūniteɧum,449,X,A,AxV,NoPtcl,fut,ind,none,pfv,1,sg,pron,act,sp,uniq,sap,,,,,,,
+ (jūnitaleɧum),450,X,A,V,NoPtcl,fut,ind,none,npfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ sāv kvalapi,451,0,A,AV,NoPtcl,fut,ind,none,npfv,H,pl,univp,ref,nonsp,nuniq,nfam,,,,,,,
+ Ojka lavi,452,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+" - Am katrisum vaɧtal pats,",453,0,A,AxV,NoPtcl,pst,ind,none,pfv,I,du,possnp,uniq,sp,uniq,w_brdg,,,,,,,
+" an̩, lavi, matsum",454,0,A,V,NoPtcl,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ Maniɧ olmum porat juvniteɧum,455,X,A,V,NoPtcl,npst,ind,none,npfv,1,sg,zero,top,sp,uniq,sap,,,,,,,
+ sāv kválāpi,456,0,A,AV,NoPtcl,npst,ind,none,npfv,H,pl,univp,ref,nonsp,nuniq,nfam,,,,,,,
+" - Hota, lavi, akim ojka, tьɧ majleln",457,1,AP,V,NoPtcl,fut,imp,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,zero,act,sp,uniq,strg
+ Aphen voŋhpe miste,458,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,possnp,top,sp,uniq,strg
+" Aphen almajaves,",459,1,P,AV,NoPtcl,pst,ind,none,pfv,H,sg,dpossnp,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" vil̩t jat juvnitaves,",460,X,P,PV,NoPtcl,pst,ind,none,pfv,,,,,,,,I,sg,barenp,top,sp,uniq,strg
+" An̩ ojka ta raɧatas,",461,0,A,AV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ ta usas,462,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" An̩ pьɧriꞩ kona kvalas,",463,0,A,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ os ta jómānti,464,0,A,V,ta+,npst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Akv kolna os johtьs,465,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Ta hurip jomas kolkve,466,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" - Akv sornite noŋh haŋhi,",467,0,A,AV,NoPtcl,npst,ind,none,npfv,I,sg,possnp,ref,sp,nuniq,nfam,,,,,,,
+ akv sornite jola-vaɧli,468,0,A,AV,NoPtcl,npst,ind,none,npfv,I,sg,possnp,ref,sp,nuniq,nfam,,,,,,,
+ Tuv juv ꞩaltьs,469,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ Mutraŋ ekva huji,470,0,A,AV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,ref,sp,uniq,nfam,,,,,,,
+ Mutraŋ ekva aɧite lavi:,471,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+" - Ekvaьɧ ojkaьɧ man̩ pьɧriꞩ, man totne ujn totvesьn?",472,1,P,AV,NoPtcl,pst,ind,quest,pfv,A,sg,barenp,typid,nonsp,nuniq,nfam,2,sg,zero,act,sp,uniq,sap
+" Ꞩanum noŋ sajkali,",473,0,A,AV,NoPtcl,fut,ind,none,pfv,H,sg,possnp,uniq,sp,uniq,w_brdg,,,,,,,
+ ti alaven,474,X,P,V,ti,fut,ind,none,pfv,,,,,,,,2,sg,zero,act,sp,uniq,sap
+" Naŋ, lavi, ul erьɧ totne hum,",475,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+" naŋ an̩ kona kvalen,",476,0,A,AxV,NoPtcl,fut,imp,none,pfv,2,sg,pron,top,sp,uniq,sap,,,,,,,
+ ti sohripet kit poska ta unleьɧ,477,0,A,AV,ta,npst,ind,none,npfv,I,du,barenp,ref,sp,nuniq,nfam,,,,,,,
+" Akvate liliŋ vit poꞩka,",478,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ akvate usam vit poska,479,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Poꞩkьn penteɧьn,480,1,A,PV,NoPtcl,fut,ind,none,pfv,2,sg,zero,act,sp,uniq,sap,I,sg,dpossnp,act,sp,uniq,strg
+ Liliŋ vit poꞩka unlum mān usam vit poꞩka untten,481,1,A,PV,NoPtcl,fut,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+ Usum vit poꞩka unlum mān liliŋ vit poꞩka untteln,482,1,AP,PV,NoPtcl,fut,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,I,sg,barenp,act,sp,uniq,strg
+ Ta pentsaɧe,483,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,du,zero,act,sp,uniq,strg
+ Juv ta ꞩaltьs,484,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Mutraŋ ekva aɧi lavi,485,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+" - Ꞩan̩-a ꞩan̩ kvalen,",486,0,A,V,NoPtcl,fut,imp,none,pfv,2,sg,zero,fam,sp,uniq,sap,,,,,,,
+ ti johtuvesьn,487,X,P,V,ti,pst,ind,none,pfv,,,,,,,,2,sg,zero,act,sp,uniq,sap
+ Ꞩane ta kválāpas,488,0,A,AV,ta,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ Ekvaьɧ- ojkaьɧ man̩ pьɧriꞩl ta pohtasьɧ,489,X,A,V,ta,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,,,,,,,
+ Ta pohataleьɧ,490,0,A,V,ta,npst,ind,none,npfv,H,du,zero,top,sp,uniq,strg,,,,,,,
+ Mutraŋ ekva aɧi lavi:,491,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ - Saim ekva ti alilьn,492,1,AP,PV,ti,fut,ind,none,pfv,2,sg,zero,act,sp,uniq,sap,H,sg,barenp,act,sp,uniq,strg
+ Moꞩan tarmatьɧleln,493,1,AP,V,NoPtcl,fut,imp,none,pfv,2,sg,zero,top,sp,uniq,sap,H,sg,zero,top,sp,uniq,strg
+ Ta tarmataste,494,1,AP,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,zero,act,sp,uniq,strg
+ Mutraŋ ekva kon ta lakvultas,495,0,A,AV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+" Liliŋ vit poꞩkatēn kos lakvultas,",496,0,A,V,NoPtcl,pst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ usam vit poꞩka kiverna tuv lakvultas,497,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Tau nomsi,498,0,A,AV,NoPtcl,npst,ind,none,npfv,H,sg,pron,top,sp,uniq,strg,,,,,,,
+ liliŋ vit poꞩkate,499,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Noŋhal̩ lavьs,500,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ - Amki on̩sam aɧimna ti alvesum,501,1,P,AV,ti,pst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,1,sg,zero,act,sp,uniq,sap
+" Ta latŋe ojmatas,",502,0,A,AV,NoPtcl,pst,ind,none,pfv,I,abst,possnp,ref,sp,nuniq,nfam,,,,,,,
+ ta usas,503,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ Mutraŋ ekva aɧil akvan ta patsьɧ,504,0,A,V,ta,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,,,,,,,
+ An̩ ekvaьɧ ojkaьɧ man̩ pьɧriꞩ lavi:,505,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ - An̩ ti janьɧ on̩ɧum juntum hoŋhsa hurьɧ,506,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ aman Mutraŋ ekva kole aman ti hoŋhsa hurьɧ kivьrna at lapnuv?,507,,,,,,,,,,,,,,,,,,,,,,
+" Kona-kvals,",508,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ hoŋhsa hurɧe lévātas,509,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,act,sp,uniq,strg
+ i maɧьste,510,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ Lapьs,511,0,A,V,NoPtcl,pst,ind,none,pfv,I,sg,zero,top,sp,uniq,strg,,,,,,,
+" Ꞩamralaste,",512,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+ man̩salaste,513,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ pal̩tan ꞩepen maɧьste,514,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ Juv ta jomanti,515,0,A,V,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Akvaьɧ ta minas,516,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" Noŋh johtьs,",517,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ luve l̩uli,518,0,A,AV,NoPtcl,npst,ind,none,npfv,A,sg,possnp,fam,sp,uniq,strg,,,,,,,
+" Luve sisna tāluŋkve pats,",519,0,INF-A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" luven jol parmaptave,",520,1,P,AV,NoPtcl,npst,ind,none,npfv,A,sg,possnp,act,sp,uniq,strg,H,sg,zero,top,sp,uniq,strg
+ at taratave,521,X,P,V,NoPtcl,npst,ind,neg,npfv,,,,,,,,H,sg,zero,top,sp,uniq,strg
+ Ta vantahtuŋkve pats,522,0,INF-A,PV,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Apꞩite kolna ta johtьs,523,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" Juv ta ꞩaltьs,",524,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Apꞩite lavi:,525,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+ - Hotum ta jolsьn?,526,0,A,V,ta,pst,ind,quest,pfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+" - Ta jalasasum, lavi,",527,0,A,V,ta,pst,ind,none,pfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ Apꞩite nupьl lavi:,528,0,A,V,NoPtcl,npst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ Am lavi māmna minimen,529,0,A,V,NoPtcl,fut,hort,none,pfv,1,du,zero,act,sp,uniq,sap,,,,,,,
+ Apꞩite lavi:,530,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,possnp,act,sp,uniq,strg,,,,,,,
+" - Naŋ hotal̩ mineɧьn,",531,0,A,AxV,NoPtcl,fut,ind,none,pfv,2,sg,pron,act,sp,uniq,sap,,,,,,,
+ tuvle ta minimen,532,0,A,V,ta,fut,ind,none,npfv,1,du,zero,act,sp,uniq,sap,,,,,,,
+ Kon-kvaluŋkve patsьɧ,533,0,INF-A,PV,NoPtcl,pst,ind,none,pfv,H,du,zero,act,sp,uniq,strg,,,,,,,
+" Ekvaьɧojkaьɧ man̩ pьɧriꞩ tau kon- kvalas,",534,0,A,AV,NoPtcl,pst,ind,none,pfv,H,sg,pron,act,sp,uniq,strg,,,,,,,
+" - Aman ti sat nakl̩ulit kumьska kol, aman kotli on̩ɧum juntum hoŋhsa hurьɧ kivьrna aman at lapnuv",535,0,A,AxV,NoPtcl,fut,irr,quest,pfv,I,sg,demnp,act,sp,uniq,strg,,,,,,,
+ Maɧьste,536,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" Ꞩamralaste,",537,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ man̩salaste,538,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ Sepen maɧьste,539,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" Luve sisen talas,",540,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ ta minas,541,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Jaltaptam humite palt johtьs,542,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Juv ꞩaltьs,543,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+" - I, jatel jaɧpьɧ, ta johtasьh!",544,0,A,V,ta,pst,ind,none,pfv,2,sg,zero,act,sp,uniq,strg,,,,,,,
+" - A, lavi, manrьɧ at johteɧum",545,0,A,V,NoPtcl,npst,ind,quest,pfv,1,sg,zero,act,sp,uniq,sap,,,,,,,
+ Am molal ēt kotil jisaŋ naj ꞩan̩umna jor humьɧ lavvesum,546,1,P,AxPxV,NoPtcl,pst,ind,none,pfv,H,sg,possnp,uniq,sp,uniq,nfam,1,sg,pron,top,sp,uniq,sap
+ Ti ma tarmьl olne n̩an̩ pukitna am humle varavum,547,1,P,APxV,NoPtcl,npst,ind,quest,pfv,I,pl,barenp,typid ,nonsp,nuniq,nfam,1,sg,pron,top,sp,uniq,sap
+ Kona kvalas,548,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+" An̩ lavi man̩ on̩ɧum juntum hoŋhsa hurьɧ kivьrna, aman ti kol aman at lapnuv?",549,,,,,,,,,,,,,,,,,,,,,,
+" Ꞩepnьl kon levataste,",550,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" kol maɧьste,",551,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+ laps,552,0,A,V,NoPtcl,pst,ind,none,pfv,I,sg,zero,top,sp,uniq,strg,,,,,,,
+" Ꞩamralaste,",553,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ man̩salaste,554,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ Ꞩeppa maɧьste,555,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ Luve sisna talas,556,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Ta minmьɧtas,557,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Ta mini,558,0,A,V,ta,npst,ind,none,npfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Molal elal̩ miname porat hujam kolen johtьs,559,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Juv ꞩaltьs,560,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Ta hurip aɧi̊ unli,561,0,A,AV,NoPtcl,npst,ind,none,npfv,H,sg,barenp,ref,sp,nuniq,nfam,,,,,,,
+ Aɧi lavi:,562,0,A,AV,NoPtcl,npst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+" - Ekvaьɧ ojkaьɧ man̩ pьɧriꞩ, sōl̩ ta hum olmьn",563,0,A,V,NoPtcl,pst,evid,none,npfv,2,sg,zero,act,sp,uniq,sap,,,,,,,
+ Hum kon kvalas,564,0,A,AV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,,,,,,,
+ - Man̩ on̩ɧam juntum hoŋhsa hurьɧ kivьrna aman ti kol aman at lapnuv?,565,,,,,,,,,,,,,,,,,,,,,,
+" Kon levataste,",566,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,I,sg,zero,act,sp,uniq,strg
+" maɧьste,",567,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ lapьs,568,0,A,V,NoPtcl,pst,ind,none,pfv,I,sg,zero,top,sp,uniq,strg,,,,,,,
+" Ꞩamralaste,",569,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+" man̩salaste,",570,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ ꞩepna maɧьste,571,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ Ta mínmьɧtas,572,0,A,V,ta,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Aꞩaɧe ꞩan̩aɧe palt johtьs,573,0,A,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,,,,,,,
+ Aꞩaɧe ꞩan̩aɧe ta kem matumьɧ,574,0,A,AxV,NoPtcl,pst,evid,none,pfv,H,du,possnp,act,sp,uniq,strg,,,,,,,
+" Liliŋ vitьl ajtsaɧe,",575,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,du,zero,top,sp,uniq,strg
+" Man̩ıŋ jemtsaɧe,",576,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,du,zero,top,sp,uniq,strg
+" Itiɧ jemtьs,",577,0,A,V,NoPtcl,pst,ind,none,pfv,,,,,,,,,,,,,,
+ us kant kotlet jomьɧti,578,0,A,V,NoPtcl,npst,ind,none,npfv,H,sg,zero,act,sp,uniq,strg,,,,,,,
+ Artalas nila kol lapne janit mā,579,1,A,VP,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,ref,sp,nuniq,nfam
+ Hoŋhsa hurьɧ ꞩepnьl lévātas,580,1,A,PxV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,act,sp,uniq,strg
+" Kon almajaste,",581,1,AP,V,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,zero,top,sp,uniq,strg
+ kolьɧ jemtьs,582,0,A,V,NoPtcl,pst,ind,none,pfv,I,sg,zero,top,sp,uniq,strg,,,,,,,
+ Os mot hoŋhsa hurьɧ kivьrnьl kon levataste,583,1,AP,PxV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+ Kolьɧ jemtьs,584,0,A,V,NoPtcl,pst,ind,none,pfv,I,sg,zero,top,sp,uniq,strg,,,,,,,
+ Os motan levatas,585,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,demp,top,sp,uniq,strg
+" Os hoŋhsa hurьɧ kivьrnьl kol kon viste,",586,1,AP,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,barenp,top,sp,uniq,strg
+" kolьɧ jemtьs,",587,0,A,V,NoPtcl,pst,ind,none,pfv,I,sg,zero,top,sp,uniq,strg,,,,,,,
+" Os motan levatas,",588,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,demp,top,sp,uniq,strg
+ sat nak l̩ulit kumьska kole kon levatas,589,1,A,PV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,I,sg,possnp,top,sp,uniq,strg
+ Kolьɧ jemtьs,590,0,A,V,NoPtcl,pst,ind,none,pfv,I,sg,zero,top,sp,uniq,strg,,,,,,,
+ Holitanьɧ jemtьs,591,0,A,V,NoPtcl,pst,ind,none,pfv,,,,,,,,,,,,,,
+ Us taɧьl mire ta sat nak lulit kumьska kol nupьl tuvle kartmьt,592,0,A,AxV,NoPtcl,pst,evid,none,pfv,H,pl,possnp,ref,nonsp,nuniq,nfam,,,,,,,
+" luleɧt,",593,0,A,V,NoPtcl,npst,ind,none,npfv,H,pl,zero,act,sp,uniq,strg,,,,,,,
+ sunseɧt,594,0,A,V,NoPtcl,npst,ind,none,npfv,H,pl,zero,top,sp,uniq,strg,,,,,,,
+" Namьŋ sāt, suiŋ sat aman l̩ul̩sьt",595,0,A,AxV,NoPtcl,pst,ind,none,npfv,H,pl,barenp,top,sp,uniq,strg,,,,,,,
+" tuvle l̩al̩t, hontmanelt l̩uleɧt",596,0,A,V,NoPtcl,npst,ind,none,npfv,H,pl,zero,top,sp,uniq,strg,,,,,,,
+ Ekvaьɧ ojkaьɧ man̩ pьɧriꞩ paul tene janьɧ pūri ta vars,597,1,A,APV,ta,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,I,sg,barenp,ref,sp,nuniq,nfam
+ Sat nak l̩ulıt kumьska kolen us taɧьl mire tusьn tuv taltsane,598,1,AP,PxV,NoPtcl,pst,ind,none,pfv,H,sg,zero,top,sp,uniq,strg,H,pl,dpossnp,act,sp,uniq,strg
+ Pūri teŋkve ta patsьt,599,0,INF-A,PV,ta,pst,ind,none,pfv,H,pl,zero,top,sp,uniq,strg,,,,,,,
+" Ti aman hosa tesьt,",600,0,A,V,NoPtcl,pst,ind,none,npfv,H,pl,zero,top,sp,uniq,strg,,,,,,,
+" aman vati tesьt,",601,0,A,V,NoPtcl,pst,ind,none,npfv,H,pl,zero,top,sp,uniq,strg,,,,,,,
+ ti palite,602,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Ekvaьɧ ojkaьɧ man̩ pьɧriꞩ Mutraŋ ekva aɧi Lui hum pьɧna miste,603,1,AP,APxV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,act,sp,uniq,strg,H,sg,barenp,fam,sp,uniq,strg
+ Lui hum janьɧ aɧi (LHP eꞩe) Ekva Pьɧriꞩna miste,604,1,AP,PxV,NoPtcl,pst,ind,none,pfv,H,sg,zero,act,sp,uniq,strg,H,sg,barenp,uniq,sp,uniq,nfam
+ Lui hum pьɧ man̩ eꞩe Ekvaьɧ ojkaьɧ man̩ pьɧriꞩna neьɧ vajves,605,1,P,PAxV,NoPtcl,pst,ind,none,pfv,H,sg,barenp,top,sp,uniq,strg,H,sg,possnp,act,sp,uniq,strg
+" Ekvaьɧ ojkaьɧ man̩ pьɧ, Polum torum tā",606,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Lui hum pьɧ taj - Hul̩ otьr pьɧ,607,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ Mortim ekva kaltaꞩ ꞩan tā,608,,,,NoPtcl,,,none,,,,,,,,,,,,,,,
+ pes porat saka oꞩmarlas,609,0,A,V,NoPtcl,pst,ind,none,npfv,H,sg,zero,uniq,sp,uniq,w_glob,,,,,,,
